@@ -10,7 +10,7 @@ Para creare un post, lo puedes hacer directamente en Github o en tu computadora 
 
 1. Ve a la carpeta _posts
 2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`
-3. Escribe los metadatos en la parte superior (fíjate en uno de los ejemplos)
+3. Escribe los metadatos (front matter) en la parte superior -- fíjate en uno de los ejemplos o en [la documentación de Jekyll](https://jekyllrb.com/docs/front-matter/) para que sepas qué tipo de metadatos puedes asignar
 4. Escribe el contenido del post
 5. Abre un Pull Request apuntando a la rama main
 
@@ -18,7 +18,7 @@ Para creare un post, lo puedes hacer directamente en Github o en tu computadora 
 
 1. Ve a la carpeta _posts
 2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`
-3. Escribe los metadatos en la parte superior (fíjate en uno de los ejemplos)
+3. Escribe los metadatos (front matter) en la parte superior -- fíjate en uno de los ejemplos o en [la documentación de Jekyll](https://jekyllrb.com/docs/front-matter/) para que sepas qué tipo de metadatos puedes asignar
 4. Escribe el contenido del post
 5. Ejecuta `make serve` para levantar el servidor
 6. Abre el archivo `YYYY-MM-DD-titulo.markdown` en tu navegador
