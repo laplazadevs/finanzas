@@ -1,4 +1,31 @@
-# La Plaza Finanzas -- Jekyll + Docker
+# La Plaza Finanzas -- Blog con el conocimiento colectivo adquirido en el canal #finanzas
+
+## Cómo crear un post
+
+Dado que este blog fue creado usando [Jekyll](https://jekyllrb.com/), todos los comandos directamente especificados en su documentación son compatibles.
+
+Para creare un post, lo puedes hacer directamente en Github o en tu computadora local (revisar la sección "Si deseas correr este blog en tu computadora local")
+
+### En Github
+
+1. Ve a la carpeta _posts
+2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`
+3. Escribe los metadatos en la parte superior (fíjate en uno de los ejemplos)
+4. Escribe el contenido del post
+5. Abre un Pull Request apuntando a la rama main
+
+### En tu computadora local
+
+1. Ve a la carpeta _posts
+2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`
+3. Escribe los metadatos en la parte superior (fíjate en uno de los ejemplos)
+4. Escribe el contenido del post
+5. Ejecuta `make serve` para levantar el servidor
+6. Abre el archivo `YYYY-MM-DD-titulo.markdown` en tu navegador
+7. Escribe el contenido del post
+8. Abre un Pull Request apuntando a la rama main
+
+# Si deseas correr este blog en tu computadora local
 
 Este proyecto es un blog generado con Jekyll y corriendo dentro de un contenedor Docker.
 
