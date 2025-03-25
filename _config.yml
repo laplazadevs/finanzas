@@ -36,6 +36,7 @@ plugins:
 
 # Theme config
 search: true
+search_provider: algolia
 
 # Exclude from processing.
 # The following items will not be processed, by default.
