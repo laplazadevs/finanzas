@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "Profesionales Recomendados"
+title: "Profesionales recomendados"
+date: 2025-03-25 21:13:22
 ---
+
+# Profesionales recomendados
+
 <aside>
 🚨 No se tiene ninguna preferencia por los profesionales listados aquí. El orden es aleatorio
+
 </aside>
+
 # Contadores
 
 - **Nataly Carrillo: C**ontadora con experiencia RST. Su número es 3209466713.
