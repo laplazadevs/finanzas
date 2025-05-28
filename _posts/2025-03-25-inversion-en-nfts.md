@@ -15,7 +15,7 @@ date: 2025-03-25 21:13:20
 
 En general, necesitas un wallet para comprar. La más fácil de instalar es Metamask 
 
-[A crypto wallet & gateway to blockchain apps | MetaMask](https://metamask.io/)
+[A crypto wallet & gateway to blockchain apps - MetaMask](https://metamask.io/)
 
 ### Datos generales del mercado
 
@@ -35,7 +35,7 @@ Otras buenas herramientas
 
 DappRadar (Permite ver NFTs de distintas blockchain)
 
-[NFT (Non-Fungible Tokens) | DappRadar](https://dappradar.com/nft)
+[NFT (Non-Fungible Tokens) - DappRadar](https://dappradar.com/nft)
 
 Non Fungible
 
@@ -47,7 +47,7 @@ Hyperspace (Para NFTs en Solana)
 
 Flips Finance (Una de las mejores para ver floor prices)
 
-[NFT Rankings - Top Nft's Ranked By Volume, Sales, Floor Price & Listings | Flips](https://www.flips.finance/)
+[NFT Rankings - Top Nft's Ranked By Volume, Sales, Floor Price & Listings - Flips](https://www.flips.finance/)
 
 Wgmi (También para floor price)
 
@@ -59,7 +59,7 @@ Puedes a los grandes coleccionistas con estas herramientas, debes buscarlos prim
 
 [Moby - Real time NFT monitoring and insights](https://moby.gg/)
 
-[icy.tools | Track and discover trending NFTs with real-time insights](https://icy.tools/)
+[icy.tools - Track and discover trending NFTs with real-time insights](https://icy.tools/)
 
 Otra buena forma de encontrar proyectos es seguir a los influenciadores, en la parte de abajo encontrarás algunas personas.
 
@@ -113,7 +113,7 @@ El juego en este caso es buscar un NFT subvalorado y luego venderlo por el preci
 
 Otra técnica que utilizan algunos inversionista es hacer ofertas bajas esperando que alguna persona venda por cualquier razón. Aquí un video sobre esa técnica
 
-[He Made $100,000+ Flipping NFTs Using THIS Simple Strategy | Plug Pass Whitelist](https://www.youtube.com/watch?v=JR2oJoXUA8o)
+[He Made $100,000+ Flipping NFTs Using THIS Simple Strategy -  Plug Pass Whitelist](https://www.youtube.com/watch?v=JR2oJoXUA8o)
 
 ### Videos e Influenciadores
 
@@ -127,4 +127,4 @@ Giancarlo
 
 NFTVerse
 
-[How to Find NFT Projects EARLY for 10x PROFIT | Complete Guide](https://www.youtube.com/watch?v=FqUqe-xdEo0)
+[How to Find NFT Projects EARLY for 10x PROFIT - Complete Guide](https://www.youtube.com/watch?v=FqUqe-xdEo0)

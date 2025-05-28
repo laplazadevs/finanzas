@@ -18,4 +18,4 @@ Se puede conseguir en la página oficial de la IRS
 
 O bien acá
 
-[fw8ben.pdf](Formulario%20W-8BEN%20d6415e5281474326be57abe841c5cdd1/fw8ben.pdf)
+[fw8ben.pdf]({{ site.baseurl }}/assets/fw8ben.pdf)

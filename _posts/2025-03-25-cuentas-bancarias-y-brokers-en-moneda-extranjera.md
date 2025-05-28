@@ -82,9 +82,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Deposito Mínimo** | $5000 |
 | **Balance Mínimo** | $5000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $25 |
-| **Transferencias** | $20 Transferencia electrónica recibida
-$30 saliente hacia otros bancos
-$0 Transferencia hacia Bancolombia |
+| **Transferencias** | $20 Transferencia electrónica recibida <br/> $30 saliente hacia otros bancos <br/> $0 Transferencia hacia Bancolombia |
 | **Notas** | El proceso se inicia vía web: [https://vinculacionexterior.grupobancolombia.com](https://vinculacionexterior.grupobancolombia.com). Tarda entre 1 y 2 semanas en abrir. |
 | **Tarifario (2022)** | [https://panama.grupobancolombia.com/wps/wcm/connect/ff779521-9f16-4973-a0a3-958fe0db2c09/2022+Tarifario+Panama.pdf?MOD=AJPERES&CVID=nYEgf-i](https://panama.grupobancolombia.com/wps/wcm/connect/ff779521-9f16-4973-a0a3-958fe0db2c09/2022+Tarifario+Panama.pdf?MOD=AJPERES&CVID=nYEgf-i) |
 
@@ -97,9 +95,7 @@ $0 Transferencia hacia Bancolombia |
 | **Deposito Mínimo** | $5,000 |
 | **Balance Mínimo** | $1,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $5 |
-| **Transferencias** | $20 Transferencia electrónica recibida
-$25 Transferencia electrónica enviada
-$0 Transferencia hacia Davivienda |
+| **Transferencias** | $20 Transferencia electrónica recibida <br/> $25 Transferencia electrónica enviada <br/> $0 Transferencia hacia Davivienda |
 | **Tarifario (2022)** | [https://bienvenido.davivienda.com.pa/wps/wcm/connect/personasPA/5fcdc581-ddd1-4449-ba93-6e9824f85e95/Tarifario+Personas+y+Pymes+2022.pdf?MOD=AJPERES&CVID=o4lZGNC](https://bienvenido.davivienda.com.pa/wps/wcm/connect/personasPA/5fcdc581-ddd1-4449-ba93-6e9824f85e95/Tarifario+Personas+y+Pymes+2022.pdf?MOD=AJPERES&CVID=o4lZGNC) |
 
 [Experiencia Davivienda Panamá](/finanzas/2025/03/25/experiencia-davivienda-panama.html)
@@ -111,14 +107,8 @@ $0 Transferencia hacia Davivienda |
 | **Deposito Mínimo** | $20,000 |
 | **Balance Mínimo** | $5,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $35 |
-| **Transferencias** | $20 Transferencia electrónica recibida. 
-$30 Transferencia electrónica enviada.
-$5 Transferencia hacia Davivienda (Colombia, Panamá o USA)
-$0.5 Cobro por envió o recepción ACH (Mayor de $5.00).  |
-| **Notas** | Cobro de $250 por cierre de cuenta en menos de 6 meses. 
-Tarjeta de crédito con costo de $60 anual. 
-Los depósitos no están asegurados por el FDICl. 
-Cuenta con aplicación móvil y página web para la gestión.  |
+| **Transferencias** | $20 Transferencia electrónica recibida. <br/>$30 Transferencia electrónica enviada. <br/>$5 Transferencia hacia Davivienda (Colombia, Panamá o USA) <br/>$0.5 Cobro por envió o recepción ACH (Mayor de $5.00).  |
+| **Notas** | Cobro de $250 por cierre de cuenta en menos de 6 meses. <br/> Tarjeta de crédito con costo de $60 anual. <br/> Los depósitos no están asegurados por el FDICl. <br/> Cuenta con aplicación móvil y página web para la gestión.  |
 | **Tarifario (2022)** | [https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf](https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf) |
 
 [Experiencia Davivienda Miami](/finanzas/2025/03/25/experiencia-davivienda-miami.html)
@@ -130,10 +120,7 @@ Cuenta con aplicación móvil y página web para la gestión.  |
 | **Deposito Mínimo** | $5,000 |
 | **Balance Mínimo** | $10,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $25 |
-| **Transferencias** | $0 Transferencia electrónica recibida..
-$0 Transferencia electrónica enviada entre agencias y filiales BB.
-$25 Transferencia electrónica enviada.
-$2.9 Tracciones tarjeta débito. |
+| **Transferencias** | $0 Transferencia electrónica recibida.. <br/>$0 Transferencia electrónica enviada entre agencias y filiales BB. <br/> $25 Transferencia electrónica enviada. <br/>$2.9 Tracciones tarjeta débito. |
 | **Notas** | Cuenta sin movimiento (un año sin movimiento) USD 30 / mes. Solo puedes ser cliente de BanBogotá Internacional si has sido cliente de BanBogotá en Colombia durante más de 6 meses. |
 | **Tarifario (2022)** | [https://www.bancodebogotainternacional.com/bbi/es/formats/getfile/159?agencyId=6](https://www.bancodebogotainternacional.com/bbi/es/formats/getfile/159?agencyId=6) |
 
@@ -144,9 +131,7 @@ $2.9 Tracciones tarjeta débito. |
 | **Deposito Mínimo** | $5,000 |
 | **Balance Mínimo** | $5,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $100 |
-| **Transferencias** | $0 Transferencia electrónica recibida..
-$0 Transferencia electrónica enviada entre agencias y filiales.
-$25 Transferencia electrónica enviada. |
+| **Transferencias** | $0 Transferencia electrónica recibida.. <br/> $0 Transferencia electrónica enviada entre agencias y filiales. <br/>$25 Transferencia electrónica enviada. |
 | **Notas** | Permite la apertura de la cuenta en el exterior a través de un corresponsal. Se puede abrir en Panamá ya que en Miami es solo de inversión |
 | **Tarifario (2022)** | [https://www.itau.com.pa/itaupanama/docs/formularios/Tarifas_2022.pdf](https://www.itau.com.pa/itaupanama/docs/formularios/Tarifas_2022.pdf) |
 
@@ -157,12 +142,8 @@ $25 Transferencia electrónica enviada. |
 | **Deposito Mínimo** | $5,000 |
 | **Balance Mínimo** | $5,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $25 |
-| **Transferencias** | $0 Transferencia electrónica recibida..
-$0 Transferencia electrónica enviada entre agencias y filiales.
-$45 Transferencia electrónica enviada. |
-| **Notas** | Permite la apertura de la cuenta en el exterior a través de un corresponsal. Se puede abrir en Panamá. Ofrece cuentas corriente/ahorros/compensación y Money Market.
-
-Tarjeta de crédito mastercard platinum que exige un depósito a plazo por el 110% del cupo. Membresía: 150 usd + seguro: 7.75 + 0.6 por cada millar en saldo |
+| **Transferencias** | $0 Transferencia electrónica recibida.. <br/> $0 Transferencia electrónica enviada entre agencias y filiales. <br/>$45 Transferencia electrónica enviada. |
+| **Notas** | Permite la apertura de la cuenta en el exterior a través de un corresponsal. Se puede abrir en Panamá. Ofrece cuentas corriente/ahorros/compensación y Money Market. <br/>Tarjeta de crédito mastercard platinum que exige un depósito a plazo por el 110% del cupo. Membresía: 150 usd + seguro: 7.75 + 0.6 por cada millar en saldo |
 | **Tarifario (2022)** | [https://www.bancoccidente.com.pa/bancodeoccidente-panama/tarifas.pdf](https://www.bancoccidente.com.pa/bancodeoccidente-panama/tarifas.pdf) |
 
 ## Banco Helm
@@ -172,9 +153,7 @@ Tarjeta de crédito mastercard platinum que exige un depósito a plazo por el 11
 | **Deposito Mínimo** | $5,000 |
 | **Balance Mínimo** | $5,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $100 |
-| **Transferencias** | $0 Transferencia electrónica recibida..
-$0 Transferencia electrónica enviada entre agencias y filiales.
-$25 Transferencia electrónica enviada. |
+| **Transferencias** | $0 Transferencia electrónica recibida.. <br/>$0 Transferencia electrónica enviada entre agencias y filiales. <br/>$25 Transferencia electrónica enviada. |
 | **Notas** | Esto es para la cuenta de savings (solo acepta 6 transacciones al mes). Ya para la de Checkings exige 25.000 USD de apertura y saldo mínimo. [https://spanish.helmbankusa.com/banca-personal](https://spanish.helmbankusa.com/banca-personal) |
 
 ## Bancolombia Puerto Rico
@@ -308,15 +287,7 @@ los bancos panameños piden a los extranjeros mas de monto mínimo que los banco
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD / 500 USD (para no pagar cuota de manejo) |
 | **Cuota de manejo (debajo de balance mínimo)** | 3 USD mensual si se tiene saldo inferior a 500 USD o no se hacen operaciones durante 6 meses. |
-| **Transferencias** | Entrantes (Wire y ACH): 0 USD
-Salientes (Wire y ACH): 0 USD
-Salientes Same Day ACH: 2 USD
-Entrantes internacional Swift: 30 USD 
-Salientes internacional Swift: 32 USD (cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción)
-
-~~Puede recibir transferencias de crypto (ver coins disponibles). Transferencias vía cripto cobran 1% de comisión al vender y el spread en los precios de cripto es otro 1%, entonces es 2%~~
-
-Tiene un límite de máximo $15.000 dólares recibidos mensuales. Inicialmente el límite es menor pero se va incrementando cada mes. |
+| **Transferencias** | Entrantes (Wire y ACH): 0 USD <br/>Salientes (Wire y ACH): 0 USD <br/>Salientes Same Day ACH: 2 USD <br/>Entrantes internacional Swift: 30 USD  <br/> Salientes internacional Swift: 32 USD (cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción) <br/> ~~Puede recibir transferencias de crypto (ver coins disponibles). Transferencias vía cripto cobran 1% de comisión al vender y el spread en los precios de cripto es otro 1%, entonces es 2%~~ <br/>Tiene un límite de máximo $15.000 dólares recibidos mensuales. Inicialmente el límite es menor pero se va incrementando cada mes. |
 | **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD a través de Evolve Bank and Trust y Lineage Bank, ambas entidades FDIC-insured y basadas en Tennessee.  |
 |  |  |
 
@@ -334,11 +305,8 @@ Tiene un límite de máximo $15.000 dólares recibidos mensuales. Inicialmente e
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 25000 USD |
 | **Cuota de manejo** | 5 USD mensual |
-| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD
-Salientes domestica: 0 USD
-Salientes internacional Swift: 32 USD |
-| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD
-Aun en desarrollo. Hecho por Argentinos. Al parecer lo trabajan desde [https://www.thirstysprout.com/](https://www.thirstysprout.com/). Ofrecerán una tarjeta visa  |
+| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica: 0 USD <br/>Salientes internacional Swift: 32 USD |
+| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD <br/>Aun en desarrollo. Hecho por Argentinos. Al parecer lo trabajan desde [https://www.thirstysprout.com/](https://www.thirstysprout.com/). Ofrecerán una tarjeta visa  |
 
 ### Maza financial
 
@@ -347,8 +315,7 @@ Aun en desarrollo. Hecho por Argentinos. Al parecer lo trabajan desde [https://w
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 0 USD mensual |
-| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD
-Salientes domestica ACH: X USD |
+| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: X USD |
 | **Notas** | Se necesita pasaporte.  Se puede usar en conjunto con IBKR. |
 
 Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Permite recibir transferencias ACH y también a través de [PLAID](https://ayuda.withmaza.com/es/articles/6521012-como-puedo-transferir-dinero-de-otra-cuenta-bancaria-a-mi-cuenta-de-maza). Y quizás un factor importante es que tienes acceso a a Zelle, ChashApp y Venmo. Segun ellos dan el 1% de interés anual (no especifican si EA). Revisé quienes estan detrás de esta empresa y aparece el nombre de [Luciano Arango](https://seas.harvard.edu/news/2018/11/10-alumni-named-forbes-30-under-30), un Colombiano en USA.
@@ -360,9 +327,7 @@ Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Perm
 | **Deposito Mínimo** | 0 USD (deposito inicial de 20 USD) |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 0 USD mensual |
-| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD
-Salientes domestica ACH: 0.39 USD
-Salientes internacional Swift: X USD |
+| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: 0.39 USD <br/>Salientes internacional Swift: X USD |
 | **Notas** | Se necesita pasaporte. 20 dólares iniciales. Tiene bloqueados (agosto-2022) los envíos a Colombia. Se puede usar en conjunto con IBKR o TDBank para enviar dinero a Colombia (costo transferencia ACH: 0.39 USD). |
 
 [Experiencia con Wise](/finanzas/2025/03/25/experiencia-con-wise.html)
@@ -374,10 +339,7 @@ Salientes internacional Swift: X USD |
 | **Deposito Mínimo** | 0 USD (deposito inicial de 20 USD) |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 29.95 USD mensual (Si no se usa por 12 meses) |
-| **Transferencias** | Entrantes ACH: 1% del monto
-Salientes domestica ACH: 1.5 USD
-Salientes internacional Swift: 32 USD + 2% del monto
-Currency convertion: 3.5% OF AMOUNT TO TRANSFER |
+| **Transferencias** | Entrantes ACH: 1% del monto <br/> Salientes domestica ACH: 1.5 USD <br/>Salientes internacional Swift: 32 USD + 2% del monto <br/>Currency convertion: 3.5% OF AMOUNT TO TRANSFER |
 | **Notas** | La plataforma que suele ser muy popular para recibir pagos de freelancers. Se pueden hacer envios a cualquier cuenta en USA a través de ACH. Tiene una tarjeta debito Mastercard. |
 
 [Experiencia Payoneer](/finanzas/2025/03/25/experiencia-payoneer.html)
@@ -394,8 +356,7 @@ Currency convertion: 3.5% OF AMOUNT TO TRANSFER |
 | **Deposito Mínimo** | 0 USD (deposito inicial de 20 USD) |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | X USD mensual (Si no se usa por 12 meses) |
-| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD
-Salientes domestica ACH: 0 USD |
+| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: 0 USD |
 | **Notas** | La plataforma que suele ser muy popular para recibir pagos de freelancers. Se pueden hacer envíos a cualquier cuenta en USA a través de ACH. En tu cartera con ePayService 3% + 50 USD. Retiradas 1% + 40 EUR |
 
 ### Skrill
@@ -407,8 +368,7 @@ Otra plataforma popular para recibir pagos de freelancers.
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 5 EUR mensual (Si no se usa por 6 meses) |
-| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD
-Salientes domestica ACH: 0 USD |
+| **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: 0 USD |
 | **Notas** | La plataforma que suele ser muy popular para recibir pagos de freelancers. Se pueden hacer envíos a cualquier cuenta en USA a través de ACH. |
 
 ## ~~Sammy~~
@@ -452,13 +412,7 @@ Cuenta en Panamá
 | **Balance Mínimo** | 500 USD (Máximo $1500) |
 | **Cuota de manejo** | $32.10 |
 | **Transferencias** | $3.29 cuesta esa transferencia (0.39 + 2.9 por ser SWIFT). La tarifa por recibir es $30 + impuestos, es decir $32.10. |
-| **Notas** | Seguro Fraude $5USD 
-
-Es un poco difícil realizar el proceso de onboarding porque falla mucho la app. Requiere pasaporte vigente
-
-Tienen tarjeta Visa Débito Platinum.Retiro en cajeros en el exterior 3.21%
-
-Interés saldo de la cuenta 0.1% |
+| **Notas** | Seguro Fraude $5USD  <br/>Es un poco difícil realizar el proceso de onboarding porque falla mucho la app. Requiere pasaporte vigente<br/> Tienen tarjeta Visa Débito Platinum.Retiro en cajeros en el exterior 3.21%<br/>Interés saldo de la cuenta 0.1% |
 
 ## Wallbit
 
@@ -477,10 +431,7 @@ Recientemente fue añadido a Y combinator (Y23) [https://www.ycombinator.com/com
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | $0 |
 | **Transferencias** | $0 |
-| **Notas** | Recibes USD en Wallbit Pay, conviertes a una stablecoin y retiras a tu moneda local.
-
-Comprar cryptos con tus USD tiene un fee de 1%.
-Retirar USD tiene un fee de 1% |
+| **Notas** | Recibes USD en Wallbit Pay, conviertes a una stablecoin y retiras a tu moneda local <br/>Comprar cryptos con tus USD tiene un fee de 1%. <br/>Retirar USD tiene un fee de 1% |
 
 Ver tarifas [https://help.wallbit.io/es/articles/6376452-comisiones-y-limites-wallbit-pay](https://help.wallbit.io/es/articles/6376452-comisiones-y-limites-wallbit-pay)
 
@@ -499,9 +450,7 @@ Aplicación Peruana. Te da una dirección ACH en USA para recibir dinero. Puedes
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | $0 |
 | **Transferencias** | $0 |
-| **Notas** | - El tiempo para que tus fondos estén disponibles puede tomar de 1 a 5 días hábiles dependiendo del método de pago seleccionado.
-- Transferencia entre billeteras Traund inmediatas y gratuitas.
-- El retiro de fondos de tu wallet se realiza directamente a tu cuenta de banco en la moneda local de tu país |
+| **Notas** | - El tiempo para que tus fondos estén disponibles puede tomar de 1 a 5 días hábiles dependiendo del método de pago seleccionado. <br/>- Transferencia entre billeteras Traund inmediatas y gratuitas. <br/>- El retiro de fondos de tu wallet se realiza directamente a tu cuenta de banco en la moneda local de tu país |
 
 ## Grabrfi
 
@@ -514,14 +463,8 @@ La tarjeta tiene tiene 3d secure pero no están emitiendo tarjetas (mayo 2023)
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | $0 |
-| **Transferencias** | Same Day ACH = U$1 per transaction
-Domestic Incoming wire = U$5
-Domestic Outgoing wire = U$15
-International Incoming wire = U$40
-International Outgoing wire = U$45 |
-| **Notas** | Usa el software bancario Synapse, el mismo que usa Utoppia.
-
-Ofrece una tarjeta débito Mastercard **física** y virtual que puede ser asociada con Apple Pay y Google Pay. No tiene cobros por transacciones internacionales. |
+| **Transferencias** | Same Day ACH = U$1 per transaction <br/>Domestic Incoming wire = U$5 <br/>Domestic Outgoing wire = U$15 <br/>International Incoming wire = U$40 <br/>International Outgoing wire = U$45 |
+| **Notas** | Usa el software bancario Synapse, el mismo que usa Utoppia. <br/>Ofrece una tarjeta débito Mastercard **física** y virtual que puede ser asociada con Apple Pay y Google Pay. No tiene cobros por transacciones internacionales. |
 
 ## Paxum
 
@@ -568,8 +511,9 @@ Te da una dirección ACH en USA para recibir y enviar dinero, con un costo fijo 
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | $0 |
 | **Transferencias** | $3 USD |
-| **Notas** | - El retiro de fondos de tu wallet se realiza directamente a tu cuenta de banco en la moneda local de tu país en minutos.
-- Ofrecen una tarjeta física |
+| **Notas** | El retiro de fondos de tu wallet se realiza directamente a tu cuenta de banco en la moneda local de tu país en minutos. |
+
+- Ofrecen una tarjeta física
 - Usa el mismo banco que Utoppia (Synapse)
 - Converte tus dolares en dolares digitales USDC
 - Ofrece una tarjeta de debito física. hace poco cobraban 1 USDC por sacarla
