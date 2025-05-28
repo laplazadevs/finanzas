@@ -5,7 +5,7 @@ on:
     branches:
       - main 
     paths:
-      - '_posts/**/*.md' # Target your Jekyll post Markdown files
+      - '_posts/**/*.md'
 
 jobs:
   lint_markdown_and_prose:
