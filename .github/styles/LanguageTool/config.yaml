@@ -1,0 +1,11 @@
+## TODO: Add rules
+
+# Example: Disable a specific LanguageTool rule (you'd find the rule ID from LT's output)
+# Ignore:
+#   - LANGUAGE_TOOL_RULE_ID_HERE # e.g., "MORFOLOGÍA_DEMO_RULE"
+
+# Add custom vocabulary for Spanish
+# This is crucial for avoiding false positives on project-specific terms.
+# Word:
+#   - palabra_tecnica_1
+#   - palabra_propia_2
