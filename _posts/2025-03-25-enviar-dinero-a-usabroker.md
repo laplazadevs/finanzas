@@ -57,7 +57,7 @@ Por lo tanto, la más recomendada es ACH.
 
 Pasos para enviar dólares a un broker desde bancolombia. En la [página oficial de Bancolombia](https://www.bancolombia.com/empresas/productos-servicios/operaciones-moneda-extranjera/bancolombia/inversiones-internacionales), visitar la sección de **envío de divisas por inversión colombiana en el exterior** y descargar el archivo de Excel [solicitud para envío y recepción de divisas](https://www.grupobancolombia.com/wps/wcm/connect/7d35b7a0-06ac-4e85-b72a-69062575c8c8/-SolicitudEnvíoyRecepciónDivisasBancolombia2019+v1+%281%29.xlsm?MOD=AJPERES&CVID=ntOEBi2) y llenarlo con la siguiente información:
 
-![Bancolombia Form]({{ site.baseurl }}/assets/images/bancolombia-form.png)
+![Bancolombia Form]({{ site.baseurl }}/assets/images/bancolombia-intl-investments.png)
 
 1. Descargar formulario y llenarlo [https://www.grupobancolombia.com/wps/portal/empresas/productos-servicios/operaciones-moneda-extranjera/bancolombia/inversiones-internacionales](https://www.grupobancolombia.com/wps/portal/empresas/productos-servicios/operaciones-moneda-extranjera/bancolombia/inversiones-internacionales)
 2. Con formulario en mano y datos del envío, Llamar a Comercio internacional bancolombia 2518188 opción 2
@@ -73,7 +73,27 @@ broker y el monto de la misma. **(Pueden encontrar un ejemplo más abajo)**
 
 Enviar los documentos de soporte debidamente diligenciados a la dirección: [divisas@bancolombia.com.co](mailto:divisas@bancolombia.com.co) 📩
 
-![Bancolombia International Transfer]({{ site.baseurl }}/assets/images/bancolombia-international-transfer.png)
+```
+Medellín, XX de MES de 2022
+
+Señores
+
+Grupo Bancolombia
+
+Cra. 48 # 26-85
+
+Medellín, Antioquia
+
+E.        S.         D.
+
+Asunto: información requerida para la información
+
+<Nombre>, identificado con la cédula de ciudadanía número <XXX.XXX.XXX> de <CIUDAD>, domiciliado en la ciudad de <CIUDAD>, <DEPARTAMENTO>, les informo que la operación <NÚMERO OPERACIÓN> tiene como destino la inversión en opciones a través del broker Interactive Brokers, el cuál está domiciliado en Estados Unidos, y el monto de la inversión será de <MONTO>.
+
+Muchas gracias por su tiempo.
+
+Respetuosamente,
+```
 
 ### Notas
 
@@ -185,12 +205,12 @@ Asegúrese de seleccionar como moneda **Dólares Estadounidenses USD** y darle c
 
 En la siguiente pantalla, en los campos de Sending Institution ingresamos "Davivienda Panamá" y el número de la cuenta desde la que vamos a enviar el dinero. Es decir, el número de su cuenta en Davivienda Panamá.
 
-![IBKR Account Details]({{ site.baseurl }}/assets/images/ibkr-account-details.png)
+![IBKR Account Details]({{ site.baseurl }}/assets/images/davivienda-intl-form.png)
 
 Una vez diligenciada esta forma, obtenemos toda la información de Interactive Broker para iniciar el giro **desde Davivienda Panamá**. Se ve más o menos así y es la plantilla que utilizamos para ingresar 
 todos campos importantes desde el portal de Davivienda Panamá:
 
-![IBKR Transfer Template]({{ site.baseurl }}/assets/images/ibkr-transfer-template.png)
+![IBKR Transfer Template]({{ site.baseurl }}/assets/images/davivienda-intl-info.png)
 
 **Iniciar Transferencia desde Davivienda Panamá**
 
@@ -204,10 +224,10 @@ En los detalles de la transferencia es **muy importante** entrar el número de l
 
 En la siguiente pantalla: **Datos del beneficiario** ingresamos la dirección y cuenta que nos dió Interactive Brokers
 
-![Davivienda Panama Bank Details]({{ site.baseurl }}/assets/images/davivienda-panama-bank-details.png)
+![Davivienda Panama Bank Details]({{ site.baseurl }}/assets/images/davivienda-intl-details-1.png)
 
 En **Datos del banco beneficiario** ingresamos el código SWIFT o routing number que nos dió Interactive Brokers:
 
-![davi-pana-3]({{ site.baseurl }}/assets/images/davi-pana-3.png)
+![davi-pana-3]({{ site.baseurl }}/assets/images/davivienda-intl-details-2.png)
 
 En las últimas pantallas verificamos todos los datos, y si todo está bien iniciamos la transferencia después de recibir un texto con un código (2FA). A partir de este momento, esperamos un par de días para que la transferencia esté disponible en la cuenta de Interactive Brokers.

@@ -12,7 +12,7 @@ date: 2025-03-25 21:13:24
 
 # Agentes aduaneros
 
-[Profesionales recomendados](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/profesionales-recomendados.html)
+[Profesionales recomendados](/finanzas/2025/03/25/profesionales-recomendados.html)
 
 # Lista de casilleros
 

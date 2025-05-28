@@ -26,6 +26,7 @@ You will usually be offered the opportunity to be charged in either Colombian pe
 | Davidienda | 400,000 | ZERO Fees* |
 | Pichincha | 800,000 | ZERO Fees**** |
 | Servibanca | 780,000 | 14,500 COP |
+
 - 23 Jul 2019 – Davivienda doesn’t charge a fee, but for some reason, they use a terrible exchange rate. Under 3,000 COP per USD when the mid-market rate is 3,200 and all the currency exchange windows offer 3,000.
 - * 23 Jul 2019 – BBVA only dispenses 50k bills, even for a 100k withdrawal.
 - ** 23 Jul 2019 – Colpatria – first 100K is dispensed in 20k bills. The current maximums for Colpatria are 900k per transaction and 2.7M per day.

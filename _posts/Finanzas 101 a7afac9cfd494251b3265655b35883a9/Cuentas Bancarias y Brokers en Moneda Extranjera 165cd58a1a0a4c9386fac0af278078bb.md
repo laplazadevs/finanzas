@@ -18,7 +18,7 @@ Es posible tener dinero en brokers aunque a veces suelen exigir el uso de sus se
 
 ## IBKR
 
-| **Información** | [https://www.interactivebrokers.com/en/home.php](https://www.interactivebrokers.com/en/home.php) |
+| **Información** | test |
 | --- | --- |
 | **Deposito Mínimo** | $0 |
 | **Balance Mínimo** | $0 |
