@@ -20,7 +20,7 @@ jobs:
           echo "${HOME}/bin" >> $GITHUB_PATH
 
       - name: Run Vale for Spanish grammar and style
-        run: vale --no-exit -S .github/styles --glob='*.md' _posts/
+        run: vale --no-exit -S .github/styles --glob='_posts/**/*.md' _posts/
 
       - name: Report Vale findings with reviewdog
         uses: reviewdog/action-vale@v2
