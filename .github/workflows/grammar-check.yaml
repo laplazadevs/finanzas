@@ -1,0 +1,32 @@
+name: Grammar and Prose Check
+
+on:
+  pull_request:
+    branches:
+      - main 
+    paths:
+      - '_posts/**/*.md'
+
+jobs:
+  lint_markdown_and_prose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Vale
+        run: |
+          curl -sfL https://install.goreleaser.com/github.com/errata-ai/vale.sh | sh -s -- -b "${HOME}/bin" v3.1.0
+          echo "${HOME}/bin" >> $GITHUB_PATH
+
+      - name: Run Vale for Spanish grammar and style
+        run: vale --no-exit -S .github/styles --glob='_posts/**/*.md' _posts/
+
+      - name: Report Vale findings with reviewdog
+        uses: reviewdog/action-vale@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          level: warning 
+          reporter: github-pr-review
+
+ 
