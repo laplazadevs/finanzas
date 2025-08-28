@@ -1,7 +1,7 @@
 # La Plaza Finanzas -- Blog con el conocimiento colectivo adquirido en el canal #finanzas
 
 ## Link del sitio web
-(https://laplazadevs.github.io/finanzas/)
+(https://finanzas.lplz.dev/)
 
 ## Cómo crear un post
 
@@ -9,7 +9,7 @@ Dado que este blog fue creado usando [Jekyll](https://jekyllrb.com/), todos los 
 
 Para creare un post, lo puedes hacer directamente en Github o en tu computadora local (revisar la sección "Si deseas correr este blog en tu computadora local")
 
-### En Github
+### En GitHub
 
 1. Ve a la carpeta _posts
 2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`
