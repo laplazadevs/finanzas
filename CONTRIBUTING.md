@@ -6,7 +6,7 @@
 
 La Plaza Finanzas es un repositorio de conocimiento financiero enfocado en el contexto colombiano. Aquí documentamos experiencias, guías, y recursos útiles para ayudar a la comunidad a tomar mejores decisiones financieras.
 
-**Sitio web:** [https://laplazadevs.github.io/finanzas](https://finanzas.lplz.dev)
+**Sitio web:** [https://finanzas.lplz.dev](https://finanzas.lplz.dev)
 
 ## 🤝 Tipos de Contribuciones Bienvenidas
 
