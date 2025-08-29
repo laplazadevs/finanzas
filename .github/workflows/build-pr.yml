@@ -1,0 +1,50 @@
+name: Build Jekyll site on PR
+
+on:
+  pull_request:
+    branches: [ main ]
+    types: [ opened ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v5.0.0
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1.256.0
+      with:
+        ruby-version: '3.4.5'
+        bundler-cache: true
+
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
+      env:
+        JEKYLL_ENV: production
+        
+    - name: Check build artifacts
+      run: |
+        if [ ! -d "_site" ]; then
+          echo "❌ Build failed: _site directory not found"
+          exit 1
+        fi
+        
+        if [ ! -f "_site/index.html" ]; then
+          echo "❌ Build failed: index.html not found in _site"
+          exit 1
+        fi
+        
+        echo "✅ Build successful: Jekyll site generated"
+        echo "📊 Site statistics:"
+        echo "- HTML files: $(find _site -name "*.html" | wc -l)"
+        echo "- Total files: $(find _site -type f | wc -l)"
+        echo "- Site size: $(du -sh _site | cut -f1)"
+        
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4.6.2
+      with:
+        name: jekyll-site
+        path: _site/
+        retention-days: 7

@@ -7,30 +7,30 @@
 
 Dado que este blog fue creado usando [Jekyll](https://jekyllrb.com/), todos los comandos directamente especificados en su documentación son compatibles.
 
-Para creare un post, lo puedes hacer directamente en Github o en tu computadora local (revisar la sección "Si deseas correr este blog en tu computadora local")
+Para crear un post, lo puedes hacer directamente en GitHub o en tu computadora local (revisar la sección "Si deseas correr este blog en tu computadora local").
 
 ### En GitHub
 
-1. Ve a la carpeta _posts
-2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`
-3. Escribe los metadatos (front matter) en la parte superior -- fíjate en uno de los ejemplos o en [la documentación de Jekyll](https://jekyllrb.com/docs/front-matter/) para que sepas qué tipo de metadatos puedes asignar
-4. Escribe el contenido del post
-5. Abre un Pull Request apuntando a la rama main
+1. Ve a la carpeta _posts.
+2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`.
+3. Escribe los metadatos (front matter) en la parte superior -- fíjate en uno de los ejemplos o en [la documentación de Jekyll](https://jekyllrb.com/docs/front-matter/) para que sepas qué tipo de metadatos puedes asignar.
+4. Escribe el contenido del post.
+5. Abre un Pull Request apuntando a la rama main.
 
 ### En tu computadora local
 
-1. Ve a la carpeta _posts
-2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`
-3. Escribe los metadatos (front matter) en la parte superior -- fíjate en uno de los ejemplos o en [la documentación de Jekyll](https://jekyllrb.com/docs/front-matter/) para que sepas qué tipo de metadatos puedes asignar
-4. Escribe el contenido del post
-5. Ejecuta `make serve` para levantar el servidor
-6. Abre el archivo `YYYY-MM-DD-titulo.markdown` en tu navegador
-7. Escribe el contenido del post
-8. Abre un Pull Request apuntando a la rama main
+1. Ve a la carpeta _posts.
+2. Crea un nuevo archivo con el nombre `YYYY-MM-DD-titulo.markdown`.
+3. Escribe los metadatos (front matter) en la parte superior -- fíjate en uno de los ejemplos o en [la documentación de Jekyll](https://jekyllrb.com/docs/front-matter/) para que sepas qué tipo de metadatos puedes asignar.
+4. Escribe el contenido del post.
+5. Ejecuta `make serve` para levantar el servidor.
+6. Abre el archivo `YYYY-MM-DD-titulo.markdown` en tu navegador.
+7. Escribe el contenido del post.
+8. Abre un Pull Request apuntando a la rama main.
 
 # Si deseas correr este blog en tu computadora local
 
-Este proyecto es un blog generado con Jekyll y corriendo dentro de un contenedor Docker.
+Este proyecto es un blog generado con Jekyll y corriendo dentro de un contenedor de Docker.
 
 ## Requisitos
 
@@ -51,7 +51,7 @@ o
 docker run --rm --platform linux/amd64 -v "$(pwd)":/srv/jekyll -w /srv/jekyll jekyll/jekyll bundle install
 ```
 
-Este comando ejecuta bundle install dentro de un contenedor Docker.
+Este comando ejecuta bundle install dentro de un contenedor de Docker.
 
 ## Levantar el servidor
 
