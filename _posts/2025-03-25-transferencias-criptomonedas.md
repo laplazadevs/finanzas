@@ -24,7 +24,7 @@ Exchange latinoamericano que opera en Colombia, Chile, Perú y Argentina.
 
 ## Binance
 
-Puedes usar Binance P2P: Comprar USDC/USDT utilizando cualquier medio de pago y luego vender esos  USDC/USDT a dólares y que la persona te consigne donde necesitas.
+Puedes usar Binance P2P: Comprar USDC/USDT utilizando cualquier medio de pago y luego vender esos USDC/USDT a dólares y que la persona te consigne donde necesitas.
 
 ## KuCoin
 

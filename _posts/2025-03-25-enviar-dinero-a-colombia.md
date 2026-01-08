@@ -55,7 +55,7 @@ Se crea la cuenta con los datos bancarios de Colombia o bien en USA y luego se e
 - Solo permite enviar a Cuenta Bancaria, Payoneer o wallet de alguna Crypto exchange (depende de la red/protocolo)
 - El valor de la comisión de envío a Banco colombiano es de 1.6USD + 0.4%
 - El valor de envío a Payoneer es de 1USD + 0.5%
-- Cuando envías a Cuenta bancaria colombiana, lo hace en COP (horrible!) y entonces toma la TRM menos "X" cops, entonces ahí pierdes unas decenas de pesos por dolar. Por ejemplo  en estos momentos la TRM para mañana la apertura es de $3.914 COP, y el valor con el cual hacen el cambio en OnTop en este momento es de $3.833, una diferencia de 80+ COP por dolar.
+- Cuando envías a Cuenta bancaria colombiana, lo hace en COP (horrible!) y entonces toma la TRM menos "X" cops, entonces ahí pierdes unas decenas de pesos por dolar. Por ejemplo en estos momentos la TRM para mañana la apertura es de $3.914 COP, y el valor con el cual hacen el cambio en OnTop en este momento es de $3.833, una diferencia de 80+ COP por dolar.
 - Tiempo de llegada del dinero al banco 2 días hábiles.
 - No hay forma de configurar otro envío diferente (ni que sea en USD directamente) cuando es envío a banco colombiano.
 - Tiempo de llegada del dinero a Payoneer es 1 día hábil (se transfieren dólares y se reciben dólares).

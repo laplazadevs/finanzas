@@ -81,7 +81,7 @@ Cra. 48 # 26-85
 
 Medellín, Antioquia
 
-E.        S.         D.
+E. S. D.
 
 Asunto: información requerida para la información
 
@@ -124,7 +124,7 @@ Opciones de comisión:
 
 a. 27 dólares más IVA (pero la entidad que recibe puede cobrar hasta dos comisiones o no)
 
-b. 29 más IVA  (pero la entidad que recibe puede cobrar hasta una comisión adicional) Update 26 sept 2024, cambió de 32 a 29.
+b. 29 más IVA (pero la entidad que recibe puede cobrar hasta una comisión adicional) Update 26 sept 2024, cambió de 32 a 29.
 
 c. 55 dólares (Se incluyen ya las posibles comisiones que puede cobrar la entidad que recibe)
 
@@ -140,7 +140,7 @@ Desde Bancolombia Panama se puede enviar a IBKR por la sucursal virtual, sin lle
 
 Entrar a la pagina de Scotiabank sin iniciar sesión, en el menú superior elegir *Servicios* y dar click en *Giros Internacionales*, luego van a cargar una nueva pagina, buscar el item que dice *Realiza Giros Internacionales* y dar clic en la flecha. Otra pagina va a cargar, ir hasta la parte de abajo y dar click en *Continuar*.
 
-Una pagina nueva con un formulario se va a cargar donde se llena con los datos personales y solo tener en cuenta 3 campos: *Tipo de operación* seleccionar "Enviar giro al exterior", *Concepto* seleccionar "F4 Inversiones Internacionales" y en *Detalle de la transacción*  poner los datos del banco de TD Ameritrade o Interactive Brokers para hacer Giros desde afuera de los estados unidos, estos datos suelen estar en las secciones de *Deposits* de cada Broker.
+Una pagina nueva con un formulario se va a cargar donde se llena con los datos personales y solo tener en cuenta 3 campos: *Tipo de operación* seleccionar "Enviar giro al exterior", *Concepto* seleccionar "F4 Inversiones Internacionales" y en *Detalle de la transacción* poner los datos del banco de TD Ameritrade o Interactive Brokers para hacer Giros desde afuera de los estados unidos, estos datos suelen estar en las secciones de *Deposits* de cada Broker.
 
 Luego al correo va a llegar una confirmación de la solicitud y le van a pedir que llene un formulario de forma digital que es conocido como el `Formulario 4` acompañado de otro llamado `solicitud de Giro Directo`.
 

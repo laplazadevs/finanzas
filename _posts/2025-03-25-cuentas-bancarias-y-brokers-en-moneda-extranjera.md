@@ -24,7 +24,7 @@ Es posible tener dinero en brokers aunque a veces suelen exigir el uso de sus se
 | **Balance Mínimo** | $0 |
 | **Cuota de manejo (debajo de balance mínimo)** | $0 |
 | **Transferencias** | $0 Transferencia electrónica recibida
-$10 USD  Transferencia electrónica enviada (Puede ser internacional. La primera transferencia mensual cuesta $0 USD) |
+$10 USD Transferencia electrónica enviada (Puede ser internacional. La primera transferencia mensual cuesta $0 USD) |
 
 [Experiencia IBKR]({% post_url 2025-03-25-experiencia-ibkr %})
 
@@ -54,7 +54,7 @@ No disponible para Colombia.
 
 # Bancos con origen Colombianos
 
-> 🚨  Ninguna de las cuentas con las filiales internacionales cuenta con seguros de depósitos.
+> 🚨 Ninguna de las cuentas con las filiales internacionales cuenta con seguros de depósitos.
 
 Cuentas que puedes abrir desde Colombia. Tienen como beneficio o ventaja que puede mantener y ahorrar en dólares para no tener que cambiarlo todo a pesos. Ademas las transferencias entre bancos del mismo grupo (ej. Bancolombia Panama a Bancolombia) son gratuitas.
 
@@ -98,8 +98,8 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Deposito Mínimo** | $20,000 |
 | **Balance Mínimo** | $5,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $35 |
-| **Transferencias** | $20 Transferencia electrónica recibida. <br/>$30 Transferencia electrónica enviada. <br/>$5 Transferencia hacia Davivienda (Colombia, Panamá o USA) <br/>$0.5 Cobro por envió o recepción ACH (Mayor de $5.00).  |
-| **Notas** | Cobro de $250 por cierre de cuenta en menos de 6 meses. <br/> Tarjeta de crédito con costo de $60 anual. <br/> Los depósitos no están asegurados por el FDICl. <br/> Cuenta con aplicación móvil y página web para la gestión.  |
+| **Transferencias** | $20 Transferencia electrónica recibida. <br/>$30 Transferencia electrónica enviada. <br/>$5 Transferencia hacia Davivienda (Colombia, Panamá o USA) <br/>$0.5 Cobro por envió o recepción ACH (Mayor de $5.00). |
+| **Notas** | Cobro de $250 por cierre de cuenta en menos de 6 meses. <br/> Tarjeta de crédito con costo de $60 anual. <br/> Los depósitos no están asegurados por el FDICl. <br/> Cuenta con aplicación móvil y página web para la gestión. |
 | **Tarifario (2022)** | [https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf](https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf) |
 
 [Experiencia Davivienda Miami]({% post_url 2025-03-25-experiencia-davivienda-miami %})
@@ -163,7 +163,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | --- | --- |
 | **Deposito Mínimo** | 5,000 USD (no son estrictos, no necesariamente se tiene que tener los 5k para abrir) |
 | **Balance Mínimo** | 10,000 USD (no es necesario mantenerlo) |
-| **Cuota de manejo**  | 15 USD **(debajo de balance mínimo)** |
+| **Cuota de manejo** | 15 USD **(debajo de balance mínimo)** |
 | **Transferencias** | entrante 0 USD / saliente domestica: 25 USD / saliente internacional: 50 USD |
 | **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD. Puede ser usado para Zelle |
 
@@ -269,9 +269,9 @@ los bancos panameños piden a los extranjeros más de monto mínimo que los banc
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD / 500 USD (para no pagar cuota de manejo) |
 | **Cuota de manejo (debajo de balance mínimo)** | 3 USD mensual si se tiene saldo inferior a 500 USD o no se hacen operaciones durante 6 meses. |
-| **Transferencias** | Entrantes (Wire y ACH): 0 USD <br/>Salientes (Wire y ACH): 0 USD <br/>Salientes Same Day ACH: 2 USD <br/>Entrantes internacional Swift: 30 USD  <br/> Salientes internacional Swift: 32 USD (cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción) <br/> ~~Puede recibir transferencias de crypto (ver coins disponibles). Transferencias vía cripto cobran 1% de comisión al vender y el spread en los precios de cripto es otro 1%, entonces es 2%~~ <br/>Tiene un límite de máximo $15.000 dólares recibidos mensuales. Inicialmente el límite es menor pero se va incrementando cada mes. |
-| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD a través de Evolve Bank and Trust y Lineage Bank, ambas entidades FDIC-insured y basadas en Tennessee.  |
-|  |  |
+| **Transferencias** | Entrantes (Wire y ACH): 0 USD <br/>Salientes (Wire y ACH): 0 USD <br/>Salientes Same Day ACH: 2 USD <br/>Entrantes internacional Swift: 30 USD <br/> Salientes internacional Swift: 32 USD (cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción) <br/> ~~Puede recibir transferencias de crypto (ver coins disponibles). Transferencias vía cripto cobran 1% de comisión al vender y el spread en los precios de cripto es otro 1%, entonces es 2%~~ <br/>Tiene un límite de máximo $15.000 dólares recibidos mensuales. Inicialmente el límite es menor pero se va incrementando cada mes. |
+| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD a través de Evolve Bank and Trust y Lineage Bank, ambas entidades FDIC-insured y basadas en Tennessee. |
+| | |
 
 [Experiencia Utoppia]({% post_url 2025-03-25-experiencia-utoppia %})
 
@@ -285,7 +285,7 @@ los bancos panameños piden a los extranjeros más de monto mínimo que los banc
 | **Balance Mínimo** | 25000 USD |
 | **Cuota de manejo** | 5 USD mensual |
 | **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica: 0 USD <br/>Salientes internacional Swift: 32 USD |
-| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD <br/>Aun en desarrollo. Hecho por Argentinos. Al parecer lo trabajan desde [https://www.thirstysprout.com/](https://www.thirstysprout.com/). Ofrecerán una tarjeta visa  |
+| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD <br/>Aun en desarrollo. Hecho por Argentinos. Al parecer lo trabajan desde [https://www.thirstysprout.com/](https://www.thirstysprout.com/). Ofrecerán una tarjeta visa |
 
 ### Maza financial
 
@@ -295,7 +295,7 @@ los bancos panameños piden a los extranjeros más de monto mínimo que los banc
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 0 USD mensual |
 | **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: X USD |
-| **Notas** | Se necesita pasaporte.  Se puede usar en conjunto con IBKR. |
+| **Notas** | Se necesita pasaporte. Se puede usar en conjunto con IBKR. |
 
 Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Permite recibir transferencias ACH y también a través de [PLAID](https://ayuda.withmaza.com/es/articles/6521012-como-puedo-transferir-dinero-de-otra-cuenta-bancaria-a-mi-cuenta-de-maza). Y quizás un factor importante es que tienes acceso a a Zelle, ChashApp y Venmo. Segun ellos dan el 1% de interés anual (no especifican si EA). Revisé quienes estan detrás de esta empresa y aparece el nombre de [Luciano Arango](https://seas.harvard.edu/news/2018/11/10-alumni-named-forbes-30-under-30), un Colombiano en USA.
 
@@ -368,7 +368,7 @@ Otra plataforma popular para recibir pagos de freelancers.
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 0 USD mensual |
-| **Transferencias** |  |
+| **Transferencias** | |
 | **Notas** | La plataforma que suele ser muy popular para recibir pagos de freelancers. |
 
 El famoso servicio. No cuenta con ACH así que solo puedes recibir pagos de terceros que también usen Paypal. Ver página de envíos a Colombia sobre tarifas
@@ -385,7 +385,7 @@ Cuenta en Panamá
 | **Balance Mínimo** | 500 USD (Máximo $1500) |
 | **Cuota de manejo** | $32.10 |
 | **Transferencias** | $3.29 cuesta esa transferencia (0.39 + 2.9 por ser SWIFT). La tarifa por recibir es $30 + impuestos, es decir $32.10. |
-| **Notas** | Seguro Fraude $5USD  <br/>Es un poco difícil realizar el proceso de onboarding porque falla mucho la app. Requiere pasaporte vigente<br/> Tienen tarjeta Visa Débito Platinum.Retiro en cajeros en el exterior 3.21%<br/>Interés saldo de la cuenta 0.1% |
+| **Notas** | Seguro Fraude $5USD <br/>Es un poco difícil realizar el proceso de onboarding porque falla mucho la app. Requiere pasaporte vigente<br/> Tienen tarjeta Visa Débito Platinum.Retiro en cajeros en el exterior 3.21%<br/>Interés saldo de la cuenta 0.1% |
 
 ## Wallbit
 

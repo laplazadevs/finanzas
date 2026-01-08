@@ -15,12 +15,12 @@ Recuerde que al comprar/vender un inmueble se deben pagar ciertos impuestos. Par
 | **Concepto** | **Vendedor** | **Comprador** | **Total** |
 | --- | --- | --- | --- |
 | Gastos compraventa notariales aprox 0.30% | $1,080,000.00 | $1,080,000.00 | $2,160,000.00 |
-| Retención en la Fuente 1% (No aplica si vendedor es persona Jurídica) | $4,000,000.00 |  | $4,000,000.00 |
+| Retención en la Fuente 1% (No aplica si vendedor es persona Jurídica) | $4,000,000.00 | | $4,000,000.00 |
 | Otros gastos (copias, folios aprox.) | $100.000 | $100.000 | $200.000 |
 | Gasto de cancelación / constitución hipoteca (0.30%) | $0.00 | $0.00 | $0.00 |
 | Gasto de cancelación / constitución afectación a vivienda Familiar | $0.00 | $0.00 | $0.00 |
 | **TOTAL GASTOS NOTARIALES APROXIMADOS** | **$5,080,100.00** | **$1,080,100.00** | $6,160,200.00 |
-|  | - | - | - |
+| | - | - | - |
 | Gastos de beneficencia compra 1 % | $0.00 | $4,000,000.00 | $4,000,000.00 |
 | Gastos de registro compra (Según valor de escritura. Nota) | $0.00 | $3,444,000.00 | $3,444,000.00 |
 | Registro de Hipoteca con Cuantía (0.75% Incluye descuento del 30% si es para adquisición de vivienda) | $0.00 | $0.00 | $0.00 |

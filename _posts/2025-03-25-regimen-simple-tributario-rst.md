@@ -48,9 +48,9 @@ Otros recursos:
 > El tema es que RST es un modelo de pago de impuestos que simplifica todo simplemente cobrando por ingresos.
 Si ud recibió 1000 millones en el año, va a la tabla, le aplica el porcentaje (máximo 14.5% at this moment - Nov 2024) y eso es el impuesto que paga. No preguntas, no dudas ni chanchullos, solo puro pagar impuesto a punta de regla de 3.
 Eso sí, hay detalles a tener en cuenta:
-    1. El impuesto no se paga al año siguiente, si no que se obliga a hacer anticipos bimensuales (6 en total).
-    2. Al entrar a RST, está obligado a facturar, eso es fácil porque la DIAN provee un facturador gratuito. También eso lo cubre con respecto a la UGPP y sirve de soporte para cualquier auditoría.
-    3. Dependiendo de la ubicación geográfica donde esté, si recibe otros ingresos de fuente nacional, le tocaría pagar un componente ICA. El porcentaje varía según el municipio, algunos son de 11 pesos por cada mil, en otros en 8 por cada mil y así. Pero sí solo recibe plata del exterior, eso se considera exportación de servicios y eso está exento de IVA, y creo que también de ICA (aunque no sé si eso lo hayan reglamentado diferente ya).
+ 1. El impuesto no se paga al año siguiente, si no que se obliga a hacer anticipos bimensuales (6 en total).
+ 2. Al entrar a RST, está obligado a facturar, eso es fácil porque la DIAN provee un facturador gratuito. También eso lo cubre con respecto a la UGPP y sirve de soporte para cualquier auditoría.
+ 3. Dependiendo de la ubicación geográfica donde esté, si recibe otros ingresos de fuente nacional, le tocaría pagar un componente ICA. El porcentaje varía según el municipio, algunos son de 11 pesos por cada mil, en otros en 8 por cada mil y así. Pero sí solo recibe plata del exterior, eso se considera exportación de servicios y eso está exento de IVA, y creo que también de ICA (aunque no sé si eso lo hayan reglamentado diferente ya).
 
 RST es bueno para acumular.
 Pero es malo cuando uno quiere vender una casa o un carro, porque como se basa en los ingresos, eso lo pone a uno a pagar impuesto sobre lo que ingresa.

@@ -82,7 +82,7 @@ Para Rentistas de capital (arriendos, rendimientos de CDTs, etc), corresponde al
 La resolución **532 de 2024 de la UGPP** dicta que a partir del 1 de Noviembre de 2024, el porcentaje de la presunción de costos se actualiza. Salió una nueva resolución y movieron el cambio para Julio del 2025.
 > - Los nuevos valores para Desarrolladores de Software (6201), es el **Grupo J** y corresponde a **61.17%**.
 > - Para Rentistas de capital (arriendos, rendimientos de CDTs, etc), corresponde al **28.08%**.
->     ![Nuevos porcentajes]({{ site.baseurl }}/assets/images/seguridad-social-nuevos-porcentajes.png)
+> ![Nuevos porcentajes]({{ site.baseurl }}/assets/images/seguridad-social-nuevos-porcentajes.png)
 
 ### Formula
 
@@ -98,17 +98,17 @@ y después,
 `[Ingreso Neto] * 0.4 = IBC`
 - ***([Fuente](https://www.youtube.com/watch?v=zjmb0clLfY8&ab_channel=LaUnidaddePensionesyParafiscales))***
 
-    Hice un derecho de petición, que fue respondido de la siguiente forma:
+ Hice un derecho de petición, que fue respondido de la siguiente forma:
 
-    ![Solicitud de explicación]({{ site.baseurl }}/assets/images/seguridad-social-solicitud-explicacion.png)
+ ![Solicitud de explicación]({{ site.baseurl }}/assets/images/seguridad-social-solicitud-explicacion.png)
 
-    Solicitud de explicación del artículo 89 de la reforma tributaria.
+ Solicitud de explicación del artículo 89 de la reforma tributaria.
 
-    Y luego la interpretación de la parte que revive la aplicación del 40% en el párrafo de tres renglones:
+ Y luego la interpretación de la parte que revive la aplicación del 40% en el párrafo de tres renglones:
 
-    ![Interpretación UGPP]({{ site.baseurl }}/assets/images/seguridad-social-interpretacion-ugpp.png)
+ ![Interpretación UGPP]({{ site.baseurl }}/assets/images/seguridad-social-interpretacion-ugpp.png)
 
-    Interpretación de la UGPP sobre la aplicación de la fórmula para el pago de la seguridad social.
+ Interpretación de la UGPP sobre la aplicación de la fórmula para el pago de la seguridad social.
 
 # Pago de la planilla, independientes
 
@@ -180,113 +180,113 @@ El ejemplo directo es cuando se tiene salario en dólares, y además se tiene un
 
 - **Ejemplo:**
 
-    Contrato 1: USD $2.000
-    Contrato 2: COP $4'000.000
+ Contrato 1: USD $2.000
+ Contrato 2: COP $4'000.000
 
-    Asumiendo la TRM a COP$5.000, se calcularía así:
-    Contrato 1: (`2000 * 5000`) * (`1 - 63.2%`) * `40%` = IBC COP $1'472.000
-    Contrato 2: (`4000000`) * `40%` = IBC COP $1'600.000
+ Asumiendo la TRM a COP$5.000, se calcularía así:
+ Contrato 1: (`2000 * 5000`) * (`1 - 63.2%`) * `40%` = IBC COP $1'472.000
+ Contrato 2: (`4000000`) * `40%` = IBC COP $1'600.000
 
-    La suma daría un **IBC** de **$3'072.000**
+ La suma daría un **IBC** de **$3'072.000**
 
 # FAQ
 
 - **¿Cuál es el lío con la *presunción de costos*? (Updated, Dic 2022)**
 
-    La presunción de costos nació de la ley del Plan Nacional de Desarrollo del 2019 del gobierno de Iván Duque (**artículo 244 de la Ley 1955 de 2019**). La idea por supuesto era excelente porque soluciona muchos problemas de fiscalización con el gremio de los independientes. Esto después se reguló con otras resoluciones de la UGPP y del Ministerio del Trabajo (Resolución 1400 de 2019, **Resolución 209 de 2020**).
+ La presunción de costos nació de la ley del Plan Nacional de Desarrollo del 2019 del gobierno de Iván Duque (**artículo 244 de la Ley 1955 de 2019**). La idea por supuesto era excelente porque soluciona muchos problemas de fiscalización con el gremio de los independientes. Esto después se reguló con otras resoluciones de la UGPP y del Ministerio del Trabajo (Resolución 1400 de 2019, **Resolución 209 de 2020**).
 
-    Sin embargo la Corte Constitucional declaró inexequible esa ley en la siguiente sentencia de febrero de 2020: [https://www.corteconstitucional.gov.co/relatoria/2020/C-068-20.htm](https://www.corteconstitucional.gov.co/relatoria/2020/C-068-20.htm)  Esto debido a que el congreso metió una ley importante, en una ley del PND que es transitoria (Todo mal con esa gente).
+ Sin embargo la Corte Constitucional declaró inexequible esa ley en la siguiente sentencia de febrero de 2020: [https://www.corteconstitucional.gov.co/relatoria/2020/C-068-20.htm](https://www.corteconstitucional.gov.co/relatoria/2020/C-068-20.htm) Esto debido a que el congreso metió una ley importante, en una ley del PND que es transitoria (Todo mal con esa gente).
 
-    Pero no la invalidaba inmediatamente, si no que por dos legislaturas siguió vigente. Eso fue, hasta el 20 de Junio de 2022. Esta noticia pasó de agache hasta que llegó ese día, generando que durante **Julio de 2022, estuvimos en un limbo jurídico** donde no se sabía cuál formula se debía aplicar. Es por eso que para las cotizaciones correspondientes a Julio de 2022, [el Ministerio del Trabajo tuvo que hacer la aclaración de que se debía calcular con el 40%](https://www.mintrabajo.gov.co/web/guest/prensa/comunicados/2022/agosto/hay-claridad-trabajadores-independientes-tendran-que-cotizar-a-seguridad-social-sobre-el-40-del-total-de-sus-ingresos) (tal cual como los de prestación de servicios).
+ Pero no la invalidaba inmediatamente, si no que por dos legislaturas siguió vigente. Eso fue, hasta el 20 de Junio de 2022. Esta noticia pasó de agache hasta que llegó ese día, generando que durante **Julio de 2022, estuvimos en un limbo jurídico** donde no se sabía cuál formula se debía aplicar. Es por eso que para las cotizaciones correspondientes a Julio de 2022, [el Ministerio del Trabajo tuvo que hacer la aclaración de que se debía calcular con el 40%](https://www.mintrabajo.gov.co/web/guest/prensa/comunicados/2022/agosto/hay-claridad-trabajadores-independientes-tendran-que-cotizar-a-seguridad-social-sobre-el-40-del-total-de-sus-ingresos) (tal cual como los de prestación de servicios).
 
-    Luego de eso, un par de días antes de la finalización del mandato de Ivan Duque, este firmó el **Decreto 1601 del 5 agosto de 2022**, que es el que rige actualmente.
+ Luego de eso, un par de días antes de la finalización del mandato de Ivan Duque, este firmó el **Decreto 1601 del 5 agosto de 2022**, que es el que rige actualmente.
 
-    En un inicio parecía que el decreto se limitaba a revivir la norma anterior, pero en realidad generó más dificultades en su interpretación por lo que en la UGPP se vieron obligados a hacer una sesión en vivo explicando el alcance y la interpretación de la nueva norma.
+ En un inicio parecía que el decreto se limitaba a revivir la norma anterior, pero en realidad generó más dificultades en su interpretación por lo que en la UGPP se vieron obligados a hacer una sesión en vivo explicando el alcance y la interpretación de la nueva norma.
 
-    [Sesión en vivo de la UGPP, interpretando el decreto 1601 de 2022.](https://www.youtube.com/watch?v=L5BYlEFo3OE&t=3585&feature=youtu.be)
+ [Sesión en vivo de la UGPP, interpretando el decreto 1601 de 2022.](https://www.youtube.com/watch?v=L5BYlEFo3OE&t=3585&feature=youtu.be)
 
-    Sesión en vivo de la UGPP, interpretando el decreto 1601 de 2022.
+ Sesión en vivo de la UGPP, interpretando el decreto 1601 de 2022.
 
-    ~~Y Aquí vamos, aunque el *plus* es que la reforma tributaria (aún en discusión en octubre de 2022), parece que revivirá la interpretación anterior de la formula. Pero amanecerá y veremos 😶~~
+ ~~Y Aquí vamos, aunque el *plus* es que la reforma tributaria (aún en discusión en octubre de 2022), parece que revivirá la interpretación anterior de la formula. Pero amanecerá y veremos 😶~~
 
-    **UPDATE, Diciembre de 2022:**
+ **UPDATE, Diciembre de 2022:**
 
-    Finalmente el congreso aprobó la nueva reforma tributaria, donde en su artículo 89, se revivió la manera antigua de calcular el IBC cuando aplica la presunción de costos. Sumado a esto, radiqué un derecho de petición a la UGPP, pidiendo claridad sobre la manera de interpretar la norma, donde efectivamente me aclararon que sí se puede aplicar como antes (se puede ver en el toggle de *«fuente»* en la sección correspondiente arriba).
+ Finalmente el congreso aprobó la nueva reforma tributaria, donde en su artículo 89, se revivió la manera antigua de calcular el IBC cuando aplica la presunción de costos. Sumado a esto, radiqué un derecho de petición a la UGPP, pidiendo claridad sobre la manera de interpretar la norma, donde efectivamente me aclararon que sí se puede aplicar como antes (se puede ver en el toggle de *«fuente»* en la sección correspondiente arriba).
 
-    Así que con esto se puede dar por cerrado el ciclo de cambios al rededor de este tema… por ahora (y esperemos que en el futuro no haya demasiados cambios al respecto tampoco).
-    ✌️
+ Así que con esto se puede dar por cerrado el ciclo de cambios al rededor de este tema… por ahora (y esperemos que en el futuro no haya demasiados cambios al respecto tampoco).
+ ✌️
 
 - **¿La *presunción de costos* aplica para el *Régimen Simple de Tributación* (RST)?**
 
-    ¡Sí aplica!
+ ¡Sí aplica!
 
-    Según la respuesta a un derecho de petición que realicé en Enero de 2023, dice lo siguiente:
+ Según la respuesta a un derecho de petición que realicé en Enero de 2023, dice lo siguiente:
 
-    ![Respuesta UGPP RST]({{ site.baseurl }}/assets/images/seguridad-social-respuesta-ugpp-rst.png)
+ ![Respuesta UGPP RST]({{ site.baseurl }}/assets/images/seguridad-social-respuesta-ugpp-rst.png)
 
-    Respuesta de la UGPP aclarando que sí se puede usar la presunción de costos en RST.
+ Respuesta de la UGPP aclarando que sí se puede usar la presunción de costos en RST.
 
 - **¿La *presunción de costos* aplica para la declaración de renta?**
 
-    No. Son dos temas muy diferentes.
-    La presunción de costos únicamente aplica para efectos de la fiscalización que hace la UGPP sobre los aportes de su competencia, y no para determinar la renta que una persona debe tributar.
+ No. Son dos temas muy diferentes.
+ La presunción de costos únicamente aplica para efectos de la fiscalización que hace la UGPP sobre los aportes de su competencia, y no para determinar la renta que una persona debe tributar.
 
 - **¿Qué pasa con las *Cesantías* cuando se es independiente?**
 
-    Esto es solo una obligación del empleador en contratos laborales sin salario integral.
-    Los independientes son responsables por sí mismos de hacer lo que mejor les parezca con su dinero, a diferencia de un contrato de trabajo, donde el empleado es obligado a ahorrar a las malas (lo cual es entendible dada la nula educación financiera del público en general), aquí lo ideal es educarse financieramente para ahorrar e invertir de manera inteligente el dinero 😉.
+ Esto es solo una obligación del empleador en contratos laborales sin salario integral.
+ Los independientes son responsables por sí mismos de hacer lo que mejor les parezca con su dinero, a diferencia de un contrato de trabajo, donde el empleado es obligado a ahorrar a las malas (lo cual es entendible dada la nula educación financiera del público en general), aquí lo ideal es educarse financieramente para ahorrar e invertir de manera inteligente el dinero 😉.
 
 - **¿Qué pasa con las *Primas* cuando se es independiente?**
 
-    Esto es solo una obligación del empleador en contratos laborales sin salario integral.
-    Al igual que con las cesantías, es responsabilidad del independiente definir cuál es la mejor manera de ahorrar e invertir su dinero.
+ Esto es solo una obligación del empleador en contratos laborales sin salario integral.
+ Al igual que con las cesantías, es responsabilidad del independiente definir cuál es la mejor manera de ahorrar e invertir su dinero.
 
 - **¿Quién paga mi *incapacidad* cuando estoy enfermo siendo independiente?**
 
-    En caso de sufrir alguna incapacidad siendo independiente, la EPS tiene la responsabilidad de cubrir ese costo según las reglas que dicta ya la ley, y corre por cuenta del independiente hacer esa gestión con la EPS.
-    [https://www.gerencie.com/valor-de-la-incapacidad-laboral-en-los-trabajadores-independientes.html](https://www.gerencie.com/valor-de-la-incapacidad-laboral-en-los-trabajadores-independientes.html)
+ En caso de sufrir alguna incapacidad siendo independiente, la EPS tiene la responsabilidad de cubrir ese costo según las reglas que dicta ya la ley, y corre por cuenta del independiente hacer esa gestión con la EPS.
+ [https://www.gerencie.com/valor-de-la-incapacidad-laboral-en-los-trabajadores-independientes.html](https://www.gerencie.com/valor-de-la-incapacidad-laboral-en-los-trabajadores-independientes.html)
 
-    Aún así, siempre es recomendable tener un fondo de emergencias de por lo menos 6 meses u ojalá más, para casos de fuerza mayor.
+ Aún así, siempre es recomendable tener un fondo de emergencias de por lo menos 6 meses u ojalá más, para casos de fuerza mayor.
 
 - **¿Qué son las *Novedades* que aparecen al llenar la planilla?**
 
-    Son los hechos que afectan al monto de las cotizaciones a cargo del aportante. Al cambiar de contrato por ejemplo, se debe generar una novedad, o al cambiar de EPS, o al solicitar licencias de maternidad, etc.
+ Son los hechos que afectan al monto de las cotizaciones a cargo del aportante. Al cambiar de contrato por ejemplo, se debe generar una novedad, o al cambiar de EPS, o al solicitar licencias de maternidad, etc.
 
-    Cuando alguien cambia de contrato, siempre se debe generar la novedad, ya que esta podrá justificar de forma automática un aumento o reducción sustancial en el valor aportado (y así evitar un potencial requerimiento de la UGPP).
+ Cuando alguien cambia de contrato, siempre se debe generar la novedad, ya que esta podrá justificar de forma automática un aumento o reducción sustancial en el valor aportado (y así evitar un potencial requerimiento de la UGPP).
 
 - **¿Debería pagar *ARL* como independiente?**
 
-    La respuesta corta, es que no es realmente necesario.
-    Ya que si un empleador lo viera necesario (en contratos de *prestación de servicios* sobre todo), el mismo empleador hará los trámites y pagos pertinentes. Hacer el registro en una ARL es un tramite que no siempre es tan sencillo, y que para el nivel de riesgo que tenemos como desarrolladores de software, no es realmente indispensable.
+ La respuesta corta, es que no es realmente necesario.
+ Ya que si un empleador lo viera necesario (en contratos de *prestación de servicios* sobre todo), el mismo empleador hará los trámites y pagos pertinentes. Hacer el registro en una ARL es un tramite que no siempre es tan sencillo, y que para el nivel de riesgo que tenemos como desarrolladores de software, no es realmente indispensable.
 
 - **¿Vale la pena pagar *Caja de Compensación Familiar*?**
 
-    Eso depende de cada caso.
-    En general, luego de una cantidad significativa de ingresos, los beneficios que podrían dar las cajas de compensación familiar podrían dejar de ser atractivas (Subsidios de vivienda o desempleo, por ejemplo), aunque otras podrían seguir siendo igualmente atractivas si se tiene hijos con las cuales aprovecharlas (Recreación, turismo, educación, etc).
-    También está que el porcentaje de aporte puede ser del 0.6% ó del 2%, y según cada Caja de compensación, los beneficios de cada tipo de aporte serán diferentes, siendo obviamente el de 2% el que de la mayor cantidad de beneficios.
-    En esto cada quien debería investigar para determinar si le conviene o no.
+ Eso depende de cada caso.
+ En general, luego de una cantidad significativa de ingresos, los beneficios que podrían dar las cajas de compensación familiar podrían dejar de ser atractivas (Subsidios de vivienda o desempleo, por ejemplo), aunque otras podrían seguir siendo igualmente atractivas si se tiene hijos con las cuales aprovecharlas (Recreación, turismo, educación, etc).
+ También está que el porcentaje de aporte puede ser del 0.6% ó del 2%, y según cada Caja de compensación, los beneficios de cada tipo de aporte serán diferentes, siendo obviamente el de 2% el que de la mayor cantidad de beneficios.
+ En esto cada quien debería investigar para determinar si le conviene o no.
 
 - **¿Los independientes deben pagar aportes al SENA y al ICBF?**
 
-    No.
-    A veces puede salir una alerta al momento de pagar la PILA, pero la ley es clara en las personas con contrato laboral que devenguen más de [10 SMLV](https://www.gerencie.com/aportes-parafiscales.html) son los que están obligados a aportar para estas dos entidades.
-    Es decir, que los independientes no tienen esa obligación.
+ No.
+ A veces puede salir una alerta al momento de pagar la PILA, pero la ley es clara en las personas con contrato laboral que devenguen más de [10 SMLV](https://www.gerencie.com/aportes-parafiscales.html) son los que están obligados a aportar para estas dos entidades.
+ Es decir, que los independientes no tienen esa obligación.
 
 - **¿Se debe pagar *Seguridad social* por los rendimientos de un CDT?**
 
-    (2023-07-17): Al parecer, si el rendimiento de un CDT supera el valor de un salario mínimo, este debe agregarse al cálculo del IBC.
-    Esto está muy reciente entonces es posible que existan aclaraciones en el futuro, así que toca estar atentos a la última información disponible.
+ (2023-07-17): Al parecer, si el rendimiento de un CDT supera el valor de un salario mínimo, este debe agregarse al cálculo del IBC.
+ Esto está muy reciente entonces es posible que existan aclaraciones en el futuro, así que toca estar atentos a la última información disponible.
 
-    [https://www.valoraanalitik.com/2023/07/17/cdt-en-colombia-tendria-que-registrar-ganancias-en-seguridad-social/](https://www.valoraanalitik.com/2023/07/17/cdt-en-colombia-tendria-que-registrar-ganancias-en-seguridad-social/)
+ [https://www.valoraanalitik.com/2023/07/17/cdt-en-colombia-tendria-que-registrar-ganancias-en-seguridad-social/](https://www.valoraanalitik.com/2023/07/17/cdt-en-colombia-tendria-que-registrar-ganancias-en-seguridad-social/)
 
 - **¿Quién escribió todo esto pa invitarlo a una empanada? 🥟🥟🥟**
 
-    ¡Hola!, Soy C. Daniel, me encuentran en ColombiaDev o la PlazaDev como *ErunamoJAZZ*.
-    Cualquier donación para empanadas, será amablemente publicada con su respectivo mordisco y agradecimiento ;)
+ ¡Hola!, Soy C. Daniel, me encuentran en ColombiaDev o la PlazaDev como *ErunamoJAZZ*.
+ Cualquier donación para empanadas, será amablemente publicada con su respectivo mordisco y agradecimiento ;)
 
-    ![Binance Payment]({{ site.baseurl }}/assets/images/seguridad-social-binance-payment.png)
+ ![Binance Payment]({{ site.baseurl }}/assets/images/seguridad-social-binance-payment.png)
 
-    Binance Payment ID: 221773493
+ Binance Payment ID: 221773493
 
 # Podcast de @TheCap
 

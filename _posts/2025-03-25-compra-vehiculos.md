@@ -84,7 +84,7 @@ Para hacer un presupuesto fiel a la realidad, tenga en cuenta los siguientes cos
 - Foto de la tarjeta de propiedad (la parte de adelante)
 - Que no este muerto :v un proceso de sucesión suele ser engorroso.
 - Reduzca sus preguntas a lo esencial:
-    - Precio
+ - Precio
 
 ### Despues de comprar
 

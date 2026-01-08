@@ -36,7 +36,7 @@ Si decides seguir el camino de la inversión pasiva leer el de [Bogle: Little bo
 
 ## Inversión activa
 
-Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wall Street Already](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/ref=sr_1_1)  y estudiar sobre como entender a las empresas y sus informes para 2b) recomendado un curso como el de [Finances for Non-Financials Manager de Coursera](https://www.coursera.org/learn/finance-for-non-financial-managers) o un libro como Warren Buffett [Interpretation Financial Statements](https://www.amazon.com/Warren-Buffett-Interpretation-Financial-Statements-ebook/dp/B001ISOQI0/ref=sr_1_1). Para profundizar más en Finanzas y Mercados de Capitales pueden ver este curso [https://www.khanacademy.org/economics-finance-domain/core-finance](https://www.khanacademy.org/economics-finance-domain/core-finance)
+Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wall Street Already](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/ref=sr_1_1) y estudiar sobre como entender a las empresas y sus informes para 2b) recomendado un curso como el de [Finances for Non-Financials Manager de Coursera](https://www.coursera.org/learn/finance-for-non-financial-managers) o un libro como Warren Buffett [Interpretation Financial Statements](https://www.amazon.com/Warren-Buffett-Interpretation-Financial-Statements-ebook/dp/B001ISOQI0/ref=sr_1_1). Para profundizar más en Finanzas y Mercados de Capitales pueden ver este curso [https://www.khanacademy.org/economics-finance-domain/core-finance](https://www.khanacademy.org/economics-finance-domain/core-finance)
 
 # **Invirtiendo en Colombia**
 
@@ -56,7 +56,7 @@ Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wa
 ## **Plataformas de inversion en USA**
 
 - [TD Ameritrade](https://www.tdameritrade.com/)
-    - [Apuntes sobre como abrir la cuenta siendo residente en el exterior](https://gioyik.com/p/broker-para-noobs-como-yo)
+ - [Apuntes sobre como abrir la cuenta siendo residente en el exterior](https://gioyik.com/p/broker-para-noobs-como-yo)
 
 ## **Plataformas de inversion en Canada**
 
@@ -75,16 +75,16 @@ Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wa
 
 ## ¿Por qué usamos eTrading de Valores Bancolombia y no Trii de Acciones y Valores?
 
-Los costos son muy parecidos con la promoción que tiene Bancolombia, en Bancolombia se puede ver [El Libro de Órdenes](https://b2broker.com/es/library/what-is-an-order-book-and-how-does-it-work/) gratis (que es útil para tomar decisiones con bots, hacer HFT o para darse cuenta cuando los inyectores de liquidez están encendidos), en Trii hay que pagar para tener acceso a ese libro.  Otra ventaja importante de eTrading es que no cobra comisión sobre dividendos, los retiros son más rápidos, tiene webapp de escritorio y es posible [mover $ de la cuenta de ahorros Bancolombia para allá sin pagar 4xmil](#cómo-ahorrarse-el-4xmil)
+Los costos son muy parecidos con la promoción que tiene Bancolombia, en Bancolombia se puede ver [El Libro de Órdenes](https://b2broker.com/es/library/what-is-an-order-book-and-how-does-it-work/) gratis (que es útil para tomar decisiones con bots, hacer HFT o para darse cuenta cuando los inyectores de liquidez están encendidos), en Trii hay que pagar para tener acceso a ese libro. Otra ventaja importante de eTrading es que no cobra comisión sobre dividendos, los retiros son más rápidos, tiene webapp de escritorio y es posible [mover $ de la cuenta de ahorros Bancolombia para allá sin pagar 4xmil](#cómo-ahorrarse-el-4xmil)
 
 ProTip: Para compras menores a 10M, hacer varias de 2M para pagar la mínima comisión.
 
 ### Tabla Comparativa
 
-| **Servicio/Operación** | **Oper. < 5M COP** | **Oper.  > 5M COP** | Dividendos | Stop loss/Take p | Min. COP |
+| **Servicio/Operación** | **Oper. < 5M COP** | **Oper. > 5M COP** | Dividendos | Stop loss/Take p | Min. COP |
 | --- | --- | --- | --- | --- | --- |
 | Trii | 12.500 COP + IVA | 0.25% + IVA | 1% | ? | 23.9K |
-| Trii Pro (279K/yr) | 6.250 COP + IVA | 0.125% + IVA | 1% | Included |  |
+| Trii Pro (279K/yr) | 6.250 COP + IVA | 0.125% + IVA | 1% | Included | |
 | eTrading | $50.000+IVA (**<2M)** | 0.3% + IVA | 0% | ? | 500K |
 | eTrading en promoción | $5.000 + IVA (**<2M)** | 0.25% + IVA | 0% | ? | 200K |
 
@@ -217,5 +217,5 @@ Distribuir las inversiones entre diferentes tipos de activos para reducir el rie
 - [https://www.marketwatch.com](https://www.marketwatch.com/)/
 - [https://etfdb.com/](https://etfdb.com/)
 - eTrading navigation resources:
-    - [https://youtu.be/4QuGVLojfio?si=2VmsuglnBhMXLPw4&t=445](https://youtu.be/4QuGVLojfio?si=2VmsuglnBhMXLPw4&t=445)
-    - [https://youtu.be/tOpo8kRWmMs?si=XOVKZ69f9aCJctJ5](https://youtu.be/tOpo8kRWmMs?si=XOVKZ69f9aCJctJ5)
+ - [https://youtu.be/4QuGVLojfio?si=2VmsuglnBhMXLPw4&t=445](https://youtu.be/4QuGVLojfio?si=2VmsuglnBhMXLPw4&t=445)
+ - [https://youtu.be/tOpo8kRWmMs?si=XOVKZ69f9aCJctJ5](https://youtu.be/tOpo8kRWmMs?si=XOVKZ69f9aCJctJ5)

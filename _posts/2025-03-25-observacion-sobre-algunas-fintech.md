@@ -17,7 +17,7 @@ Cuando ud quiere hacer un deposito en dólares a su wallet, le proporcionan los 
 ¿Están asegurados sus fondos por la @FDICgov mientras estén en su wallet?
 Si y No.
 Es decir, mientras los fondos totales que depositen los clientes no sobrepasen los $250 mil, y la Fintech no los tenga invertidos en otros instrumentos financieros, si estarán asegurados.
-Pero no a su nombre, sino a nombre de la Fintech que en este ejemplo es  @WallbitPay.
+Pero no a su nombre, sino a nombre de la Fintech que en este ejemplo es @WallbitPay.
 Algo así como si usted le diera el dinero a un amigo y éste los deposite en su cuenta bancaria.
 El dinero es suyo, pero usted no controla la cuenta de su amigo y depende de su buena fe.
 

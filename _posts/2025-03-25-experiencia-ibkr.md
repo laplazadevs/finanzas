@@ -110,11 +110,11 @@ Rellene el formulario.
 | Bank Country | Colombia |
 | Bank Account Number | Su número de cuenta en Colombia |
 | Confirm Bank Account Number | Su número de cuenta en Colombia |
-| **Receiving Bank** |  |
-| Bank Name |  |
-| Bank Address |  |
+| **Receiving Bank** | |
+| Bank Name | |
+| Bank Address | |
 | SWIFT/BIC Code | Revise la siguiente sección o bien busque el código SWIFT de su banco |
-| **Correspondent Bank** |  |
+| **Correspondent Bank** | |
 | Select | Abra el dialogo. Si no encuentra automáticamente un banco, revise la sección a continuación del **Correspondent** bank |
 | Does your bank account accept transfers in USD? | Yes |
 

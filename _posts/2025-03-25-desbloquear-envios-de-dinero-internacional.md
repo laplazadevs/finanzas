@@ -54,7 +54,7 @@ Si usted es cliente preferencial de Bancolombia, puede traer hasta 40k USD mensu
 
 Te pueden bloquear los envíos si superan los 28 mil USD anuales o los 7 mil USD mensuales. Esto no le pasa a todos, pero es una posibilidad. En Davivienda no es necesario ir a sucursal física. Puedes ir a la página web, en transferencias internacionales aparecerá la transacción, acepta la transacción, agrega el contrato laboral como soporte, negocia la tasa de cambio y espera máximo un par de horas. Si no aparece:
 
-- Enviar un correo a  [soportesmonex@davivienda.com](mailto:soportesmonex@davivienda.com)
+- Enviar un correo a [soportesmonex@davivienda.com](mailto:soportesmonex@davivienda.com)
 - En 'asunto' colocas `NOMBRE COMPLETO - NÚMERO DE CÉDULA`
 - Adjuntas una copia del contrato y una captura o copia de la transferencia bloqueada o bien la fecha y hora en la que crees que debió llegar la transferencia.
 

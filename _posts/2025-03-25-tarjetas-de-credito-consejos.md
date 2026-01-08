@@ -59,11 +59,11 @@ date: 2025-03-25 21:13:22
 
 - Revise si la tarjeta tiene facturación en dólares para las compras realizadas en esa moneda. Si es así, este pendiente tanto de las transacciones hechas en COP como en USD.
 - Algunas tarjetas de crédito pueden tener un cobro adicional por transacciones cobradas fuera Colombia. Esta transacción puede ser una compra presencial en otro país o bien una compra por internet. Revise si su tarjeta tiene este cobro que puede estar entre los 1% y 3% en USD.
-    - **RappiCard**: 2% [[fuente](https://rappicard.co/wp-content/uploads/2024/07/tasas-tarifas-julio-2024.pdf)]
-    - **ScottiaBank**: Comisión del **4,03%** aplicada sobre la TRM reportada por las franquicias
-    para conversión de compras internacionales a pesos colombianos. [[fuente](https://www.scotiabankcolpatria.com/tasas-y-tarifas)]
-    - **Nu:** 0.45% [[fuente](https://nu.com.co/credito/condiciones/)] [[fuente2](https://nu.com.co/cf/cuenta-condiciones/)]
-    - **Mastercard**: [https://www.mastercard.es/es-es/consumidores/conoce-las-caracteristicas-y-ventajas/convert-currency.html](https://www.mastercard.es/es-es/consumidores/conoce-las-caracteristicas-y-ventajas/convert-currency.html)
+ - **RappiCard**: 2% [[fuente](https://rappicard.co/wp-content/uploads/2024/07/tasas-tarifas-julio-2024.pdf)]
+ - **ScottiaBank**: Comisión del **4,03%** aplicada sobre la TRM reportada por las franquicias
+ para conversión de compras internacionales a pesos colombianos. [[fuente](https://www.scotiabankcolpatria.com/tasas-y-tarifas)]
+ - **Nu:** 0.45% [[fuente](https://nu.com.co/credito/condiciones/)] [[fuente2](https://nu.com.co/cf/cuenta-condiciones/)]
+ - **Mastercard**: [https://www.mastercard.es/es-es/consumidores/conoce-las-caracteristicas-y-ventajas/convert-currency.html](https://www.mastercard.es/es-es/consumidores/conoce-las-caracteristicas-y-ventajas/convert-currency.html)
 
 ## Cupo
 

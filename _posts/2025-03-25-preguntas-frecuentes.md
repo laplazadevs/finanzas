@@ -225,23 +225,23 @@ Las opiniones están divididas:
 - Algunos proponen un enfoque híbrido, combinando FIRE con trabajo parcial.
 1. P: ¿Cómo manejar las inversiones en un contexto de alta volatilidad del mercado?
 R: Se ofrecen diversas estrategias:
-    - Algunos recomiendan mantener el curso y seguir con la estrategia a largo plazo.
-    - Otros ven oportunidades en "comprar el dip".
-    - Se sugiere aumentar la diversificación en tiempos volátiles.
-    - Algunos proponen mover parte de la cartera a activos más seguros temporalmente.
+ - Algunos recomiendan mantener el curso y seguir con la estrategia a largo plazo.
+ - Otros ven oportunidades en "comprar el dip".
+ - Se sugiere aumentar la diversificación en tiempos volátiles.
+ - Algunos proponen mover parte de la cartera a activos más seguros temporalmente.
 
 ### **Recomendaciones sobre fondo de emergencia**
 
 - Liquidez: Hay consenso en que el fondo de emergencia debe ser altamente líquido, permitiendo acceso rápido al dinero en caso de necesidad.
 - Instrumentos recomendados:
-    - Cuenta de ahorros de alta liquidez
-    - Fiducuenta: Ofrece un balance entre liquidez y rendimiento
-    - CDTs a 30 días: Algunos los sugieren como alternativa, sacrificando algo de liquidez por mayor rendimiento
+ - Cuenta de ahorros de alta liquidez
+ - Fiducuenta: Ofrece un balance entre liquidez y rendimiento
+ - CDTs a 30 días: Algunos los sugieren como alternativa, sacrificando algo de liquidez por mayor rendimiento
 - Estrategias:
-    - Usar tarjeta de crédito para la emergencia inmediata y luego pagar con el fondo
-    - Mantener el dinero en efectivo o en cuentas de ahorro de fácil acceso
-    - Escalonar CDTs a diferentes plazos para balancear rendimiento y liquidez
-    - Diversificar entre instrumentos líquidos y semi-líquidos
+ - Usar tarjeta de crédito para la emergencia inmediata y luego pagar con el fondo
+ - Mantener el dinero en efectivo o en cuentas de ahorro de fácil acceso
+ - Escalonar CDTs a diferentes plazos para balancear rendimiento y liquidez
+ - Diversificar entre instrumentos líquidos y semi-líquidos
 - Monto: No se especifica un monto exacto, pero se sugiere tener suficiente para cubrir varios meses de gastos.
 - Ubicación: Algunos recomiendan mantener el fondo en dólares como protección contra la devaluación, especialmente para quienes tienen ingresos en esa moneda.
 - Rendimiento vs. Seguridad: Se enfatiza que la prioridad del fondo de emergencia es la seguridad y accesibilidad, no maximizar el rendimiento.

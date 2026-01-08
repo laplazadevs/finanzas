@@ -23,11 +23,11 @@ La empresa que te pague debe hacerse una cuenta y pagar por el servicio (se paga
 El dinero consignado por tu empresa a ti a través de Deel debe ser reclamado en máximo un mes ya que Deel no es un banco. Existen varias opciones para retiros o transferencias:
 
 - Cripto (BTC/ETH)
-    - Binance
-    - Coinbase
+ - Binance
+ - Coinbase
 - Transferencias bancarias
-    - Swift
-    - Locales
+ - Swift
+ - Locales
 - Transferencias directas a tarjeta de crédito
 - Tarjeta Deel
 - Wise
@@ -49,7 +49,7 @@ El dinero consignado por tu empresa a ti a través de Deel debe ser reclamado en
 | **Wise** | 1 Día máximo | $0 USD |
 | **Local e-wallets (GCash)** | 1-5 Días | $0 USD |
 | **Local Bank Transfer** | 1-5 Días | $0 USD (Ojo que dependiendo del país, te cobran un Fee. Para Colombia es de $45 USD por 3k USD) |
-| **Bank Transfers via SWIFT** | 5-7 días | $5 USD  (Ojo que dependiendo de los bancos intermediarios entonces así mismo es el costo de la intermediación. Para Colombia suele ser de $10 USD el costo a agregar) |
+| **Bank Transfers via SWIFT** | 5-7 días | $5 USD (Ojo que dependiendo de los bancos intermediarios entonces así mismo es el costo de la intermediación. Para Colombia suele ser de $10 USD el costo a agregar) |
 
 Tengan especial atención no solo con los costos de Deel sino también con los costos de intermediación del método y también con la tasa de cambio que se le aplique a la transferencia.
 

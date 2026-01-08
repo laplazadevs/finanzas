@@ -110,7 +110,7 @@ El juego en este caso es buscar un NFT subvalorado y luego venderlo por el preci
 
 Otra técnica que utilizan algunos inversionista es hacer ofertas bajas esperando que alguna persona venda por cualquier razón. Aquí un video sobre esa técnica
 
-[He Made $100,000+ Flipping NFTs Using THIS Simple Strategy -  Plug Pass Whitelist](https://www.youtube.com/watch?v=JR2oJoXUA8o)
+[He Made $100,000+ Flipping NFTs Using THIS Simple Strategy - Plug Pass Whitelist](https://www.youtube.com/watch?v=JR2oJoXUA8o)
 
 ### Videos e Influenciadores
 
