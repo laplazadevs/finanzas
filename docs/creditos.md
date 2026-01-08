@@ -1,0 +1,189 @@
+---
+layout: default
+title: "Créditos"
+parent: Otros
+nav_order: 5
+---
+
+# Créditos
+
+> 🚨 Esta página no pretende explicar los pormenores de cada préstamo sino ofrecer consejos que vienen de experiencias y que usualmente no se encuentran en las páginas solemos visitar.
+
+# General
+
+## ¿Cómo obtener un crédito como independiente?
+
+La aprobación de un crédito recae en muchos factores, entre ellos los ingresos que demuestres. Si eres empleado con contrato hay mucha más facilidad en todo el proceso ya que subes muchos puntos a la hora de analizar tu perfil de riesgo, si por el contrario eres independiente la cosa se pone un poco más complicada pero no por ello significa que lo vayan a negar, a la hora de comprobar los ingresos si declara renta te lo van a pedir y si encaja con lo que dices eso es positivo, sin embargo ten en cuenta que la declaración de renta muestra tus ingresos del año pasado y no de este año, así que sirven para tener una perspectiva más amplia y prospectiva de tu perfil. ellos van a verificar si has pagado de forma efectivamente la seguridad social, algo que directamente se puede correlacionar con tus ingresos, ya que pagas según lo ganas, así que es un punto fuerte a analizar a la hora de otorgar un préstamo. Ahora hablando aparte de pedir un préstamo o no, al momento de declarar renta la información que queda registrada en tu declaración de la DIAN es recibida y es comparada con tus aportes de seguridad por la UGPP que es la entidad gubernamental que se encarga de vigilar el pago correcto de estas obligaciones, y si lo evades o pagas menos de lo que declaras estas en riesgo de que te hagan una investigación y te sancionen y te cobren con intereses lo que dejaste de pagar, así que ojo con eso que la UGPP tiene hasta 5 años para llamarte dar cuentas de irregularidades en pagos anteriores.
+
+- Solicitar el préstamo en la entidad con el banco con el que tiene la cuenta de ahorros. Desde que tenga declaración de renta, ingresos demostrables y buen puntaje crediticio, siempre hay algo que se pueda hacer.
+- Puede que le pidan demostrar ingresos avalados por un contador.
+
+Para los que han pedido crédito de vivienda en Colombia y tienen contrato con empresa extranjera, les han intentado cobrar una tal "referenciación con broker"? Ya me ha pasado con dos bancos (BBVA y Occidente) que me han intentado cobrar ese estudio (entre $50 y $100 dólares) por ser una empresa del exterior.
+
+Cuando pido créditos, les digo que soy independiente, y no les paso ninguna información de mis clientes, BBVA me negó el crédito pero Davivienda no si claro porque uno dice que trabaja con una empresa, pero en mi caso como soy contractor en dólares, pues básicamente eso es ser independiente solo con un cliente, el problema es que para los independientes es más difícil pedir créditos porque casi que el único soporte son la historia crediticia y los extractos bancarios
+
+Como independiente te piden es como extractos y declaración de renta para ver ingresos consistentes, eso es más fácil que cartas de la empresa a mi como contractor con empresa en el exterior me han pedido ingresos certificados por un contador yo lo hice con Itau sin ningún tipo de broker, también me pasó con Banco de Occidente. Itaú no cobró nada por hacerlo. Y el Banco de Occidente me cobró USD $90 por hacerlo
+
+## ¿Cómo obtener un crédito como Colombiano viviendo en el extranjero?
+
+- Hay que pagar alguna comisión al asesor/broker? Tengo entendido que en Colombia es gratuito, pero un broker me dice que cuesta 350 USD hacerlo con ellos desde el extranjero.
+- Para países con otro idioma (ej. Alemania) me imagino que tuvieron que mandar a traducir certificados. Alguna recomendación?
+- ColRaices para tramitar préstamos hipotecarios desde el Exterior [http://colraices.com](http://colraices.com/)
+- Dividimos el proceso en tres partes: UN **PRE-ESTUDIO**, que le permite determinar su capacidad de pago, su situación en centrales de riesgos en Colombia y en el exterior, su situación laboral, y demás detalles que se tienen en cuenta. Recuerde que en esta primera parte debe cancelar a Colraices 170€ que en caso de ser negada su solicitud por alguna de nuestras entidades se le hará la devolución total. Luego de este pre-estudio (concepto de pre-aprobación) viene LA **BÚSQUEDA DEL INMUEBLE**: Colraices le brindara el asesoramiento y de igual forma el apoyo a sus familiares en Colombia. Una vez se tenga el inmueble definido pasamos a la etapa de **RADICACION Y LEGALIZACIÓN** (estudio de crédito final) en esta etapa se debe cancelar 250€ una vez entregue toda la información, documentación y formularios requeridos debidamente firmados y diligenciados conforme a las exigencias del banco. La tarifa incluye el IVA que le permitirá tener la carta del banco ratificando la decisión de Colraices. 420 EUR en ese entonces. Supongo que es más ahora
+- Yo lo hice a través de Viventa y si te cobran, en mi caso fueron 250 EUR.
+- Al parecer todos los bancos requieren un broker para poder recibir una solicitud de crédito cuando el colombiano reside afuera. Yo estoy usando casa en casa: [https://casaencasa-co.com/](https://casaencasa-co.com/) . Y también pague un valor por la asesoría. Y no tuve que traducir ningún documento de ingles a español.
+
+## ¿Crédito en UVR o a tasa fija?
+
+Le pregunté a otro primo que sacó también crédito para un apto usado que compró, esto fue lo que me contó:Lo sacó por UVR hace casi 4 años. Es crédito hipotecario con Davivienda, no de leasing. El desembolso total fue de $170 millones.Empezó pagando de cuota $1.370.000, ahora paga $1.644.000Me dice que lo quería sacar a 15 años pero que por ser UVR el banco "le obligó" a ponerlo a 30 años (No sé si eso lo puedan hacer). Ha pagado 40 cuotas y de los $170 iniciales en este momento debe $210 millones ($40 más del capital desembolsado). Según mis cálculos ha pagado 60 millones en cuotas, si fuera a saldar la deuda hoy, habrá pagado 270 millones. 100 millones más de lo desembolsado hace casi 4 años.
+
+# Créditos Hipotecarios
+
+El crédito hipotecario es una modalidad de crédito donde a una persona se le presta un monto de dinero, entregando como garantía un bien inmueble. Esto quiere decir que en caso de incumplir con los pagos, esto haría que el bien se pierda porque esta es la garantía.
+
+## ¿Quién puede prestar el dinero?
+
+- Cooperativas
+- Cajas de compensación
+- Terceros
+- Bancos
+- Financieras
+
+## Funcionamiento
+
+Un crédito hipotecario funciona de la siguiente manera. La persona que tiene intenciones de comprar una casa para acceder a este tipo de créditos sabe que debe tener ahorrado el 30% del valor del inmueble. En las entidades vigiladas lo máximo que se puede prestar es hasta el 70% del valor comercial del inmueble.
+
+## Requisitos
+
+La persona que va a pedir el crédito hipotecario debe presentar la documentación para que la entidad crediticia estudie sus hábitos de pago.
+
+## Aprobación
+
+[Créditos]({% link docs/creditos.md %})
+
+## Monto
+
+El banco financia el menor valor entre:
+
+- El avalúo comercial del inmueble hecho por un perito
+- La promesa de compraventa
+
+## Cuota
+
+Se debe tener en cuenta que la cuota del crédito hipotecario no debe superar el 30% de los ingresos del que solicita el crédito.
+
+Y tiene 2 opciones de pago: el de abono a capital, donde las cuotas van disminuyendo a medida que avanza el tiempo comenzando con la más alta, y de cuota fija, con mensualidades constantes hasta pagar todo el crédito. De ser posible siempre abone a capital.
+
+## Tasa de interés
+
+La tasa de interés es una de las más bajas del mercado porque tiene la garantía del mismo bien. Existen dos modalidades: Créditos en pesos y créditos en UVR (Unidad de Valor Real) Esto es una moneda virtual creada en Colombia a partir del 1 de enero de 2000 para las personas de bajos recursos que acceden a los créditos hipotecarios; anteriormente esta moneda se llamaba UPAC (Unidad de Poder Adquisitivo Constante) (Para Colombia). El crédito en UVR es cuando a la persona no le da la capacidad de pagar cuotas altas entonces se ofrece esta modalidad que está atada al comportamiento del Índice de Precios al Consumidor (IPC), es una unidad que aumenta o disminuye al mismo tiempo que la inflación del país aumenta o disminuye. Lo importante es revisar que la tasa que me ofrezcan sea buena y no tomar créditos en UVR.
+
+## Seguros
+
+En Colombia se debe tener en cuenta que además de pagar el crédito, se debe tener una póliza de vida y una póliza de calamidades (incendios, terremotos, ETC). Revisar sí se pueden endosar los seguros con otra entidad distinta del banco ya que el banco te los cobran muy alto entonces otra entidad los puede asumir.
+
+### Endosar los seguros del crédito
+
+Simplemente le das a un asesor externo de seguros (seguros SURA, Bolivar, o puedes revisar con un broker/agente de seguros) el id de tu crédito vigente y ya ellos te generan el seguro y eso lo llevas al banco. Eso se endosa al crédito del banco y quitan el primer seguro de vida y dejan el nuevo. Eso bajaría el costo del crédito. Hay que estar muy gato, al segundo año que no envies la renovación del seguro, el banco te pone el de ellos
+
+Si vives en propiedad raíz, la unidad tiene un seguro general de calamidades, puedes hablar con ellos para que te den el papel para endosar el seguro. Por ejemplo para ScotiaBank, Pides la documentación a la aseguradora de la unidad y lo envías a [endososbp@colpatria.com](mailto:endososbp@colpatria.com) [https://canalvirtual.scotiabankcolpatria.com/app/answers/detail/a_id/131/~/endoso-póliza-de-incendio-y-terremoto](https://canalvirtual.scotiabankcolpatria.com/app/answers/detail/a_id/131/~/endoso-póliza-de-incendio-y-terremoto). El ultimo que hice fue con un apto que compré en inversión. Le escribí a la administración del edificio del apto con la solicitud, y ellos ya me respondieron con la info de la empresa que lo hace se genera la solicitud y a los dias te envian los documentos. Luego esos documentos los envias al banco, en mi caso fue bancolombia. y listo aprobaron y quedó hecho. La cuota del crédito hipotecario se disminuyó.
+
+Tambien es posible endosar los seguros de un crédito vehicular.
+
+## Pagos
+
+Es posible realizar pagos con extensiones tributarias a través de cuentas AFC. Yo lo tengo así, en su momento cuando me desembolsaron solicité que me cobraran la cuota desde la AFC. Y lo que hago siempre es consignar el monto a esa cuenta y ya. Si con la AFC en la sucursal física, yo lo tengo así, lo active desde que saque el préstamo.
+
+[Cuenta AFC]({% link docs/cuenta-afc.md %})
+
+## Periodo
+
+Los créditos hipotecarios se pueden hacer mínimo de 5 años y máximo de 15 años.
+
+Es posible pagar antes
+
+## Compra de cartera
+
+La compra de cartera siempre ha estado 3 puntos por debajo
+
+## Leyes
+
+Existen varias leyes que regulan esto. Una de ellas es la ley 546 de 1999 conocida también como LEY DE VIVIENDA. En ella se dicta el marco legal para la adquisición de vivienda que opera hasta hoy.
+
+## Capacidad de endeudamiento
+
+Revise que el crédito no consuma el 30% de la capacidad de endeudamiento.
+
+## Abono inteligente
+
+Abono a capital. Reducción de tiempo o de valor de la cuota. Cuota fija o Cuota variable.
+
+## Impuestos
+
+[Impuestos compra inmueble]({% link docs/impuestos-compra-inmueble.md %})
+
+## Recomendaciones
+
+- Constantemente esté negociando la tasa de interés de crédito con las entidades financieras que existen para estar bajando siempre su tasa.
+- Realice abonos periódicos para que el plazo baje de tal manera que usted siga pagando la misma cuota. Esto hará que sus intereses al final del crédito en total hayan disminuido más de un 50%.
+- Tenga en cuenta que a la hora de comprar o vender una casa debe tener presente los gastos notariales que son un valor importante para que no le toque hace otro crédito.
+- Evite créditos en con tasa de interés variable o en UVR
+- Compare con distintas entidades. Para ello también puede hacer uso de los servicios de un broker.
+- Si no tiene historial crediticio en Colombia y su dinero está en otro país, puede hacer uso de los servicios de un broker
+
+# Crédito para realizar mejoras en el hogar
+
+Si ya tienen una propiedad pueden averiguar por un crédito de línea de remodelación. Es básicamente un crédito de libre inversión pero con tasa de hipotecario, con garantía de la propiedad. Ese 1.39% es del 18% E.A. Que aún siendo alto es mucho menor sobre los que ofrecen de libre inversión (Rondando el 3% mensual). Y en cuanto bajen las tasas también se puede vender la cartera a otro banco. (Mayo 2023).
+
+# Leasing habitacional
+
+![Credit Score]({{ site.baseurl }}/assets/images/credit-score.png)
+
+- Con leasing posiblemente vas a tener que pagar doble escrituración:
+ - 1. Cuando te entregan el apartamento
+ - 2. Cuando terminas de pagar el leasing y se hace la transferencia de dominio del banco a tu nombre.
+- El leasing no te va a permitir (o al menos lo dificulta bastante) realizar la compra de cartera a otro banco si llegasen a haber ofertas de tasas de interés inferiores, con el crédito hipotecario te puedes cambiar de banco las veces que quieras.
+- Si, el leasing te va a "ayudar" en la declaración de renta, pero es por que en realidad el inmueble no aparece a tu nombre.
+- El leasing entrega beneficios tributarios. Como el inmueble no aparece en tus activos y en su lugar aparece una deuda entonces esto de baja la base de la retención en la declaración de renta. Aparte, si pagas impuesto al patrimonio entonces permite pagar menos impuestos al patrimonio
+- Adicional, cuando pagas los intereses de ese leasing, esos intereses se descuentan de manera anual en la declaración de renta.
+- Opción de compra: la ultima cuota que le pagas al banco para hacerte dueño.
+- Si definitivamente te vas por el leasing, lee la letra pequeña del contrato, aunque lo que se hace es un arriendo del inmueble del banco a tu nombre eso no te exime de no pagar el impuesto predial por todo lo que incluye la compra (parqueaderos, depósitos, jardines, etc).
+- También ciertos bancos te cobran un porcentaje del valor del inmueble en lo que se llama **opción de compra**, que es cuando ya pagaste el leasing y quieres que se inicie el tramite de **transferencia de dominio.**
+- **Mayor porcentaje de financiación:** La financiación para leasing está entre el 80% y el 100% del valor comercial de la propiedad, mientras con un préstamo hipotecario se financia entre el 70% y el 80%.
+- La cuota inicial puede ser menor que con un crédito hipotecario.
+- **Los intereses suelen ser más bajos:** Los intereses corrientes que hayas pagado no se tienen en cuenta en tu declaración de renta.
+- **El leasing habitacional se hace entre una Entidad financiera y una persona natural**: No se puede hacer entre 2 personas naturales.
+- El propietario es la entidad financiera.
+- En caso de no pago, se puede llegar a perder tanto el contrato de arriendo, como la futura opción de compraventa, y con ello todo los pagos ya efectuados, ya que al ser el inmueble de propiedad de la institución financiera no hay una ejecución hipotecaria propiamente tal, por lo que es más expedito para dicha institución disponer del inmueble como para venderlo a un tercero.
+- Cuando usted compra un apartamento que tiene un leasing puede que el proceso se demore 2 meses mientras espera las firmas de los bancos, etc.
+- Si lo que busca es comprar la casa para estar unos 5 o 6 años, mejor el leasing. Cuando la compra o luego cuando la vende no debe pagar nada de escrituras.
+- Como en el leasing el dueño es el banco, por lo general tienen seguros, con lo cual cualquier humedad o daño en la casa usted solo paga el deducible y listo, el seguro del banco arregla todo.
+- En el leasing, usted no puede hacer modificaciones exteriores a su casa, porque esas requieren licencia y sacar eso es un problema porque la casa es del banco.
+
+# Crédito de libre inversión
+
+Por lo general, estos tipos de crédito son de mediano y largo plazo, por eso te recomendamos analizar en cuánto tiempo lo puedes pagar
+
+# Crédito de nómina o libranza
+
+Es muy parecido al crédito de libre inversión pero los pagos a la entidad donde hagas la solicitud se descuentan automáticamente de tu nómina. Esos descuentos deben tener tu autorización y la de tu empresa.
+
+# Crédito con garantía de prenda: vehicular
+
+Para la compra de vehículos. El valor del seguro se liquida cada mes con el saldo de la deuda. Pero siempre está la opción de endosarlo donde lo puedes conseguir hasta 10 veces más barato.
+
+Por un crédito de 30 millones yo pagaba 30 mil pesos mensuales de seguro. Conseguí otro seguro para endosarlo y me salió en $36 mil el año.
+
+# Tarjetas de crédito
+
+[Tarjetas de crédito Consejos]({% link docs/tarjetas-de-credito-consejos.md %})
+
+# Otros
+
+- Educativo
+- Comercial
+- Microcréditos
+
+# Compra de Cartera
+
+La compra de cartera siempre ha estado 3 puntos por debajo.

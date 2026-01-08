@@ -1,0 +1,28 @@
+---
+layout: default
+title: "Impuesto 4x1000 GMF"
+parent: Impuestos
+nav_order: 7
+---
+
+# Impuesto 4x1000 GMF
+
+# ¿Qué es?
+
+Se cobra sobre los movimientos de débito que realizas desde tu cuenta de ahorros. Son 350 UVT al mes en la cuenta exenta.
+
+# Cuentas
+
+# ¿Cómo eludirlo?
+
+- Tenga una cuenta principal y use varias cuentas de depósitos de bajo monto.
+- Esperar al otro mes para que se reinicie el limite.
+- Usar a favor la devolución del 4x1000 en la declaración de renta.
+- Usar efectivo.
+- (No comprobado) Existe una posibilidad de adquirir con el banco un CDT endosable.
+
+[**Depósito de bajo monto (CATS)**]({% link docs/deposito-de-bajo-monto-cats.md %})
+
+# Recursos
+
+- [https://blog.nu.com.co/que-es-el-4x1000/](https://blog.nu.com.co/que-es-el-4x1000/)
