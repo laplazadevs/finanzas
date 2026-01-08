@@ -78,7 +78,7 @@ Demora como 30 minutos - 1 hora máximo en llegar a la cuenta, aunque ahí en la
 
 Para lista de códigos SWIFT Colombianos y de bancos intermediarios, visite:
 
-[Transferencias SWIFT](/finanzas/2025/03/25/transferencias-swift.html)
+[Transferencias SWIFT]({% post_url 2025-03-25-transferencias-swift %})
 
 ![Deel Payment Details]({{ site.baseurl }}/assets/images/deel-payment-details.png)
 
@@ -92,7 +92,7 @@ También puede usarse para enviar a Binance (1.6% de comisión) para comprar USD
 
 ## Usar junto con IBKR
 
-Otra opción es enviar a Wise o usar IBKR para recibir en Colombia. La opción que yo uso y recomiendo es Deel -> IBRK -> Bancolombia. Para más detalles sobre cómo enviar dinero de Deel a IBRK ver página anexa [Enviar dinero a USA/Broker](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/enviar-dinero-a-usa-broker.html). Esta opción permite realizar un envío desde el broker a su cuenta en Colombia una vez al mes de manera gratuita. Después de un envío, el costo es de $10 USD. 
+Otra opción es enviar a Wise o usar IBKR para recibir en Colombia. La opción que yo uso y recomiendo es Deel -> IBRK -> Bancolombia. Para más detalles sobre cómo enviar dinero de Deel a IBRK ver página anexa [Enviar dinero a USA/Broker]({% post_url 2025-03-25-enviar-dinero-a-usabroker %}). Esta opción permite realizar un envío desde el broker a su cuenta en Colombia una vez al mes de manera gratuita. Después de un envío, el costo es de $10 USD. 
 
 ## Usar con Bancolombia
 
@@ -112,7 +112,7 @@ El proceso de aprobación puede tomar entre 1 hora y 3 días, lo revisan manualm
 
 Para más información 
 
-[Desbloquear envíos de dinero internacional](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/desbloquear-envios-de-dinero-internacional.html)
+[Desbloquear envíos de dinero internacional]({% post_url 2025-03-25-desbloquear-envios-de-dinero-internacional %})
 
 # Tarjeta débito Deel
 

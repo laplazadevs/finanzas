@@ -36,9 +36,9 @@ El fee por la compra para la tarjeta débito de Bancolombia es 0.45%, el cual es
 
 ![XTB Mastercard]({{ site.baseurl }}/assets/images/xtb-mastercard.png)
 
-## Experiencia desde Payoneer.
+## Experiencia desde Payoneer
 
-TODO: 
+Pendiente de documentar. 
 
 # Costos
 

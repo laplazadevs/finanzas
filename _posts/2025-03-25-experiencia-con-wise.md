@@ -6,20 +6,11 @@ date: 2025-03-25 21:13:28
 
 # Experiencia con Wise
 
-<aside>
-💡 Recomiendo no usar siempre Wise para transferir a terceros (cuentas que no esten a nombre propio) porque esto puede podria ir en contra de los ToS y tu cuenta podría cerrarse.
+> 💡 Recomiendo no usar siempre Wise para transferir a terceros (cuentas que no estén a nombre propio) porque esto podría ir en contra de los ToS y tu cuenta podría cerrarse.
 
-</aside>
+> 💡 No usar siempre Wise para comprar criptomonedas. Wise es algo quisquilloso cuando de transferir a exchanges crypto se trata entonces tratar de evitarlo. No digo que no se pueda, solo digo que sí se hace, se asuma el riesgo.
 
-<aside>
-💡 No usar siempre Wise para comprar criptomonedas. Wise es algo quisquilloso cuando de transferir a exchanges crypto se trata entonces tratar de evitarlo. No digo que no ese pueda, solo digo que sí se hace, se asuma el riesgo
-
-</aside>
-
-<aside>
-💡 Wise no tiene seguro FDIC
-
-</aside>
+> 💡 Wise no tiene seguro FDIC.
 
 # General
 
@@ -31,10 +22,7 @@ date: 2025-03-25 21:13:28
 
 # Envios a Colombia
 
-<aside>
-🚨 Cuidado con algunas de las operaciones listadas en esta wiki ya que algunas no son permitidas por la política de uso aceptable de la plataforma. [https://wise.com/acceptable-use-policy](https://wise.com/acceptable-use-policy)
-
-</aside>
+> 🚨 Cuidado con algunas de las operaciones listadas en esta wiki ya que algunas no son permitidas por la política de uso aceptable de la plataforma. [https://wise.com/acceptable-use-policy](https://wise.com/acceptable-use-policy)
 
 Los envíos a Colombia están deshabilitados sí el dinero proviene de Wise. Pero los envíos usando una cuenta de origen de otro banco y usando Wise como intermediario si son posibles. Mas o menos cobran el 3% del total de la transferencia (cobran el recibo de ACH junto con un fee por envío). Tiene un límite de envió de 14 millones COP.
 

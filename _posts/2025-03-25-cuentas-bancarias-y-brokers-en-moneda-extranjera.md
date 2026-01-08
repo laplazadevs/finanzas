@@ -11,7 +11,7 @@ date: 2025-03-25 21:13:18
 
 </aside>
 
-[UVT](/finanzas/2025/03/25/uvt.html)
+[UVT]({% post_url 2025-03-25-uvt %})
 
 <aside>
 💡 Todas estos son sugerencias y no comprometen a quien haya escrito el documento. Por favor ten en cuenta las condiciones y donde guardas tu dinero.
@@ -32,15 +32,15 @@ Es posible tener dinero en brokers aunque a veces suelen exigir el uso de sus se
 | **Transferencias** | $0 Transferencia electrónica recibida
 $10 USD  Transferencia electrónica enviada (Puede ser internacional. La primera transferencia mensual cuesta $0 USD) |
 
-[Experiencia IBKR](/finanzas/2025/03/25/experiencia-ibkr.html)
+[Experiencia IBKR]({% post_url 2025-03-25-experiencia-ibkr %})
 
 ## Tradestation
 
-[Experiencia TradeStation](/finanzas/2025/03/25/experiencia-tradestation.html)
+[Experiencia TradeStation]({% post_url 2025-03-25-experiencia-tradestation %})
 
 ## XTB
 
-[Experiencia XTB](/finanzas/2025/03/25/experiencia-xtb.html)
+[Experiencia XTB]({% post_url 2025-03-25-experiencia-xtb %})
 
 ## Swissquote
 
@@ -86,7 +86,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Notas** | El proceso se inicia vía web: [https://vinculacionexterior.grupobancolombia.com](https://vinculacionexterior.grupobancolombia.com). Tarda entre 1 y 2 semanas en abrir. |
 | **Tarifario (2022)** | [https://panama.grupobancolombia.com/wps/wcm/connect/ff779521-9f16-4973-a0a3-958fe0db2c09/2022+Tarifario+Panama.pdf?MOD=AJPERES&CVID=nYEgf-i](https://panama.grupobancolombia.com/wps/wcm/connect/ff779521-9f16-4973-a0a3-958fe0db2c09/2022+Tarifario+Panama.pdf?MOD=AJPERES&CVID=nYEgf-i) |
 
-[Experiencia Bancolombia Panamá](/finanzas/2025/03/25/experiencia-bancolombia-panama.html)
+[Experiencia Bancolombia Panamá]({% post_url 2025-03-25-experiencia-bancolombia-panama %})
 
 ## **Davivienda Panamá**
 
@@ -98,7 +98,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Transferencias** | $20 Transferencia electrónica recibida <br/> $25 Transferencia electrónica enviada <br/> $0 Transferencia hacia Davivienda |
 | **Tarifario (2022)** | [https://bienvenido.davivienda.com.pa/wps/wcm/connect/personasPA/5fcdc581-ddd1-4449-ba93-6e9824f85e95/Tarifario+Personas+y+Pymes+2022.pdf?MOD=AJPERES&CVID=o4lZGNC](https://bienvenido.davivienda.com.pa/wps/wcm/connect/personasPA/5fcdc581-ddd1-4449-ba93-6e9824f85e95/Tarifario+Personas+y+Pymes+2022.pdf?MOD=AJPERES&CVID=o4lZGNC) |
 
-[Experiencia Davivienda Panamá](/finanzas/2025/03/25/experiencia-davivienda-panama.html)
+[Experiencia Davivienda Panamá]({% post_url 2025-03-25-experiencia-davivienda-panama %})
 
 ## **Davivienda Miami**
 
@@ -111,7 +111,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Notas** | Cobro de $250 por cierre de cuenta en menos de 6 meses. <br/> Tarjeta de crédito con costo de $60 anual. <br/> Los depósitos no están asegurados por el FDICl. <br/> Cuenta con aplicación móvil y página web para la gestión.  |
 | **Tarifario (2022)** | [https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf](https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf) |
 
-[Experiencia Davivienda Miami](/finanzas/2025/03/25/experiencia-davivienda-miami.html)
+[Experiencia Davivienda Miami]({% post_url 2025-03-25-experiencia-davivienda-miami %})
 
 ## Banco De Bogotá Panamá y Miami
 
@@ -176,7 +176,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Transferencias** | entrante 0 USD / saliente domestica: 25 USD / saliente internacional: 50 USD |
 | **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD. Puede ser usado para Zelle |
 
-[Experiencia Ocean Bank](/finanzas/2025/03/25/experiencia-ocean-bank.html)
+[Experiencia Ocean Bank]({% post_url 2025-03-25-experiencia-ocean-bank %})
 
 ## **Banesco USA**
 
@@ -268,7 +268,7 @@ los bancos panameños piden a los extranjeros mas de monto mínimo que los banco
 
 # NeoBancos - Fintech
 
-[Observación sobre algunas fintech](/finanzas/2025/03/25/observacion-sobre-algunas-fintech.html)
+[Observación sobre algunas fintech]({% post_url 2025-03-25-observacion-sobre-algunas-fintech %})
 
 ### **Utoppia**
 
@@ -291,7 +291,7 @@ los bancos panameños piden a los extranjeros mas de monto mínimo que los banco
 | **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD a través de Evolve Bank and Trust y Lineage Bank, ambas entidades FDIC-insured y basadas en Tennessee.  |
 |  |  |
 
-[Experiencia Utoppia](/finanzas/2025/03/25/experiencia-utoppia.html)
+[Experiencia Utoppia]({% post_url 2025-03-25-experiencia-utoppia %})
 
 ### ~~Sprout~~
 
@@ -330,7 +330,7 @@ Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Perm
 | **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: 0.39 USD <br/>Salientes internacional Swift: X USD |
 | **Notas** | Se necesita pasaporte. 20 dólares iniciales. Tiene bloqueados (agosto-2022) los envíos a Colombia. Se puede usar en conjunto con IBKR o TDBank para enviar dinero a Colombia (costo transferencia ACH: 0.39 USD). |
 
-[Experiencia con Wise](/finanzas/2025/03/25/experiencia-con-wise.html)
+[Experiencia con Wise]({% post_url 2025-03-25-experiencia-con-wise %})
 
 ### Payoneer
 
@@ -342,7 +342,7 @@ Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Perm
 | **Transferencias** | Entrantes ACH: 1% del monto <br/> Salientes domestica ACH: 1.5 USD <br/>Salientes internacional Swift: 32 USD + 2% del monto <br/>Currency convertion: 3.5% OF AMOUNT TO TRANSFER |
 | **Notas** | La plataforma que suele ser muy popular para recibir pagos de freelancers. Se pueden hacer envios a cualquier cuenta en USA a través de ACH. Tiene una tarjeta debito Mastercard. |
 
-[Experiencia Payoneer](/finanzas/2025/03/25/experiencia-payoneer.html)
+[Experiencia Payoneer]({% post_url 2025-03-25-experiencia-payoneer %})
 
 ### Epayservices
 
@@ -386,7 +386,7 @@ Otra plataforma popular para recibir pagos de freelancers.
 | **Transferencias** | 0 ACH envío y recepción |
 | **Notas** | Ofrece tarjeta física mastercard que puede ser usada 45 días despues de haber creado la cuenta. |
 
-[Experiencia Sammy](/finanzas/2025/03/25/experiencia-sammy.html)
+[Experiencia Sammy]({% post_url 2025-03-25-experiencia-sammy %})
 
 ## Paypal
 
@@ -400,7 +400,7 @@ Otra plataforma popular para recibir pagos de freelancers.
 
 El famoso servicio. No cuenta con ACH así que solo puedes recibir pagos de terceros que también usen Paypal. Ver página de envíos a Colombia sobre tarifas
 
-[Experiencia Paypal](/finanzas/2025/03/25/experiencia-paypal.html)
+[Experiencia Paypal]({% post_url 2025-03-25-experiencia-paypal %})
 
 ## Credicorp
 

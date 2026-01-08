@@ -153,7 +153,7 @@ Rellene el formulario.
 
 Ver Bancos Intermediarios para transferencias SWIFT en
 
-[Transferencias SWIFT](/Finanzas%20101%20a7afac9cfd494251b3265655b35883a9/2025/03/25/transferencias-swift.html)
+[Transferencias SWIFT]({% post_url 2025-03-25-transferencias-swift %})
 
 Y el banco beneficiario o al destinatario final sería
 

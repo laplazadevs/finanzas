@@ -126,7 +126,7 @@ Ventajas:
 
 Si necesita apalancamiento puede revisar
 
-[Créditos](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/creditos.html)
+[Créditos]({% post_url 2025-03-25-creditos %})
 
 # Transferencias
 
@@ -146,7 +146,7 @@ Si necesita realizar la transferencia de grandes sumas de dinero (mayores a 30 m
 
 # Impuestos a la hora de escriturar
 
-[Impuestos compra inmueble](/finanzas/2025/03/25/impuestos-compra-inmueble.html)
+[Impuestos compra inmueble]({% post_url 2025-03-25-impuestos-compra-inmueble %})
 
 # Flipping
 

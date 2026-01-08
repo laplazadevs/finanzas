@@ -19,4 +19,4 @@ Si necesita una tarjeta crédito prepagada (prácticamente débito), puede solic
 
 Para  más información ver:
 
-[Depósito de bajo monto (CATS)](/finanzas/2025/03/25/deposito-de-bajo-monto-cats.html)
+[Depósito de bajo monto (CATS)]({% post_url 2025-03-25-deposito-de-bajo-monto-cats %})

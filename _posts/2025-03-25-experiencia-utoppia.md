@@ -120,7 +120,7 @@ Cuando agregas la tarjeta a Apple Pay, estos son los resultados a la hora de pag
 - Permite recibir transferencias nacionales e internacionales en dólares.
 - Para las transferencias SWIFT a Colombia, tener cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción. Para obtener los códigos SWIFT:
 
-[Transferencias SWIFT](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/transferencias-swift.html)
+[Transferencias SWIFT]({% post_url 2025-03-25-transferencias-swift %})
 
 - Permite recibir dinero de una cuenta propia en PayPal.
 - Permite realizar transferencias entre usuarios de la misma aplicación de forma gratuita e inmediata.

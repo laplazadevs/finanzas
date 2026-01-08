@@ -11,7 +11,7 @@ date: 2025-03-25 21:13:22
 
 </aside>
 
-Los **Depósitos de bajo monto** o depósitos electrónicos anteriormente conocidos como **Cuentas de Ahorro de Trámite Simplificado (CATS)** están exentas del **4x1000 hasta los 65 UVT** ([ver el articulo de UVT para saber el valor actualizado](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/uvt.html)), las restringidas permiten movimientos hasta los 3 salarios mínimos, las que no permiten **hasta 8 SMMLV**. 
+Los **Depósitos de bajo monto** o depósitos electrónicos anteriormente conocidos como **Cuentas de Ahorro de Trámite Simplificado (CATS)** están exentas del **4x1000 hasta los 65 UVT** ([ver el articulo de UVT para saber el valor actualizado]({% post_url 2025-03-25-uvt %})), las restringidas permiten movimientos hasta los 3 salarios mínimos, las que no permiten **hasta 8 SMMLV**. 
 
 Las marcadas con "No*" permiten eliminar los topes y funcionar como una  cuenta tradicional o depósito ordinario. Todas las que ofrecen tarjeta débito están habilitadas para pago sin contacto (contactless) y poseen código CVV para comprar por internet. 
 

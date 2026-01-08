@@ -10,7 +10,7 @@ date: 2025-03-25 21:13:20
 
 [Guía oficial de Giovanny Góngora](https://gioyik.com/p/broker-para-noobs-como-yo)
 
-[Experiencia IBKR](/finanzas/2025/03/25/experiencia-ibkr.html)
+[Experiencia IBKR]({% post_url 2025-03-25-experiencia-ibkr %})
 
 # **Recursos Recomendados**
 
