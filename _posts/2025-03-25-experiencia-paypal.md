@@ -12,10 +12,7 @@ Cobran el 3.5% del monto a transferir. Es posible transferir a Utoppia o a Wise.
 
 # Transferencias a Colombia
 
-<aside>
-💡 Sale mejor enviar el dinero de Paypal a Utoppia (por ejemplo) con 3% de comisión y luego si enviarlo a Colombia usando IBKR
-
-</aside>
+> 💡 Sale mejor enviar el dinero de Paypal a Utoppia (por ejemplo) con 3% de comisión y luego si enviarlo a Colombia usando IBKR
 
 Compación de las distintas opciones de envio a Colombia que ofrece Paypal:
 

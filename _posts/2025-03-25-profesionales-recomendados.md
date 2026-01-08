@@ -6,10 +6,7 @@ date: 2025-03-25 21:13:22
 
 # Profesionales recomendados
 
-<aside>
-🚨 No se tiene ninguna preferencia por los profesionales listados aquí. El orden es aleatorio
-
-</aside>
+> 🚨 No se tiene ninguna preferencia por los profesionales listados aquí. El orden es aleatorio
 
 # Contadores
 

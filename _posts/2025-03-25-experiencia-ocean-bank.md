@@ -6,10 +6,7 @@ date: 2025-03-25 21:13:26
 
 # Experiencia Ocean Bank
 
-<aside>
-💡 Despues de enviar los papeles, no me volvieron a responder.
-
-</aside>
+> 💡 Despues de enviar los papeles, no me volvieron a responder.
 
 Puede enviar un correo solicitando información a [ibccustomerservice@oceanbank.com](mailto:ibccustomerservice@oceanbank.com). Es importante informar el balance que va mantener en su cuenta bancaria personal. Los requisitos son:
 

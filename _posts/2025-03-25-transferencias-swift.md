@@ -154,20 +154,11 @@ SWIFT (legalmente, S.W.I.F.T. SC) acrónimo de Society for Worldwide Interbank F
 
 # Códigos SWIFT de Bancos intermediarios para Bancos Colombianos (Dolares)
 
-<aside>
-🚨 Llame a su banco y confirme con ellos la información antes del envio. Recuerde que la selección incorrecta del banco intemediario o corresponsal deriva en demoras durante el envio y cobros adicionales.
+> 🚨 Llame a su banco y confirme con ellos la información antes del envio. Recuerde que la selección incorrecta del banco intemediario o corresponsal deriva en demoras durante el envio y cobros adicionales.
 
-</aside>
+> 🚨 Realice una pequeña transferencia para corroborar que todo este bien antes de enviar una suma grande.
 
-<aside>
-🚨 Realice una pequeña transferencia para corroborar que todo este bien antes de enviar una suma grande.
-
-</aside>
-
-<aside>
-🚨 Revise los cobros de su banco o los bancos intermediarios.
-
-</aside>
+> 🚨 Revise los cobros de su banco o los bancos intermediarios.
 
 ### Bancolombia
 
@@ -185,10 +176,7 @@ Sobre el banco intermediario (O **Correspondent Bank**), puede usar los siguient
 
 ## Davivienda
 
-<aside>
-🚨 Solo he probado usando el CITIBANK. $0 Fees usando IBKR.
-
-</aside>
+> 🚨 Solo he probado usando el CITIBANK. $0 Fees usando IBKR.
 
 Sobre el banco intermediario (O **Correspondent Bank**), puede usar los siguientes:
 

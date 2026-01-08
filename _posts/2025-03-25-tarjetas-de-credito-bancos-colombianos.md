@@ -6,10 +6,7 @@ date: 2025-03-25 21:13:22
 
 # Tarjetas de crédito bancos Colombianos
 
-<aside>
-💡 Esta información suele cambiar con el tiempo así que es mejor estar atento a los cambios en cada banco
-
-</aside>
+> 💡 Esta información suele cambiar con el tiempo así que es mejor estar atento a los cambios en cada banco
 
 ## Bancolombia
 

@@ -6,17 +6,11 @@ date: 2025-03-25 21:13:18
 
 # Cuentas Bancarias y Brokers en Moneda Extranjera
 
-<aside>
-💡 Recuerda que a partir de 2000 UVT en dineros el exterior siendo residente fiscal Colombiano, debes declarar en la DIAN ese dinero.
-
-</aside>
+> 💡 Recuerda que a partir de 2000 UVT en dineros el exterior siendo residente fiscal Colombiano, debes declarar en la DIAN ese dinero.
 
 [UVT]({% post_url 2025-03-25-uvt %})
 
-<aside>
-💡 Todas estos son sugerencias y no comprometen a quien haya escrito el documento. Por favor ten en cuenta las condiciones y donde guardas tu dinero.
-
-</aside>
+> 💡 Todas estos son sugerencias y no comprometen a quien haya escrito el documento. Por favor ten en cuenta las condiciones y donde guardas tu dinero.
 
 # Brokers
 
@@ -60,10 +54,7 @@ No disponible para Colombia.
 
 # Bancos con origen Colombianos
 
-<aside>
-🚨  Ninguna de las cuentas con las filiales internacionales cuenta con seguros de depósitos.
-
-</aside>
+> 🚨  Ninguna de las cuentas con las filiales internacionales cuenta con seguros de depósitos.
 
 Cuentas que puedes abrir desde Colombia. Tienen como beneficio o ventaja que puede mantener y ahorrar en dólares para no tener que cambiarlo todo a pesos. Ademas las transferencias entre bancos del mismo grupo (ej. Bancolombia Panama a Bancolombia) son gratuitas.
 
@@ -255,10 +246,7 @@ Yo abrí en sept del año pasado cuenta en citi bank de plantation Florida. Muy 
 
 # Bancos en Ecuador
 
-<aside>
-💡 Nadie de la comunidad lo ha comprobado de primera mano. Tener precaución
-
-</aside>
+> 💡 Nadie de la comunidad lo ha comprobado de primera mano. Tener precaución
 
 En Ecuador solo piden pasaporte para abrir cuenta bancaria, pero tiene que ser presencialmente, yo ahorro hay, no te cobran nada y mensualmente te dan intereses.(unos centavos) te dan poco pero no quitan mucho como en Colombia. Y las tarjetas débitos ya salen para usar en cualquier parte del mundo.
 
@@ -272,15 +260,9 @@ los bancos panameños piden a los extranjeros mas de monto mínimo que los banco
 
 ### **Utoppia**
 
-<aside>
-🚨 En este momento (Mayo 2023) Utoppia tiene una lista de espera para suscripciones nuevas
+> 🚨 En este momento (Mayo 2023) Utoppia tiene una lista de espera para suscripciones nuevas
 
-</aside>
-
-<aside>
-🚨 A Junio 2023, Utoppia tiene las transferencias SWIFT a Colombia congeladas
-
-</aside>
+> 🚨 A Junio 2023, Utoppia tiene las transferencias SWIFT a Colombia congeladas
 
 | **Información** | [https://utoppia.com/about.html](https://utoppia.com/about.html) |
 | --- | --- |
@@ -295,10 +277,7 @@ los bancos panameños piden a los extranjeros mas de monto mínimo que los banco
 
 ### ~~Sprout~~
 
-<aside>
-💡 Este servicio parece ya no estar en funcionamiento. 3/02/23
-
-</aside>
+> 💡 Este servicio parece ya no estar en funcionamiento. 3/02/23
 
 | **Información** | [https://www.sproutbank.io/](https://www.sproutbank.io/) |
 | --- | --- |
@@ -346,10 +325,7 @@ Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Perm
 
 ### Epayservices
 
-<aside>
-💡 Parece que no tienen buenos comentarios de usuarios. Tener cuidado
-
-</aside>
+> 💡 Parece que no tienen buenos comentarios de usuarios. Tener cuidado
 
 | **Información** | [https://epayservices.com/es/fees.html](https://epayservices.com/es/fees.html) |
 | --- | --- |
@@ -373,10 +349,7 @@ Otra plataforma popular para recibir pagos de freelancers.
 
 ## ~~Sammy~~
 
-<aside>
-⛔ Pronto van a cerrar este servicio (Abril-2024)
-
-</aside>
+> ⛔ Pronto van a cerrar este servicio (Abril-2024)
 
 | **Información** | [https://www.usesammy.com/](https://www.usesammy.com/) |
 | --- | --- |
@@ -416,10 +389,7 @@ Cuenta en Panamá
 
 ## Wallbit
 
-<aside>
-🚨 Parece ya no estar en funcionamiento. No estan aceptando depositos (Mayo 2023)
-
-</aside>
+> 🚨 Parece ya no estar en funcionamiento. No estan aceptando depositos (Mayo 2023)
 
 Argentina. Te da una dirección SWIFT y una ABA/ACH en USA para recibir dinero. Puedes enviar dinero desde Wise, Paypal, Payoneer.
 
@@ -437,10 +407,7 @@ Ver tarifas [https://help.wallbit.io/es/articles/6376452-comisiones-y-limites-wa
 
 ## Traund
 
-<aside>
-🚨 Al parecer esta solución usa dólares digitales Tether USDT
-
-</aside>
+> 🚨 Al parecer esta solución usa dólares digitales Tether USDT
 
 Aplicación Peruana. Te da una dirección ACH en USA para recibir dinero. Puedes enviar dinero desde Wise, Paypal, Payoneer.
 
@@ -526,7 +493,7 @@ Te da una dirección ACH en USA para recibir y enviar dinero, con un costo fijo 
 
 ## Zenus Bank
 
-.
+
 
 ## Seis
 

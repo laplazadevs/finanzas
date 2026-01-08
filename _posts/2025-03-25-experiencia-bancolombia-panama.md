@@ -10,19 +10,13 @@ Bancolombia Panamá ofrece el proceso de apertura más sencillo pero sus cuentas
 
 ## Apertura de cuenta
 
-<aside>
-⛔
+> ⛔
 
 Durante la entrevista no vaya a decir que piensa usar la cuenta como pasarela entre USA y Colombia. Al menos deje un saldo ligeramente superior al mínimo. Sabemos del caso de un aspirante que fue rechazado por haber dicho que lo usaría únicamente de pasarela
 
-</aside>
-
-<aside>
-⚠️
+> ⚠️
 
 Estos bancos suelen ser poco tolerantes con negocios como casinos, burdeles virtuales y traiding. Sugerimos no usar estos servicios directametne desde estas cuentas
-
-</aside>
 
 En total fueron 5 días hábiles , en los 3 días ya tenias las cuenta lista y esperar 2 días más para poder entrar por app de Bancolombia inversiones , es súper rápido.
 

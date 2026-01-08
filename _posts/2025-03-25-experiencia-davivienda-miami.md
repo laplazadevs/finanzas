@@ -6,26 +6,17 @@ date: 2025-03-25 21:13:26
 
 # Experiencia Davivienda Miami
 
-<aside>
-💡 Exijan a quien les haga las transferencias locales en USA (y que ustedes reciben en Davivienda Miami), que use ACH en lugar de Wire transfer. Porque por las transferencias ACH les cobran 0.5 USD mientras que por las Wire le cobran 20 USD.
-
-</aside>
+> 💡 Exijan a quien les haga las transferencias locales en USA (y que ustedes reciben en Davivienda Miami), que use ACH en lugar de Wire transfer. Porque por las transferencias ACH les cobran 0.5 USD mientras que por las Wire le cobran 20 USD.
 
 # Apertura de cuenta
 
-<aside>
-⛔
+> ⛔
 
 Durante la entrevista no vaya a decir que piensa usar la cuenta como pasarela entre USA y Colombia. Al menos deje un saldo ligeramente superior al mínimo. Sabemos del caso de un aspirante que fue rechazado por haber dicho que lo usaría únicamente de pasarela
 
-</aside>
-
-<aside>
-⚠️
+> ⚠️
 
 Estos bancos suelen ser poco tolerantes con negocios como casinos, burdeles virtuales y traiding. Sugerimos no usar estos servicios directametne desde estas cuentas
-
-</aside>
 
 Las solicitudes demoran cerca de 1 mes en ser aprobadas (Información de 12/08/2022).
 
@@ -51,10 +42,7 @@ Se le indica al asesor de donde van a salir los fondos:
 
 # Tipos de cuenta
 
-<aside>
-💡 Son un poco quisquillosos cuando se recibe dinero de terceros o se envían dinero a terceros.
-
-</aside>
+> 💡 Son un poco quisquillosos cuando se recibe dinero de terceros o se envían dinero a terceros.
 
 - Se puede abrir una cuenta en Dolares o en Euros
 - Cuenta está en dólares puede ser una Cuenta Corriente o Money Market.
@@ -116,13 +104,10 @@ Los CDTs son el Dólares o en Euros
 
 ### Envio usando Davivienda Miami a Davivienda Colombia
 
-<aside>
-💡 Dinero enviado: 99 USD
+> 💡 Dinero enviado: 99 USD
 Initial Bank ACH fee was 0.39 USD
 Davivienda ACH fee was 0.50 USD
 Davivienda Cargos por Envío a Davivienda Colombia: 5.00 USD
 TRM dia: 4.404,64
 Exchange Rate / Tasa de Cambio: 1.00 USD = 4317.0000 COP
 Transfer Amount / Valor de la Transferencia: 	427,383.00 COP
-
-</aside>

@@ -6,10 +6,7 @@ date: 2025-03-25 21:13:18
 
 # Enviar dinero a USA/Broker
 
-<aside>
-💡 Todos los ejemplos envían a IBKR
-
-</aside>
+> 💡 Todos los ejemplos envían a IBKR
 
 ### Desde Global66
 
@@ -139,10 +136,7 @@ Desde Bancolombia Panama se puede enviar a IBKR por la sucursal virtual, sin lle
 
 ## Desde Scotiabank
 
-<aside>
-🚨 Tomado de: [https://gioyik.com/p/broker-para-noobs-como-yo](https://gioyik.com/p/broker-para-noobs-como-yo)
-
-</aside>
+> 🚨 Tomado de: [https://gioyik.com/p/broker-para-noobs-como-yo](https://gioyik.com/p/broker-para-noobs-como-yo)
 
 Entrar a la pagina de Scotiabank sin iniciar sesión, en el menú superior elegir *Servicios* y dar click en *Giros Internacionales*, luego van a cargar una nueva pagina, buscar el item que dice *Realiza Giros Internacionales* y dar clic en la flecha. Otra pagina va a cargar, ir hasta la parte de abajo y dar click en *Continuar*.
 
@@ -170,10 +164,7 @@ solo referencia) y al Broker llega el dinero completo que pusieron en el formula
 
 Especiales gracias a **Felipe Suarez - [suarezafelipe](https://github.com/suarezafelipe)** y **Luisa Carvajal** quienes lograron descubrir todo el proceso y los requisitos para transferir dinero.
 
-<aside>
-🚨 Tomado de: [https://gioyik.com/p/broker-para-noobs-como-yo](https://gioyik.com/p/broker-para-noobs-como-yo)
-
-</aside>
+> 🚨 Tomado de: [https://gioyik.com/p/broker-para-noobs-como-yo](https://gioyik.com/p/broker-para-noobs-como-yo)
 
 ## Desde Davivienda
 

@@ -6,10 +6,7 @@ date: 2025-03-25 21:13:20
 
 # Inversión en NFTs
 
-<aside>
-💡 La inversión en NFTs es altamente riesgosa, hay muchas estafas y cero garantías
-
-</aside>
+> 💡 La inversión en NFTs es altamente riesgosa, hay muchas estafas y cero garantías
 
 ### **Pre-requisitos**
 

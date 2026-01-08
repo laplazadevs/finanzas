@@ -10,10 +10,7 @@ La ventaja de Tradestation es que tiene un Exchange de crypto que hace conversio
 
 # Envio desde Wise
 
-<aside>
-💡 Revisar que esta operación no salte las Alarmas de Wise o de TradeStation
-
-</aside>
+> 💡 Revisar que esta operación no salte las Alarmas de Wise o de TradeStation
 
 Wise->Tradestation->Binance, veo que los fees me quedarían:
 

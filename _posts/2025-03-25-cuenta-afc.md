@@ -22,7 +22,7 @@ Al abrir una cuenta bancaria AFC puedes destinar tu ahorro para pagar:
 
 # ¿Puedo usar este ahorro para otro propósito?
 
-.
+
 
 # Como independiente
 

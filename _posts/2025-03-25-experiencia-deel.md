@@ -65,10 +65,7 @@ Enviar COP, cuesta ~45USD por 3K USD, no usen nunca esta opción es la más cost
 
 ## Tranferencia bancaria: Swift
 
-<aside>
-💡 Por regulación (para combatir el terrorismo y stuff) las transferencias internacionales en USD deben pasar por algún banco en USA, así las agencias gringas pueden hacer tracing de las transferencias.
-
-</aside>
+> 💡 Por regulación (para combatir el terrorismo y stuff) las transferencias internacionales en USD deben pasar por algún banco en USA, así las agencias gringas pueden hacer tracing de las transferencias.
 
 Cuando agregamos la cuenta SWIFT, podemos agregarla en COP y en USD, debemos seleccionar USD, ya que si seleccionamos COP, al momento de retirar, Deel nos cobra un fee adicional. La idea es que la conversión la haga Bancolombia (o el Banco Local) y no Deel.
 
@@ -116,15 +113,9 @@ Para más información
 
 # Tarjeta débito Deel
 
-<aside>
-🚨 Por el momento, la tarjeta no permite retiros en cajeros ATM
+> 🚨 Por el momento, la tarjeta no permite retiros en cajeros ATM
 
-</aside>
-
-<aside>
-🚨 Parece que no soporta Apple Pay pero si Google pay.
-
-</aside>
+> 🚨 Parece que no soporta Apple Pay pero si Google pay.
 
 Deel también cuenta con una tarjeta débito prepagada Mastercard. Cuesta $5 USD el envío a Colombia y es legal enviarla a Colombia. La tarjeta permite a los usuarios comprar en cualquier lugar en línea o en cualquier establecimiento que acepte Mastercard. Con Google Pay, los usuarios pueden incluso agregar una tarjeta virtual a su billetera para comenzar a gastar en más lugares sin necesidad de su tarjeta física .Tengo entendido que los que pidieron el año 2022 se demoró como 6 meses (2 casos). Como antes tenían una tarjeta VISA, y luego la cambiaron a la Mastercard, no es que se haya demorado 6 meses, es que no tenían ni franquicia ni tarjetas por 6 meses. Cuando anunciaron que ya estaba disponible las MC, ahí no tardaron más de 1 mes en entregarlas. a mí en particular que la re-pedí apenas lo anunciaron, me tardó en llegar 2 semanas a Bogotá el año pasado, pero los que se demoraron un poco más en solicitarla, se tocó esperar un mes.
 

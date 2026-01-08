@@ -127,10 +127,7 @@ Cuando agregas la tarjeta a Apple Pay, estos son los resultados a la hora de pag
 
 # Crypto
 
-<aside>
-💡 Recientemente Utoppia eliminó de su app las operaciones con crypto divisas. Los usuarios con saldos en USDC, ETH, BTC fueron convertidos a USD, es decir vendieron arbitrariamente.
-
-</aside>
+> 💡 Recientemente Utoppia eliminó de su app las operaciones con crypto divisas. Los usuarios con saldos en USDC, ETH, BTC fueron convertidos a USD, es decir vendieron arbitrariamente.
 
 - ~~USDT solo reciben ERC-20 (es algo más costoso que TRC20)~~
 - ~~Ofrecen la posibilidad de trading con criptomonedas (compra/venta/deposito/retiro) . El costo de las operaciones para compra y venta con criptomonedas es de 1% del total de la operación y cobran 1% adicional en el spread. Para el envío se debe tener en cuenta el transaction fee del network que se use. De momento ofrecen Bitcoin, Ether, USD Coin, Tether USD y DAI.~~

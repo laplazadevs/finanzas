@@ -6,17 +6,11 @@ date: 2025-03-25 21:13:26
 
 # Experiencia IBKR
 
-<aside>
-💡 IBKR como tal no es un banco así que los depósitos no están asegurados por la FDIC. Aun así esta plataforma cuenta con algunos seguros como lo son SPIC. Y esta regulada por la FINRA.
-
-</aside>
+> 💡 IBKR como tal no es un banco así que los depósitos no están asegurados por la FDIC. Aun así esta plataforma cuenta con algunos seguros como lo son SPIC. Y esta regulada por la FINRA.
 
 # Apertura de cuenta
 
-<aside>
-💡 Algunos formularios "requiren" que indiques de cuantos son tus ingresos o bien qué conocimiento tienes sobre trading, ya que no exigen que se comprueben estos datos, puedes indicar que tienes un nivel medio alto.
-
-</aside>
+> 💡 Algunos formularios "requiren" que indiques de cuantos son tus ingresos o bien qué conocimiento tienes sobre trading, ya que no exigen que se comprueben estos datos, puedes indicar que tienes un nivel medio alto.
 
 Abrir una cuenta en IBKR requiere un documento de identidad nacional, un pasaporte y una prueba de residencia (un recibo de servicio público donde aparezca su nombre y su dirección sirve). Recientemente se agrego la posibilidad de continuar con el proceso de manera automática escaneando un código QR con el celular, desde el cual se abrirá una página donde se solicitan permisos para acceder a la cámara (para tomar foto del documento de identidad), una foto suya tipo selfie, y la ubicación para corroborar que se encuentra en donde dice estar. Suelen pedir un Tax Identification Number que para el caso de Colombia es el RUT. Hay dos tipos de cuenta: una llamada Cash y otra llamada Margin. Se sugiere usar una cuenta de tipo Cash si usted no sabe exactamente de qué se trata la una o la otra (después se puede convertir la cuenta de Cash a Margin fácilmente).  
 
@@ -38,10 +32,7 @@ La gestión se realiza a través de la página web y aplicaciones móviles para 
 
 ## Cash a margin
 
-<aside>
-💡 El truco con IBKR es tener margin account así puedes retirar incluso antes de que te paguen (como un adelanto del salario) y luego con el deposito haces settlement del prestamo, así tienes el dinero en el momento en que quieras
-
-</aside>
+> 💡 El truco con IBKR es tener margin account así puedes retirar incluso antes de que te paguen (como un adelanto del salario) y luego con el deposito haces settlement del prestamo, así tienes el dinero en el momento en que quieras
 
 Para habilitar Margin en una cuenta Cash de Interactive Brokers es muy facil, lo único que hay que hacer es ir a la parte derecha superior, dar click en el icono de usuario, luego en Manage Account, en la parte de la derecha van a encontrar algo que se llama Account Type, dar click en el icono de herramienta y seleccionar Margin en la lista, no confundir con Portafolio Margin, la diferencia entre los dos es que el primero requiere de tener un portafolio de acciones, efectivo u otras cosas que resulten en un valor de más de 2 mil USD, y hay que mantener el portafolio con ese valor, lo cual no debería ser un problema con portafolios a largo plazo; el segundo tipo de margin tiene como requisito tener un mínimo de 100 mil USD y requiere pasar otros controles que no son tan necesarios.
 
@@ -85,10 +76,7 @@ Account holders who wish to have access to settled funds prior to the settlement
 
 # Recibir dinero en IBKR
 
-<aside>
-🚨 Recuerda que una vez IBKR confirme la recepción de la transferencia, debe esperar 2 o 3 días hábiles para que tu dinero este disponible para realizar operaciones solo sí tu cuenta de IBKR es de tipo Cash. Si tu cuenta es de tipo Margin, el dinero estará disponible de inmediato (apenas IBKR confirme la recepción).
-
-</aside>
+> 🚨 Recuerda que una vez IBKR confirme la recepción de la transferencia, debe esperar 2 o 3 días hábiles para que tu dinero este disponible para realizar operaciones solo sí tu cuenta de IBKR es de tipo Cash. Si tu cuenta es de tipo Margin, el dinero estará disponible de inmediato (apenas IBKR confirme la recepción).
 
 IBKR ofrece distinto tipos de método para fondear tu cuenta en la plataforma. Algunos de ellos son:
 
@@ -106,20 +94,11 @@ Normalmente toma 2 días hábiles en llegar el dinero desde tu banco a IBKR.
 
 ## A Colombia
 
-<aside>
-🚨 Para evitar advertencias de IBKR, se sugiere no usar la cuenta como una pasarela, es decir, conviene hacer algo de trading
+> 🚨 Para evitar advertencias de IBKR, se sugiere no usar la cuenta como una pasarela, es decir, conviene hacer algo de trading
 
-</aside>
+> 🚨 De acuerdo con la normativa sobre la lucha contra el blanqueo de capitales, todas las retiradas de fondos deberán enviarse en nombre del titular de cuenta.
 
-<aside>
-🚨 De acuerdo con la normativa sobre la lucha contra el blanqueo de capitales, todas las retiradas de fondos deberán enviarse en nombre del titular de cuenta.
-
-</aside>
-
-<aside>
-💡 La primera vez tendrá que "crear la conexión" entre IBKR y su banco en Colombia. Una vez creada, ya podrá crear solicitudes de retiro.
-
-</aside>
+> 💡 La primera vez tendrá que "crear la conexión" entre IBKR y su banco en Colombia. Una vez creada, ya podrá crear solicitudes de retiro.
 
 Para poder retirar fondos deberá completar una solicitud de retirada de fondos en la página de transferencias de fondos de Client Portal. La primera solicitud de retirada de fondos al mes será gratuita. IBKR cobrará una comisión por cada retirada de fondos posterior (de cualquier tipo).
 
@@ -127,10 +106,7 @@ En el portal de su cuenta haga click en un botón de "Retirar" o "Withdraw", est
 
 Rellene el formulario.
 
-<aside>
-🚨 A pesar de no ser estrictamente necesario usar un **Correspondent Bank** (O banco intermediario), se sugiere especificar uno (yo he usado Citibank) porque así se controlan los costos de envío (para Citibank es 0). He sabido de casos en el que si no se especifica, pueden cobrar $10 USD por transacción.
-
-</aside>
+> 🚨 A pesar de no ser estrictamente necesario usar un **Correspondent Bank** (O banco intermediario), se sugiere especificar uno (yo he usado Citibank) porque así se controlan los costos de envío (para Citibank es 0). He sabido de casos en el que si no se especifica, pueden cobrar $10 USD por transacción.
 
 | Filed | Value |
 | --- | --- |
@@ -242,10 +218,7 @@ Un margin loan es un tipo de prestamos con interés que permite tomar dinero ten
 
 ## Problemas
 
-<aside>
-⛔ Revise bien los pros y los contras de este procedimiento
-
-</aside>
+> ⛔ Revise bien los pros y los contras de este procedimiento
 
 - Puedes sufrir un margin call y eventualmente una liquidación de los securities que tengas invertidos sí el valor de tu portafolio cae por debajo del límite del margin. Un margin call es una alerta de tu broker para poner más dinero en la cuenta, vender inversiones o agregar más margin assets. Si no se satisface este margin call, el broker puede tomar acciones arbitrarias y liquidar posiciones en su cuenta.
 - Las tasas de interés pueden subir ya que se trata de una tasa variable. Los Margin loans te cobran interés con el tiempo, afortunadamente este prestamo tiende a tener tasas de interés más bajas comparadas con otros tipos de prestamos.
@@ -310,10 +283,7 @@ Algunas personas han comentado que dejar como portafolio de inversiones lo equiv
 
 ## Cuando IBKR recibe el dinero pero debes esperar 2 días hábiles para empezara operar
 
-<aside>
-🚨 Revisar las implicaciones de usar una cuenta Margin (así no se use el apalancamiento en las inversiones).
-
-</aside>
+> 🚨 Revisar las implicaciones de usar una cuenta Margin (así no se use el apalancamiento en las inversiones).
 
 Es normal que en cuentas de tipo Cash en IBKR toque esperar al menos dos o tres días para que el dinero esté disponible para usarse en la plataforma. Este problema puede solucionarse cambiando la cuenta a una de tipo Margin.
 

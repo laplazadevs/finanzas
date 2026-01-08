@@ -8,10 +8,7 @@ date: 2025-03-25 21:13:18
 
 # Gastos
 
-<aside>
-🚨 Estos valores son aproximados, informativos y pueden variar. La liquidación real será entregada por la notaría. La tarifa del avalúo depende del valor comercial de la vivienda. El estudio de títulos depende si la vivienda es VIS o no VIS. El número de hojas y de certificados de tradición y libertad puede ser diferente. Se incluye el IVA en los casos que aplica. La distribución de gastos entre comprador y vendedor puede ser pactada en proporciones diferentes. Los impuestos especiales autorizados para algunos departamentos no están considerados en esta simulación.
-
-</aside>
+> 🚨 Estos valores son aproximados, informativos y pueden variar. La liquidación real será entregada por la notaría. La tarifa del avalúo depende del valor comercial de la vivienda. El estudio de títulos depende si la vivienda es VIS o no VIS. El número de hojas y de certificados de tradición y libertad puede ser diferente. Se incluye el IVA en los casos que aplica. La distribución de gastos entre comprador y vendedor puede ser pactada en proporciones diferentes. Los impuestos especiales autorizados para algunos departamentos no están considerados en esta simulación.
 
 Recuerde que al comprar/vender un inmueble se deben pagar ciertos impuestos. Para un apartamento de 400 millones:
 

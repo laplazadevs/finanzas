@@ -34,10 +34,7 @@ Si eres empleado o contratista y tu empleador usa cualquiera de estas opciones, 
 
 ## Bill.com
 
-<aside>
-💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
-
-</aside>
+> 💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
 
 Se crea la cuenta con los datos bancarios de Colombia Para el código SWIFT, buscar en Google el 'nombre del banco + swift', por ejemplo para Davivienda es: CAFECOBBXXX. O bien revise la página de esta wiki.
 
@@ -47,16 +44,13 @@ Si por alguna razón el formulario de la plataforma que usan les pide el código
 
 ## Coupa
 
-<aside>
-💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
-
-</aside>
+> 💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
 
 Se crea la cuenta con los datos bancarios de Colombia o bien en USA y luego se envía.
 
 ## Gusto.com
 
-.
+
 
 ## On-Top
 
@@ -96,10 +90,7 @@ Es posible usar Wise como intermediario para enviar dinero a Colombia. El límit
 
 # Envío usando Criptomonedas
 
-<aside>
-💡 Este método tiene su riesgo.
-
-</aside>
+> 💡 Este método tiene su riesgo.
 
 [Transferencias criptomonedas]({% post_url 2025-03-25-transferencias-criptomonedas %})
 
@@ -117,10 +108,7 @@ Es posible usar [Paysend](https://paysend.com/) . Cobran $2 USD si el destinatar
 
 # Remitly
 
-<aside>
-🚨 Remitly le deja enviar hasta $60,000 dólares cada 180 días demostrando fuente de ingresos. Para una cantidad así de alta la única manera es bank wire transfer.
-
-</aside>
+> 🚨 Remitly le deja enviar hasta $60,000 dólares cada 180 días demostrando fuente de ingresos. Para una cantidad así de alta la única manera es bank wire transfer.
 
 [https://www.remitly.com/us/es/colombia](https://www.remitly.com/us/es/colombia)
 

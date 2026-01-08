@@ -8,10 +8,7 @@ date: 2025-03-25 21:13:22
 
 ## Cuentas de ahorro sin cobro de cuota de manejo
 
-<aside>
-💡 Tomado de [https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-débito.161142/](https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-d%C3%A9bito.161142/)
-
-</aside>
+> 💡 Tomado de [https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-débito.161142/](https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-d%C3%A9bito.161142/)
 
 | Banco | Cuota | PSE​ | TransfiYa​ | ACH​ | Retiros​ | Consignación​ | Tarjeta​ | Online​ | App | OF​ | CA​ | CB​ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
