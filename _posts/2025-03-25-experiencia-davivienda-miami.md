@@ -61,7 +61,7 @@ Estos recursos están disponibles después de darse de alta
 
 ## Tarjeta débito
 
-Gratuita, Mastercard, la envían desde Miami por lo que toma poco mas de 3 días en llegar en ciudades principales.
+Gratuita, Mastercard, la envían desde Miami por lo que toma poco más de 3 días en llegar en ciudades principales.
 
 Desconozco la tasa de cambio USD/COP y la Foreign Transaction Fee para:
 

@@ -8,7 +8,7 @@ date: 2025-03-25 21:13:18
 
 # Bancolombia
 
-![Untitled]({{ site.baseurl }}/assets/images/international-transfer-block.png)
+![Bloqueo de transferencia internacional]({{ site.baseurl }}/assets/images/international-transfer-block.png)
 
 Te pueden bloquear la recepción de envíos si superan los 28 mil USD anuales o los 7 mil USD mensuales. Esto no le pasa a todos, pero es una posibilidad. En Bancolombia no es necesario ir a sucursal física. Si ya tienes habilitada la cuenta para recibir giros internacionales, apenas llegas al tope te piden:
 

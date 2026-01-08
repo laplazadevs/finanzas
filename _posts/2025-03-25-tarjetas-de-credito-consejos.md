@@ -11,7 +11,7 @@ date: 2025-03-25 21:13:22
 ## Generales
 
 - Una tarjeta de crédito es el prestamo rotativo con la tasa de interés más alta por debajo de la tasa de usura. Sí en realidad quiere un prestamo y puede planearlo con anterioridad, use otros productos financieros tales como el crédito por libranza, un crédito hipotecario, etc.
-- Recuerde que la tarjeta de crédito no es una extensión de su salario. Úselo teniendo presente que es un préstamo mas caro que de libranza.
+- Recuerde que la tarjeta de crédito no es una extensión de su salario. Úselo teniendo presente que es un préstamo más caro que de libranza.
 - Lea bien los términos y condiciones a la par de las tarifas de la tarjeta ofrecida. Compare con tarjetas de la misma categoría o incluso de categorías similares `¿tendrá que pagar alguna cuota mensual o anual por el mantenimiento de su tarjeta?` Si realiza sus compras a plazos y le cobrarán intereses ¿sabe cuál es la tasa de interés?.
 - Tenga presente las fechas de corte y las fechas de pago de su tarjeta de crédito.
 - Use la tarjeta de crédito para compras que pueda pagar, es decir, úsela como un medio de pago similar a una tarjeta débito.
@@ -83,7 +83,7 @@ date: 2025-03-25 21:13:22
 
 ## Franquicia de la tarjeta
 
-- Busque que su tarjeta sea expedida por Visa, MasterCard o quizás American Express (Aunque para esta franquicia/banco puede que algunas compras sean mas costosas o bien no la acepten en el comercio de elección). Algunas tarjetas como las del Éxito (no todas, solo algunas) no son expedidas por estas tres franquicias por lo que se dificulta que las reciban en varios comercios sobretodo en el exterior.
+- Busque que su tarjeta sea expedida por Visa, MasterCard o quizás American Express (Aunque para esta franquicia/banco puede que algunas compras sean más costosas o bien no la acepten en el comercio de elección). Algunas tarjetas como las del Éxito (no todas, solo algunas) no son expedidas por estas tres franquicias por lo que se dificulta que las reciban en varios comercios sobretodo en el exterior.
 - Con respecto a las franquicias, si es VISA o Mastercard, es cosa de gustos. La diferencia fundamental está más es en cuanto a la manera como cobran cuando se compra en dólares. Con Visa, ellos liquidan con la TRM oficial de ese día. Con Mastercard, es con la TRM del día en que usted paga la cuota.
 - Tenga varias tarjetas, cada una ofrece beneficios distintos, depende de su estilo de vida.
 - Las AMEX son una chimba si usted va mucho a USA, del resto mejor revise otras opciones.

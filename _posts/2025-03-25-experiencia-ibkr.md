@@ -57,14 +57,9 @@ Para la mayoria de inversionistas Tired pricing es la mejor opción para a reduc
 - Después de enviar el dinero a IBKR, si la cuenta es cash este puede tomar 3 días hábiles (en USA) en estar disponible ese dinero para retiro. Si la cuenta es de tipo Margin, IBKR puede "prestarte" mientras se hace el settlement de ese dinero. Ten en cuenta las tasas de interés del Broker.
 
 > Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type.
->
->
 > The one exception is under the Free-Riding rule. Clients with a cash account can use the proceeds from the sale of a security to purchase a different security under the condition that the second security is held until settlement of the initial sale. If the client sells the second security prior to settlement of the initial trade, they will be in violation of the Free-Riding rule and will be locked for 90 days from utilizing this exception.
->
 > Account holders who wish to have access to settled funds prior to the settlement day may do so by electing an account type of 'Margin'. Under this account type unsettled funds may be used for trading purposes but may not be withdrawn until settlement. Account holders maintaining a 'Cash' account may request an upgrade to a 'Margin' type account by logging in to Client Portal and selecting the *Settings > Account Settings* menu item and *Account Type* from the Configuration panel. Upgrade requests are subject to a compliance review to ensure that the account holder maintains the appropriate qualifications.
->
 > Fuente: [https://ibkr.info/node/814](https://ibkr.info/node/814)
->
 
 ```
 Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type.
@@ -369,7 +364,7 @@ Cuando se está creando la cuenta se puede recibir un correo indicando que la ap
 No son claras las razones por las cuáles no permiten crearla la cuenta con IBKR pero éstos son las posibles soluciones para intentar crear la cuenta después de algún tiempo:
 
 - Intentar Abrir la cuenta nuevamente después de unos 6 meses del primer intento.
-- Fondear la cuenta con mínimo 100 dólares. Cuentas que se fondean con menos es mas probable que IBKR no quiera aperturar la cuenta.
+- Fondear la cuenta con mínimo 100 dólares. Cuentas que se fondean con menos es más probable que IBKR no quiera aperturar la cuenta.
 - Usar un correo diferente al inicial.
 - Usar un link de referido.
 

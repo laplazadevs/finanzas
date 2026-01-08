@@ -8,7 +8,7 @@ date: 2025-03-25 21:13:16
 
 > 💡 No es obligatorio tenerla pero si decides afiliarte esta es una guía.
 
-Se puede realizar el proceso por internet con [Sura](https://www.arlsura.com/index.php/inicio-independiente) o con [Positiva](https://www.positivaenlinea.gov.co/nuevo/). La afiliación se hace como ‘Independiente sin Contrato (Voluntario)’. El riesgo reportado es tipo 1 (el mas bajo). Es conveniente estar ya afiliado al sistema de pensiones y también al de salud. Piden documentos como la cédula y llenar formatos.
+Se puede realizar el proceso por internet con [Sura](https://www.arlsura.com/index.php/inicio-independiente) o con [Positiva](https://www.positivaenlinea.gov.co/nuevo/). La afiliación se hace como ‘Independiente sin Contrato (Voluntario)’. El riesgo reportado es tipo 1 (el más bajo). Es conveniente estar ya afiliado al sistema de pensiones y también al de salud. Piden documentos como la cédula y llenar formatos.
 
 Si te piden un examen médico puedes:
 

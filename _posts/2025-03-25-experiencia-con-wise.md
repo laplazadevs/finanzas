@@ -14,7 +14,7 @@ date: 2025-03-25 21:13:28
 
 # General
 
-- Es fácil y rápido recibir y enviar dinero. No suelen ser quisquillosos con los envíos de mas de 4k entre cuentas de un mismo portador.
+- Es fácil y rápido recibir y enviar dinero. No suelen ser quisquillosos con los envíos de más de 4k entre cuentas de un mismo portador.
 - Permite realizar y recibir transferencias nacionales e internacionales.
 - Requiere realizar un pequeño depósito para la apertura de la cuenta. En algunos países en un poco complicado realizarlo. Pero dicho monto puede ser usado después por el usuario.
 - Es Anti-Crypto por el momento. Por lo tanto, si tienes una cuenta Wise no realices transacciones de Criptomonedas ya que lo prohíben sus términos y condiciones.
@@ -30,11 +30,11 @@ Los envíos a Colombia están deshabilitados sí el dinero proviene de Wise. Per
 
 Wise ofrece la posibilidad de enviar dinero de un banco a otro banco siendo Wise un intermediario. En este caso lo usarías tanto como un intermediario así como la cuenta cuenta que envía el dinero. Si le das click en send en la app te dice `where do you want to send from` y te da la opción de `an account outside wise` los fees son 2,43 dólares y se demora como 30min. luego que seleccionas cuanto y a quien le pasaras el dinero te pide `how to send your usd` y es ahí donde metes tu cuenta de Wise. Una ventaja de usar el método de Apple Pay es que es rápido y con ach se demora como 3 días. Otra cosa es que puedes transferirle dinero a terceros. La app te da las opciones de la imagen:
 
-![Untitled]({{ site.baseurl }}/assets/images/wise-untitled-1.png)
+![Wise opciones de envío]({{ site.baseurl }}/assets/images/wise-untitled-1.png)
 
 Cuidado porque algunos usuarios han reportado que
 
-![Untitled]({{ site.baseurl }}/assets/images/wise-untitled-2.png)
+![Wise advertencia]({{ site.baseurl }}/assets/images/wise-untitled-2.png)
 
 # Tarjeta
 

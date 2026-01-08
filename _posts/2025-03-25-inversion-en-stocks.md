@@ -20,7 +20,7 @@ Empezar por el libro de Bernstein: [Four Pillars Investing Building Portafolio](
 
 ## Curso Pago.
 
-- Curso pago recomendado en caso de querer aprender de forma mas interactiva.
+- Curso pago recomendado en caso de querer aprender de forma más interactiva.
 
 [https://www.udemy.com/course/complete-investing-course-stocks-etfs-index-mutual-funds/](https://www.udemy.com/course/complete-investing-course-stocks-etfs-index-mutual-funds/)
 
@@ -36,7 +36,7 @@ Si decides seguir el camino de la inversión pasiva leer el de [Bogle: Little bo
 
 ## Inversión activa
 
-Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wall Street Already](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/ref=sr_1_1)  y estudiar sobre como entender a las empresas y sus informes para 2b) recomendado un curso como el de [Finances for Non-Financials Manager de Coursera](https://www.coursera.org/learn/finance-for-non-financial-managers) o un libro como Warren Buffett [Interpretation Financial Statements](https://www.amazon.com/Warren-Buffett-Interpretation-Financial-Statements-ebook/dp/B001ISOQI0/ref=sr_1_1). Para profundizar mas en Finanzas y Mercados de Capitales pueden ver este curso [https://www.khanacademy.org/economics-finance-domain/core-finance](https://www.khanacademy.org/economics-finance-domain/core-finance)
+Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wall Street Already](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/ref=sr_1_1)  y estudiar sobre como entender a las empresas y sus informes para 2b) recomendado un curso como el de [Finances for Non-Financials Manager de Coursera](https://www.coursera.org/learn/finance-for-non-financial-managers) o un libro como Warren Buffett [Interpretation Financial Statements](https://www.amazon.com/Warren-Buffett-Interpretation-Financial-Statements-ebook/dp/B001ISOQI0/ref=sr_1_1). Para profundizar más en Finanzas y Mercados de Capitales pueden ver este curso [https://www.khanacademy.org/economics-finance-domain/core-finance](https://www.khanacademy.org/economics-finance-domain/core-finance)
 
 # **Invirtiendo en Colombia**
 

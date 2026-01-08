@@ -124,7 +124,7 @@ Opciones de comisión:
 
 a. 27 dólares más IVA (pero la entidad que recibe puede cobrar hasta dos comisiones o no)
 
-b. 29 mas IVA  (pero la entidad que recibe puede cobrar hasta una comisión adicional) Update 26 sept 2024, cambió de 32 a 29.
+b. 29 más IVA  (pero la entidad que recibe puede cobrar hasta una comisión adicional) Update 26 sept 2024, cambió de 32 a 29.
 
 c. 55 dólares (Se incluyen ya las posibles comisiones que puede cobrar la entidad que recibe)
 
@@ -168,7 +168,7 @@ Especiales gracias a **Felipe Suarez - [suarezafelipe](https://github.com/suarez
 
 ## Desde Davivienda
 
-A la fecha, cuando se intentan hacer transferencias internacionales con fin de inversión extranjera, mas especifico, en Brokers, la transferencia termina cancelándose existe una política en el banco donde no tienen permitido realizar transferencias internacionales a cuentas bancarias de Brokers.
+A la fecha, cuando se intentan hacer transferencias internacionales con fin de inversión extranjera, más especifico, en Brokers, la transferencia termina cancelándose existe una política en el banco donde no tienen permitido realizar transferencias internacionales a cuentas bancarias de Brokers.
 
 ## Desde Davivienda Panamá
 

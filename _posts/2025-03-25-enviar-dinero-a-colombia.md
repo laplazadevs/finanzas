@@ -82,7 +82,7 @@ Puedes utilizar el envío de transferencia internacional, la mejor para montos a
 
 # Usando Wise
 
-Es posible usar Wise como intermediario para enviar dinero a Colombia. El límite es de 14 millones COP. Para mas detalles:
+Es posible usar Wise como intermediario para enviar dinero a Colombia. El límite es de 14 millones COP. Para más detalles:
 
 [Experiencia con Wise]({% post_url 2025-03-25-experiencia-con-wise %})
 
@@ -166,7 +166,7 @@ Monto máximo de $7500 USD por envío. Cobran cerca del 1.3% menos que la TRM, c
 
 Warning: Esta característica funciona intermitentemente.
 
-Es posible usar este método. Rappy pay cobra el 4.5% del total de la transacción. Lo bueno es que si la tarjeta es Mastercard, se respeta la TRM del día. Aunque algunas personas han reportado que la tasa de cambio cae 100 COP o 150 COP mas bajo que la tasa de cambio del mercado.
+Es posible usar este método. Rappy pay cobra el 4.5% del total de la transacción. Lo bueno es que si la tarjeta es Mastercard, se respeta la TRM del día. Aunque algunas personas han reportado que la tasa de cambio cae 100 COP o 150 COP más bajo que la tasa de cambio del mercado.
 
 Esta solución tiene como ventaja adicional que es posible integrar con Daviplata para hacer retiros en cajeros Davivienda. En 2023 Rappi empezó a implementar RappiCuenta, un deposito de bajo monto distinto a su integración con Daviplata por lo que este beneficio puede cambiar.
 

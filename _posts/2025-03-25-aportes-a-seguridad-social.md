@@ -63,7 +63,6 @@ Un **contractor que reciba su salario (honorarios) desde una empresa en el exter
 Algunos contratos con clientes del extranjero, al leerlos, parecieran dar a entender que son contratos de prestación de servicios (*Intuitu personæ*). Otros contratos son más flexibles pero dejan la duda.
 Para algunos esto puede resultar siendo una zona medio gris, ya que la UGPP no tiene forma directa de demostrar que un contrato es de prestación de servicios o no, a menos que soliciten expresamente el contrato en alguna auditoría.
 A fecha de Julio de 2023, todavía no tenemos conocimiento en la comunidad de que a alguien le hayan solicitado esto, entonces, muchos todavía optamos por considerar este tipo de contrato (con empresas del extranjero) como ***otro tipo de contrato*** y no de *prestación de servicios*.
->
 
 Para este tipo de independientes, existe la figura de la **presunción de costos**. Esta figura (que solo se puede aplicar para este tipo de independientes), asume que la ejecución de la actividad productiva tiene unos costos asociados que se pueden descontar sin necesidad de ningún soporte.
 
@@ -81,12 +80,9 @@ Para Rentistas de capital (arriendos, rendimientos de CDTs, etc), corresponde al
 
 > **¡¡¡ATENCIÓN!!! (Noticia de junio de 2024)**
 La resolución **532 de 2024 de la UGPP** dicta que a partir del 1 de Noviembre de 2024, el porcentaje de la presunción de costos se actualiza. Salió una nueva resolución y movieron el cambio para Julio del 2025.
->
 > - Los nuevos valores para Desarrolladores de Software (6201), es el **Grupo J** y corresponde a **61.17%**.
 > - Para Rentistas de capital (arriendos, rendimientos de CDTs, etc), corresponde al **28.08%**.
->
 >     ![Nuevos porcentajes]({{ site.baseurl }}/assets/images/seguridad-social-nuevos-porcentajes.png)
->
 
 ### Formula
 
@@ -146,12 +142,8 @@ usar la TRM del día de pago (es decir, del día que el dinero llega a
 Deel o equivalente).~~*
 **13 de Diciembre de 2022:**
 La respuesta a la consulta de la UGPP fue lo siguiente:
->
->
 > ![Respuesta UGPP TRM]({{ site.baseurl }}/assets/images/seguridad-social-respuesta-ugpp-trm.png)
->
 > Respuesta de la UGPP, diciendo que se debe usar la TRM del día de pago.
->
 
 ## 💸 Cálculo de los aportes 💸
 

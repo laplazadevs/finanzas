@@ -35,7 +35,7 @@ Por lo general vas a tener un asesor de Davivienda contactándote al inicio del 
 
 > ⚠️
 
-Te pueden negar la apertura de la cuenta si en la entrevista el banco identifica que vas a usar la cuenta como puente para transferir todo el dinero de manera mas conveniente a Colombia, lo que quieren oir es que una parte del dinero es para transferir a Colombia y el restante para dejar ahí guardado o para explorar los vehiculos de inversión que ofrecen.
+Te pueden negar la apertura de la cuenta si en la entrevista el banco identifica que vas a usar la cuenta como puente para transferir todo el dinero de manera más conveniente a Colombia, lo que quieren oir es que una parte del dinero es para transferir a Colombia y el restante para dejar ahí guardado o para explorar los vehiculos de inversión que ofrecen.
 
 ## Uso de la cuenta
 
@@ -51,7 +51,7 @@ Estos recursos están disponibles después de darse de alta
 
 ## Recursos
 
-- Tarjeta débito: Gratuita, Mastercard, la envían desde Panamá por lo que toma poco mas de 3 días en llegar.
+- Tarjeta débito: Gratuita, Mastercard, la envían desde Panamá por lo que toma poco más de 3 días en llegar.
 - Tarjeta crédito:
 - CDT
 

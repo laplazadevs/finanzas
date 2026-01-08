@@ -185,7 +185,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 
 Si se refiere a abrir una cuenta de cheques o ahorras en US, antes del 9/11 lo podía hacer en linea desde cualquier parte del mundo PERO con la entrada en vigencia de varias leyes entre ellas el "Patriot Act" es ahora casi imposible abrir una cuenta sin estar presente físicamente en una oficina del banco [se puede hacer pero es para uso corporativo]. Así que se hace necesario ir hasta el país para abrir una cuenta.
 
-Hablando de bancos mas tradicionales como Bank of America, Chase, Wells Fargo, estos suelen cobrar cuota de manejo si no se mantiene un saldo minimo en la cuenta.
+Hablando de bancos más tradicionales como Bank of America, Chase, Wells Fargo, estos suelen cobrar cuota de manejo si no se mantiene un saldo minimo en la cuenta.
 
 Lo que dicen oficialmente los bancos sobre aceptar o no a personas no residentes es esto:
 
@@ -252,7 +252,7 @@ En Ecuador solo piden pasaporte para abrir cuenta bancaria, pero tiene que ser p
 
 # Bancos en Panamá
 
-los bancos panameños piden a los extranjeros mas de monto mínimo que los bancos colombianos en Panamá adicionalmente tendrás el costo de transferencias, te van a cobrar alto por enviar a cuentas en Colombia (25-45 USD) y muchos ademas cobran por recibir transferencias.
+los bancos panameños piden a los extranjeros más de monto mínimo que los bancos colombianos en Panamá adicionalmente tendrás el costo de transferencias, te van a cobrar alto por enviar a cuentas en Colombia (25-45 USD) y muchos ademas cobran por recibir transferencias.
 
 # NeoBancos - Fintech
 

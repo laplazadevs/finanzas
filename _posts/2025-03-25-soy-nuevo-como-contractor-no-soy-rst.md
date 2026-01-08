@@ -10,7 +10,7 @@ Cuando se pasa de ser empleado a ser contractor hay algunas consideraciones a te
 
 Aviso: La siguiente información solo tiene carácter informativo, la información debería ser validada previamente con un contador para evaluar cada caso de forma individual.
 
-Uno de los aspectos a considerar son las responsabilidades que se deben actualizar en el RUT, el enfoque mas simple es el siguiente:
+Uno de los aspectos a considerar son las responsabilidades que se deben actualizar en el RUT, el enfoque más simple es el siguiente:
 
 Tener la responsabilidades:
 

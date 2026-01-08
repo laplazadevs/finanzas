@@ -54,4 +54,3 @@ Eso sí, hay detalles a tener en cuenta:
 
 RST es bueno para acumular.
 Pero es malo cuando uno quiere vender una casa o un carro, porque como se basa en los ingresos, eso lo pone a uno a pagar impuesto sobre lo que ingresa.
->
