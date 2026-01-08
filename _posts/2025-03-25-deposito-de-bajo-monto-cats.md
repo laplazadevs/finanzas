@@ -8,9 +8,9 @@ date: 2025-03-25 21:13:22
 
 > 💡 Tomado de [https://www.laneros.com/temas/depósito-de-bajo-monto-cats.242713/](https://www.laneros.com/temas/dep%C3%B3sito-de-bajo-monto-cats.242713/)
 
-Los **Depósitos de bajo monto** o depósitos electrónicos anteriormente conocidos como **Cuentas de Ahorro de Trámite Simplificado (CATS)** están exentas del **4x1000 hasta los 65 UVT** ([ver el articulo de UVT para saber el valor actualizado]({% post_url 2025-03-25-uvt %})), las restringidas permiten movimientos hasta los 3 salarios mínimos, las que no permiten **hasta 8 SMMLV**. 
+Los **Depósitos de bajo monto** o depósitos electrónicos anteriormente conocidos como **Cuentas de Ahorro de Trámite Simplificado (CATS)** están exentas del **4x1000 hasta los 65 UVT** ([ver el articulo de UVT para saber el valor actualizado]({% post_url 2025-03-25-uvt %})), las restringidas permiten movimientos hasta los 3 salarios mínimos, las que no permiten **hasta 8 SMMLV**.
 
-Las marcadas con "No*" permiten eliminar los topes y funcionar como una  cuenta tradicional o depósito ordinario. Todas las que ofrecen tarjeta débito están habilitadas para pago sin contacto (contactless) y poseen código CVV para comprar por internet. 
+Las marcadas con "No*" permiten eliminar los topes y funcionar como una  cuenta tradicional o depósito ordinario. Todas las que ofrecen tarjeta débito están habilitadas para pago sin contacto (contactless) y poseen código CVV para comprar por internet.
 
 Actualmente son varios los bancos, las SEDPE y compañías de financiamiento que ofrecen estas cuentas:
 

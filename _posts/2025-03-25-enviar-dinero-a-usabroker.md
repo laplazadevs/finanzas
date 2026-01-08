@@ -38,7 +38,7 @@ Estos son los pasos para hacer la transferencia por ACH (la más recomendada):
 4. En Wise ir a Recipients > Add your Bank account > Currency: USD
 5. Seleccionar Person > Bank details: ACH. En el campo nombre poner tu nombre exacto (esto se cruza con IBKR para determinar que eres tú mismo quien te transfieres los fondos y no un tercero). Poner la información que desplegó IBKR en el paso 3. Account type: Checking.
 6. Luego de agregar tu cuenta de IBKR en Wise, enviar dinero es muy fácil. Sencillamente desde Wise se selecciona el Recipient creado (categoría *Your accounts*) y luego Send Money. No hay necesidad de avisarle a IBKR nada, porque ahora con ACH, IBKR en la pantalla de Get Instructions te muestra un número de cuenta bancaria virtual que está asociado directamente con tu cuenta (UXXXXXXXX), y todo el dinero que llegue a esa cuenta bancaria virtual va directo a tu cuenta IBKR.
-7. El dinero puede llegar en el mismo día (si se hace a inicio del día), o al día siguiente. Lo bueno es que con este método IBKR no pone el dinero "on hold" como con Wire transfer, sino que se puede usar inmediatamente una vez lo recibe. 
+7. El dinero puede llegar en el mismo día (si se hace a inicio del día), o al día siguiente. Lo bueno es que con este método IBKR no pone el dinero "on hold" como con Wire transfer, sino que se puede usar inmediatamente una vez lo recibe.
 
 **Wire vs ACH**
 
@@ -108,7 +108,7 @@ Para montos mayores a 10k USD se pacta tasa por la mesa de dinero y se puede hac
 
 ![imagen.png]({{ site.baseurl }}/assets/images/usa-broker-intl-line.png)
 
-Sin embargo, esas líneas no son las mismas de la mesa de dinero, la que me dieron de la mesa es 602 4853965. 
+Sin embargo, esas líneas no son las mismas de la mesa de dinero, la que me dieron de la mesa es 602 4853965.
 
 Esa transferencia toca por Wire. Para llegar a la info de IBKR para Wire, googleé el tax identification number de IBKR, primer resultado es Tax FAQs, luego bajo el título Tax Forms bajar hasta la pregunta What is the tax identification number for Interactive Brokers LLC, dice "The US tax identification number (EIN) for Interactive Brokers LLC is 13-3863700".
 
@@ -122,9 +122,9 @@ Uno da la info y dicen que en un plazo de máx 3 horas llaman para confirmar y l
 
 Opciones de comisión:
 
-a. 27 dólares más IVA (pero la entidad que recibe puede cobrar hasta dos comisiones o no)    
+a. 27 dólares más IVA (pero la entidad que recibe puede cobrar hasta dos comisiones o no)
 
-b. 29 mas IVA  (pero la entidad que recibe puede cobrar hasta una comisión adicional) Update 26 sept 2024, cambió de 32 a 29. 
+b. 29 mas IVA  (pero la entidad que recibe puede cobrar hasta una comisión adicional) Update 26 sept 2024, cambió de 32 a 29.
 
 c. 55 dólares (Se incluyen ya las posibles comisiones que puede cobrar la entidad que recibe)
 
@@ -159,7 +159,7 @@ Finalmente se da clic en firmar en el campo de la firma y listo. El siguiente fo
 - En Identificación del Inversionista poner en los campos *N Acciones-Coutas* el numero uno (1) y en el campo *Inversión a Plazos* el texto NO.
 - En Numeral Cambiario de la siguiente sección se digita el numero 4585, se pone de nuevo el monto y firma.
 
-Por lo general, la transferencia cuesta unos 9 mil pesos, pero con la diferencia entre la tasa de cambio del mercado y la que brinda el banco para convertir los pesos a dólares, suele terminar costando este tipo de transferencia entre 80 y 90 mil COP (puede cambiar con el tiempo, es 
+Por lo general, la transferencia cuesta unos 9 mil pesos, pero con la diferencia entre la tasa de cambio del mercado y la que brinda el banco para convertir los pesos a dólares, suele terminar costando este tipo de transferencia entre 80 y 90 mil COP (puede cambiar con el tiempo, es
 solo referencia) y al Broker llega el dinero completo que pusieron en el formulario, no se hacen cobros adicionales para recibirlo en la cuenta.
 
 Especiales gracias a **Felipe Suarez - [suarezafelipe](https://github.com/suarezafelipe)** y **Luisa Carvajal** quienes lograron descubrir todo el proceso y los requisitos para transferir dinero.
@@ -198,7 +198,7 @@ En la siguiente pantalla, en los campos de Sending Institution ingresamos "Daviv
 
 ![IBKR Account Details]({{ site.baseurl }}/assets/images/davivienda-intl-form.png)
 
-Una vez diligenciada esta forma, obtenemos toda la información de Interactive Broker para iniciar el giro **desde Davivienda Panamá**. Se ve más o menos así y es la plantilla que utilizamos para ingresar 
+Una vez diligenciada esta forma, obtenemos toda la información de Interactive Broker para iniciar el giro **desde Davivienda Panamá**. Se ve más o menos así y es la plantilla que utilizamos para ingresar
 todos campos importantes desde el portal de Davivienda Panamá:
 
 ![IBKR Transfer Template]({{ site.baseurl }}/assets/images/davivienda-intl-info.png)

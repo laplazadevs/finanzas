@@ -16,9 +16,9 @@ Los baby steps de Dave Ramsey son un método conocido para comenzar a construir 
 2. Ahorrar $4 millones COP ($1.000 USD) lo más pronto posible.
 3. Paga todas las deudas, sobretodo las que tengan altos intereses (sin contar hipotecas). [Método de la bola de nieve](https://www.wellsfargo.com/es/goals-credit/smarter-credit/manage-your-debt/snowball-vs-avalanche-paydown/) y avalancha para salir de deudas .
 4. Crear Fondo de emergencia con 3-6 meses de gastos. Algunos hablan de que puede ser más (hasta 12 meses) dada la situación económica actual. La idea es tener liquidez para actuar rápido.
-    
+
     Opciones para Fondo de emergencia:
-    
+
     - Fiducuenta: Líquida y con rentabilidad cercana e incluso a veces superiores que CDTs y cuentas de ahorro de high savings.
     - Cuentas de ahorro de high savings:
         - Pibank

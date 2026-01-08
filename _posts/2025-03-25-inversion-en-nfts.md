@@ -10,7 +10,7 @@ date: 2025-03-25 21:13:20
 
 ### **Pre-requisitos**
 
-En general, necesitas un wallet para comprar. La más fácil de instalar es Metamask 
+En general, necesitas un wallet para comprar. La más fácil de instalar es Metamask
 
 [A crypto wallet & gateway to blockchain apps - MetaMask](https://metamask.io/)
 
@@ -96,7 +96,7 @@ HowRare Is:
 
 ### NFT Flipping
 
-Algunos inversionistas prefieren buscar proyectos en el mercado secundario para comprar y revender. Uno de los sitios más populares es 
+Algunos inversionistas prefieren buscar proyectos en el mercado secundario para comprar y revender. Uno de los sitios más populares es
 
 [](https://opensea.io/)
 

@@ -38,7 +38,7 @@ $10 USD  Transferencia electrónica enviada (Puede ser internacional. La primera
 
 ## Swissquote
 
-Disponible para Colombia, pero con fees altos comparado con IBKR o XTB. (Linkear la página de experiencia si alguien ya la tiene). 
+Disponible para Colombia, pero con fees altos comparado con IBKR o XTB. (Linkear la página de experiencia si alguien ya la tiene).
 
 ## Saxo Bank
 
@@ -492,8 +492,6 @@ Te da una dirección ACH en USA para recibir y enviar dinero, con un costo fijo 
 - El cash back es gradual, el máximo es de 3%
 
 ## Zenus Bank
-
-
 
 ## Seis
 

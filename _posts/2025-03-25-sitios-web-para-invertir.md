@@ -8,7 +8,7 @@ date: 2025-03-25 21:13:20
 
 De @Hugo
 
-Energía solar desde $1.000 
+Energía solar desde $1.000
 
 [Únete a la energía limpia e independiente](https://unergy.io/)
 

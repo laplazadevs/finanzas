@@ -12,11 +12,11 @@ date: 2025-03-25 21:13:26
 
 > 💡 Algunos formularios "requiren" que indiques de cuantos son tus ingresos o bien qué conocimiento tienes sobre trading, ya que no exigen que se comprueben estos datos, puedes indicar que tienes un nivel medio alto.
 
-Abrir una cuenta en IBKR requiere un documento de identidad nacional, un pasaporte y una prueba de residencia (un recibo de servicio público donde aparezca su nombre y su dirección sirve). Recientemente se agrego la posibilidad de continuar con el proceso de manera automática escaneando un código QR con el celular, desde el cual se abrirá una página donde se solicitan permisos para acceder a la cámara (para tomar foto del documento de identidad), una foto suya tipo selfie, y la ubicación para corroborar que se encuentra en donde dice estar. Suelen pedir un Tax Identification Number que para el caso de Colombia es el RUT. Hay dos tipos de cuenta: una llamada Cash y otra llamada Margin. Se sugiere usar una cuenta de tipo Cash si usted no sabe exactamente de qué se trata la una o la otra (después se puede convertir la cuenta de Cash a Margin fácilmente).  
+Abrir una cuenta en IBKR requiere un documento de identidad nacional, un pasaporte y una prueba de residencia (un recibo de servicio público donde aparezca su nombre y su dirección sirve). Recientemente se agrego la posibilidad de continuar con el proceso de manera automática escaneando un código QR con el celular, desde el cual se abrirá una página donde se solicitan permisos para acceder a la cámara (para tomar foto del documento de identidad), una foto suya tipo selfie, y la ubicación para corroborar que se encuentra en donde dice estar. Suelen pedir un Tax Identification Number que para el caso de Colombia es el RUT. Hay dos tipos de cuenta: una llamada Cash y otra llamada Margin. Se sugiere usar una cuenta de tipo Cash si usted no sabe exactamente de qué se trata la una o la otra (después se puede convertir la cuenta de Cash a Margin fácilmente).
 
-Una vez completado el formulario en la aplicación, van a pasar algunos días mientras revisan los papeles enviados. Este proceso suele tomar 2 o 3 días máximo. 
+Una vez completado el formulario en la aplicación, van a pasar algunos días mientras revisan los papeles enviados. Este proceso suele tomar 2 o 3 días máximo.
 
-Una vez confirmen todo está bien, la cuenta Cash en Interactive Brokers estará lista para operar. 
+Una vez confirmen todo está bien, la cuenta Cash en Interactive Brokers estará lista para operar.
 
 # Uso de la cuenta
 
@@ -42,7 +42,7 @@ IBKR presenta dos tipos de modelo de precios para sus usuarios con cuenta pro: u
 
 En la Fixed comissions se paga un porcentaje, con un mínimo y un máximo, sobre la inversión.
 
-Para la mayoria de inversionistas Tired pricing es la mejor opción para a reducir los costos del broker a la hora de realizar la operación de compra o venta de activos. 
+Para la mayoria de inversionistas Tired pricing es la mejor opción para a reducir los costos del broker a la hora de realizar la operación de compra o venta de activos.
 
 [Should You Use IB Fixed Or Tiered Pricing In 2023? - The Poor Swiss](https://thepoorswiss.com/ib-fixed-or-tiered-pricing/)
 
@@ -57,17 +57,17 @@ Para la mayoria de inversionistas Tired pricing es la mejor opción para a reduc
 - Después de enviar el dinero a IBKR, si la cuenta es cash este puede tomar 3 días hábiles (en USA) en estar disponible ese dinero para retiro. Si la cuenta es de tipo Margin, IBKR puede "prestarte" mientras se hace el settlement de ese dinero. Ten en cuenta las tasas de interés del Broker.
 
 > Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type.
-> 
-> 
+>
+>
 > The one exception is under the Free-Riding rule. Clients with a cash account can use the proceeds from the sale of a security to purchase a different security under the condition that the second security is held until settlement of the initial sale. If the client sells the second security prior to settlement of the initial trade, they will be in violation of the Free-Riding rule and will be locked for 90 days from utilizing this exception.
-> 
+>
 > Account holders who wish to have access to settled funds prior to the settlement day may do so by electing an account type of 'Margin'. Under this account type unsettled funds may be used for trading purposes but may not be withdrawn until settlement. Account holders maintaining a 'Cash' account may request an upgrade to a 'Margin' type account by logging in to Client Portal and selecting the *Settings > Account Settings* menu item and *Account Type* from the Configuration panel. Upgrade requests are subject to a compliance review to ensure that the account holder maintains the appropriate qualifications.
-> 
+>
 > Fuente: [https://ibkr.info/node/814](https://ibkr.info/node/814)
-> 
+>
 
 ```
-Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type. 
+Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type.
 
 The one exception is under the Free-Riding rule. Clients with a cash account can use the proceeds from the sale of a security to purchase a different security under the condition that the second security is held until settlement of the initial sale. If the client sells the second security prior to settlement of the initial trade, they will be in violation of the Free-Riding rule and will be locked for 90 days from utilizing this exception.
 
@@ -267,7 +267,7 @@ Lo depósitos en IBKR estan asegurados por la **SIPC** (Securities Investor Prot
 
 Estan regulados por la FINRA – Financial Industry Regulatory Authority.
 
-La Sociedad de Valores y Bolsa (SEC) 
+La Sociedad de Valores y Bolsa (SEC)
 
 # Problemas
 
@@ -302,7 +302,7 @@ Te toca cambiar las respuestas sobre experiencia o wealth o tienes menos de $2k 
 ## Cuando recibes o envías a cuentas que no están a tu nombre
 
 ```jsx
-"During a routine review of your IBKR account U*******, 
+"During a routine review of your IBKR account U*******,
 the IBKR Compliance department noted a deposit into your account
 that appears to be from an individual/entity other than the account
 holder (i.e., a Third-Party Deposit).
@@ -335,7 +335,7 @@ Existen situaciones en las que IBKR pueda aprobar el envío de dinero a terceros
 - Tax payments
 - IRA qualified charitable distributions
 
-**Effective August 1, 2020, IBKR will generally not approve the following types of third-party withdrawals:**  
+**Effective August 1, 2020, IBKR will generally not approve the following types of third-party withdrawals:**
 •	Private investments
 •	Repayment of loans
 •	Withdrawals to companies owned by the accountholder
@@ -366,7 +366,7 @@ In general, it means that under their interpretation of laws/regulations, they f
 
 Cuando se está creando la cuenta se puede recibir un correo indicando que la aplicación fue rechazada.
 
-No son claras las razones por las cuáles no permiten crearla la cuenta con IBKR pero éstos son las posibles soluciones para intentar crear la cuenta después de algún tiempo:  
+No son claras las razones por las cuáles no permiten crearla la cuenta con IBKR pero éstos son las posibles soluciones para intentar crear la cuenta después de algún tiempo:
 
 - Intentar Abrir la cuenta nuevamente después de unos 6 meses del primer intento.
 - Fondear la cuenta con mínimo 100 dólares. Cuentas que se fondean con menos es mas probable que IBKR no quiera aperturar la cuenta.

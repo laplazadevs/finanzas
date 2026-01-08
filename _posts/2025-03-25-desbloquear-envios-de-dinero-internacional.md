@@ -26,7 +26,7 @@ También es posible que al usar abono automático te estén bloqueando los giros
 
 ![International Transfer Block]({{ site.baseurl }}/assets/images/international-transfer-form.png)
 
-Si eres de las personas que necesita una atención por teléfono, llama a la sección de "Comercio Internacional" - 01 8000 910 090 opción 2. 
+Si eres de las personas que necesita una atención por teléfono, llama a la sección de "Comercio Internacional" - 01 8000 910 090 opción 2.
 
 Si en Bancolombia recibes el anuncio de la transferencia internacional, envías los documentos para que liberen, luego les dice que está disponible y cuando van a la recepción de transferencias internacionales en la web, la transferencia no está listada allí, entonces es porque estaba en la segunda página de la lista.
 

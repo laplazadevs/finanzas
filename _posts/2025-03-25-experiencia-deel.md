@@ -12,15 +12,15 @@ Deel permite enviar a Colombia usando varias opciones
 
 Es una plataforma de Recursos Humanos centrada en el pago de nómina tanto para empleados de la empresa como contratistas en todo el mundo.
 
-La empresa que te pague debe hacerse una cuenta y pagar por el servicio (se paga por empleado activo unos $49 USD). Algunas empresas no lo hacen porque lo ven "caro". No son un banco, por lo tanto la plata no está a tu nombre en ningún lado. O sea que si quiebran, no tenés garantizado cobrar. 
+La empresa que te pague debe hacerse una cuenta y pagar por el servicio (se paga por empleado activo unos $49 USD). Algunas empresas no lo hacen porque lo ven "caro". No son un banco, por lo tanto la plata no está a tu nombre en ningún lado. O sea que si quiebran, no tenés garantizado cobrar.
 
-¿Alguien sabe hasta cuánto tiempo se puede dejar saldo en deel? 30 días en el saldo de Deel. Si mueves el saldo a la Deel Card, no tiene límites AFAIK. Después de 30 días el dinero es devuelto a quien te lo envío. 
+¿Alguien sabe hasta cuánto tiempo se puede dejar saldo en deel? 30 días en el saldo de Deel. Si mueves el saldo a la Deel Card, no tiene límites AFAIK. Después de 30 días el dinero es devuelto a quien te lo envío.
 
 ![Deel Dashboard]({{ site.baseurl }}/assets/images/deel-dashboard.png)
 
 # Opciones de Retiro
 
-El dinero consignado por tu empresa a ti a través de Deel debe ser reclamado en máximo un mes ya que Deel no es un banco. Existen varias opciones para retiros o transferencias: 
+El dinero consignado por tu empresa a ti a través de Deel debe ser reclamado en máximo un mes ya que Deel no es un banco. Existen varias opciones para retiros o transferencias:
 
 - Cripto (BTC/ETH)
     - Binance
@@ -69,7 +69,7 @@ Enviar COP, cuesta ~45USD por 3K USD, no usen nunca esta opción es la más cost
 
 Cuando agregamos la cuenta SWIFT, podemos agregarla en COP y en USD, debemos seleccionar USD, ya que si seleccionamos COP, al momento de retirar, Deel nos cobra un fee adicional. La idea es que la conversión la haga Bancolombia (o el Banco Local) y no Deel.
 
-Cuesta ~15USD si usas un banco intermediario (5 USD Deel, 10 USD banco intermediario). También se puede evitar usar el banco intermediario para evitarse el cobro de los 10 USD, esto se logra configurando la cuenta en Deel de Bancolombia (o del banco colombiano al que quiera enviar) como SWIFT en USD y no en COP que es cuando cobran más por la comisión. 
+Cuesta ~15USD si usas un banco intermediario (5 USD Deel, 10 USD banco intermediario). También se puede evitar usar el banco intermediario para evitarse el cobro de los 10 USD, esto se logra configurando la cuenta en Deel de Bancolombia (o del banco colombiano al que quiera enviar) como SWIFT en USD y no en COP que es cuando cobran más por la comisión.
 
 Demora como 30 minutos - 1 hora máximo en llegar a la cuenta, aunque ahí en la plataforma sale que puede tardar como ~10 días, nunca ha sido el caso. Solo el "swift", "el account number", y seleccionar el "currency" como USD. Lo mejor es dejar que el mismo banco que recibe te haga la conversión.
 
@@ -89,7 +89,7 @@ También puede usarse para enviar a Binance (1.6% de comisión) para comprar USD
 
 ## Usar junto con IBKR
 
-Otra opción es enviar a Wise o usar IBKR para recibir en Colombia. La opción que yo uso y recomiendo es Deel -> IBRK -> Bancolombia. Para más detalles sobre cómo enviar dinero de Deel a IBRK ver página anexa [Enviar dinero a USA/Broker]({% post_url 2025-03-25-enviar-dinero-a-usabroker %}). Esta opción permite realizar un envío desde el broker a su cuenta en Colombia una vez al mes de manera gratuita. Después de un envío, el costo es de $10 USD. 
+Otra opción es enviar a Wise o usar IBKR para recibir en Colombia. La opción que yo uso y recomiendo es Deel -> IBRK -> Bancolombia. Para más detalles sobre cómo enviar dinero de Deel a IBRK ver página anexa [Enviar dinero a USA/Broker]({% post_url 2025-03-25-enviar-dinero-a-usabroker %}). Esta opción permite realizar un envío desde el broker a su cuenta en Colombia una vez al mes de manera gratuita. Después de un envío, el costo es de $10 USD.
 
 ## Usar con Bancolombia
 
@@ -107,7 +107,7 @@ El envio a bancolombia Deel dice que puede demorar un buen rato pero lo normal s
 
 El proceso de aprobación puede tomar entre 1 hora y 3 días, lo revisan manualmente.
 
-Para más información 
+Para más información
 
 [Desbloquear envíos de dinero internacional]({% post_url 2025-03-25-desbloquear-envios-de-dinero-internacional %})
 
@@ -175,7 +175,7 @@ No es posible usarla en:
 
 Si tienes contrato con Deel, Deel si te expide carta desde el sitio web siempre que exista contrato. Ellos ofrecen ambas modalidades de contratación, depende realmente de tu caso.
 
-Si trabajas como contractor, para Colombia no tienes un contrato de trabajo, eres independiente. En esos casos lo que normalmente usan es la declaración de renta del año anterior, y quizás la copia del contrato que tenga en deel actualmente. y/o ingresos certificados por un contador en caso de ser contractor 
+Si trabajas como contractor, para Colombia no tienes un contrato de trabajo, eres independiente. En esos casos lo que normalmente usan es la declaración de renta del año anterior, y quizás la copia del contrato que tenga en deel actualmente. y/o ingresos certificados por un contador en caso de ser contractor
 
 Bueno antes que nada, si tienes contrato por prestación o haces parte de la nómina de deel - eso hace la principal diferencia. Estás por nómina? Deel te deja descargar esa página ahí en el dashboard directamente
 

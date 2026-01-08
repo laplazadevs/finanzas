@@ -317,7 +317,7 @@ Debes declarar todas tus inversiones en el exterior, incluso estando en RST. La 
 
 ### ¿Cómo se manejan las crypto desde una perspectiva fiscal en Colombia?
 
-Las opiniones varían, pero la mayoría recomienda declarar todas las tenencias y ganancias de crypto para evitar problemas futuros. 
+Las opiniones varían, pero la mayoría recomienda declarar todas las tenencias y ganancias de crypto para evitar problemas futuros.
 
 ### ¿Qué es el "Buy, Borrow, Die" (BBD) y cómo funciona?
 
@@ -374,7 +374,7 @@ En el contexto de invertir en el MGC, los miembros de la comunidad han discutido
 
 - Base legal: Esta información se basa en el artículo 269 del Estatuto Tributario.
 - Costo fiscal: El valor de los activos en moneda extranjera, se estiman en moneda nacional al momento de su reconocimiento inicial a la tasa representativa del mercado, menos los abonos o pagos medidos a la misma tasa representativa del mercado del reconocimiento inicial.
-- 
+-
 1. P: ¿Cuáles son las opciones recomendadas para enviar dinero desde Colombia a Interactive Brokers (IBKR)?
 
 R: Hay varias opciones mencionadas por los miembros de la comunidad:
@@ -482,43 +482,43 @@ Debes declarar todas tus inversiones en el exterior, incluso estando en RST. La 
 1. **¿Qué es un "margin call"?**
 
 > Es una solicitud del broker para que el inversor deposite más dinero o valores cuando las pérdidas en una cuenta de margen superan el margen de mantenimiento.
-> 
+>
 1. **¿Qué es un "option"?**
 
 > Un contrato que da a su comprador el derecho, pero no la obligación, de comprar o vender un activo a un precio determinado en una fecha determinada.
-> 
+>
 1. **¿Qué es el "leverage"?**
 
 > Es el uso de deuda para aumentar el rendimiento potencial de una inversión.
-> 
+>
 1. **¿Qué es un "buyback"?**
 
 > Es cuando una empresa recompra sus propias acciones en el mercado.
-> 
+>
 1. **¿Qué es un "short squeeze"?**
 
 > Es cuando los vendedores en corto se ven obligados a cubrir sus posiciones, lo que provoca un aumento en el precio de un activo.
-> 
+>
 1. **¿Qué es un "bull market"?**
 
 > Es un mercado en el que los precios están subiendo o se espera que suban.
-> 
+>
 1. **¿Qué es un "bear market"?**
 
 > Es un mercado en el que los precios están bajando o se espera que bajen.
-> 
+>
 1. **¿Qué es el RSI?**
 
 > El RSI (Relative Strength Index) es un indicador técnico que mide la magnitud de los cambios de precios recientes para evaluar las condiciones de sobrecompra o sobreventa en el precio de un activo.
-> 
+>
 1. **¿Qué es el VWRA?**
 
 > Es un ETF que replica el índice FTSE All-World.
-> 
+>
 1. **¿Qué es el VUAA?**
 
 > Es un ETF que replica el índice S&P 500.
-> 
+>
 
 **Pregunta:**
 
@@ -531,43 +531,43 @@ El DCA es una estrategia de inversión que consiste en invertir una cantidad fij
 1. **¿Qué es un "dip"?**
 
 > Es una caída temporal en el precio de un activo.
-> 
+>
 1. **¿Qué es un "ATH"?**
 
 > ATH (All-Time High) es el precio más alto que ha alcanzado un activo.
-> 
+>
 1. **¿Qué es un "backtesting"?**
 
 > Es una prueba de una estrategia de inversión utilizando datos históricos.
-> 
+>
 1. **¿Qué es un "stock picking"?**
 
 > Es la selección de acciones individuales para invertir.
-> 
+>
 1. **¿Qué es un "lump sum"?**
 
 > Es una inversión de una cantidad grande de dinero de una sola vez
-> 
+>
 1. **¿Qué es un "false breakout"?**
 
 > Es un movimiento de precio que parece romper un nivel de resistencia o soporte, pero luego vuelve al rango anterior.
-> 
+>
 1. **¿Qué es un "pullback"?**
 
 > Es una caída temporal en el precio de un activo después de un período de aumento.
-> 
+>
 1. **¿Qué es un "drip"?**
 
 > Es una opción que ofrecen algunos brokers para reinvertir automáticamente los dividendos
-> 
+>
 1. **¿Cómo se recupera una pérdida del 50% en una inversión?**
 
 > Para recuperar un 50% de pérdida, necesitas obtener un 100% de ganancia.
-> 
+>
 1. **¿Cómo se recupera una pérdida del 80% en una inversión?**
 
 > Para recuperar un 80% de pérdida, necesitas obtener un 400% de ganancia.
-> 
+>
 
 **Pregunta:**
 

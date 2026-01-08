@@ -122,7 +122,7 @@ Algunos de ellos a continuación:
 | AMZN | [AMAZON.COM](http://amazon.com/) INC |
 | NU | NU BANK |
 
-Pasos para crear la cuenta: 
+Pasos para crear la cuenta:
 
 - Ser cliente de valores bancolombia. Click en vinculación persona natural. [https://valores.grupobancolombia.com/vinculacion-otros-procesos](https://valores.grupobancolombia.com/vinculacion-otros-procesos)
 - La aprobación suele ser inmediata sin embargo, pueden requerir el RUT el cuál es solicitado por correo. Teóricamente debería llegar un correo de bienvenida pero hay casos donde no llega y es entonces cuando se puede contactar al chat de valores bancolombia para verificar si ya se está vinculado correctamente a Valores Bancolombia. En el mismo chat se puede solicitar los instructivos de la clave de e-trading y wompi para fondear la cuenta.
@@ -130,12 +130,12 @@ Pasos para crear la cuenta:
 
 ### Cómo ahorrarse el 4xmil
 
-Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Bancolombia. 
+Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Bancolombia.
 
 1. Llamar a la línea (601 343 0099 - opc 2 - opc 1 Bogotá - 604 510 9009 Medellín - 01 8000 513090 otras ciudades).
 2. Decirle al agente que aperture el Fondo de Renta Liquidez.
 3. Solicitar al agente que mueva el dinero desde la cuenta de ahorros Bancolombia hacia e-trading. Este proceso se realiza en dos etapas: primero el dinero pasa al Fondo de Renta Liquidez y luego de ahí a e-trading. La operación completa toma 2 días en total.
-4. Llamar nuevamente y decirle al agente que cancele el Fondo moviendo todo el dinero al disponible de valores Bancolombia. (Recomiendan cancelarlo aunque hay quienes lo dejan con un valor de retención). 
+4. Llamar nuevamente y decirle al agente que cancele el Fondo moviendo todo el dinero al disponible de valores Bancolombia. (Recomiendan cancelarlo aunque hay quienes lo dejan con un valor de retención).
 5. No tiene costos.
 
 # Instrumentos del Mercado financiero
@@ -168,7 +168,6 @@ Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Banc
 - **ETFs (Exchange-Traded Funds):** Se negocian en bolsa como acciones, con precios que fluctúan durante el día.
 - **Index Funds:** Fondos que replican un índice específico, generalmente con bajas comisiones.
 - **Mutual Funds:** Fondos de inversión colectiva gestionados activa o pasivamente.
-
 
 ## ETFs domiciliados en USA
 

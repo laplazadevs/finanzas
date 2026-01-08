@@ -63,8 +63,8 @@ Es buena idea llamar al Banco en Colombia para desactivar el débito automático
 
 ### Envio usando Davivienda Panamá a Davivienda Colombia
 
-> 💡 Por ejemplo, si se envia dinero desde Deel a Davivienda Panamá, hay un fee de 20 dolares. 
+> 💡 Por ejemplo, si se envia dinero desde Deel a Davivienda Panamá, hay un fee de 20 dolares.
 
-Ahora, la transferencia entre Davivienda Panamá y Davivienda Colombia es gratuita entonces se omite este fee. 
+Ahora, la transferencia entre Davivienda Panamá y Davivienda Colombia es gratuita entonces se omite este fee.
 
 Lo único que habría que hacer es negociar la tasa de conversión de dolares a pesos.

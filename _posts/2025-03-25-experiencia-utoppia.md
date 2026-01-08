@@ -34,7 +34,7 @@ date: 2025-03-25 21:13:28
 
 ## Compras con tarjeta virtual
 
-Suele ser algo quisquilloso a la hora de aceptar transacciones con algunos comercios. 
+Suele ser algo quisquilloso a la hora de aceptar transacciones con algunos comercios.
 
 ### Funciona en:
 

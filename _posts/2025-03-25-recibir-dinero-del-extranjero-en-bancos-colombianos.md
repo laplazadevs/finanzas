@@ -16,7 +16,7 @@ Este articulo es un compendio de experiencias recibiendo dinero en cuentas de ba
 | **Davivienda** | No | Transferencia SWIFT mayor a $10k USD | $20 USD + IVA | $100 COP menos que la tasa de cambio |
 | **Davivienda** | No | Transferencia SWIFT (entre filiales) mayor a $10k USD | $0 por recibir | $20 COP menos que la tasa de cambio |
 | **ScotiaBank** | No existe | Todas | $0 | $80-90 COP menos que la tasa de cambio |
-| **BBVA** | No existe | Hasta $50k USD en app 
+| **BBVA** | No existe | Hasta $50k USD en app
 Cualquiera en Web | Entre $10k y $50k COP según monto a recibir | $100-200 COP menos que la tasa de cambio |
 | **Sudameris** | NA | Transferencia SWIFT mayor a $5k USD | $0 | $10-20 COP menos que la tasa de cambio |
 
@@ -26,7 +26,7 @@ La diferencia en la tasa de cambio entre aceptar una transferencia internacional
 
 # ScotiaBank
 
-Puedes saber la tasa todos los días hábiles en esta página: 
+Puedes saber la tasa todos los días hábiles en esta página:
 
 [https://www.scotiabankcolpatria.com/contactenos/giros-internacionales-personas](https://www.scotiabankcolpatria.com/contactenos/giros-internacionales-personas)
 

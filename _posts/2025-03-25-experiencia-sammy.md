@@ -8,7 +8,7 @@ date: 2025-03-25 21:13:28
 
 # Banco subyacente
 
-Usa el mismo banco que GrabrFi y Utoppia. FX rate es definido por Mastercard. 
+Usa el mismo banco que GrabrFi y Utoppia. FX rate es definido por Mastercard.
 
 # Transferencias internacionales
 

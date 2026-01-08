@@ -22,7 +22,7 @@ date: 2025-03-25 21:13:22
 | Coopcentral | No | Pagos​ | Sí​ | Con cobro | Red propia | Local​ | Visa​ | No​ | Sí​ | 12​ | 0​ | 10​ |
 | Pibank | No | No​ | No​ | Sí​ | Red propia | Nacional​ | No​ | Sí​ | Sí​ | 45​ | 46​ | 6825​ |
 
-**Siglas**: OF: Oficinas, CA: Cajeros, CB: Corresponsales bancarios. 
+**Siglas**: OF: Oficinas, CA: Cajeros, CB: Corresponsales bancarios.
 
 Actualizados al 24 de mayo de 2022.
 

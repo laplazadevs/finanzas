@@ -22,8 +22,6 @@ Al abrir una cuenta bancaria AFC puedes destinar tu ahorro para pagar:
 
 # ¿Puedo usar este ahorro para otro propósito?
 
-
-
 # Como independiente
 
 En mi caso con Davivienda, como no tengo camara y comercio, me transfiero yo mismo de mi cuenta de ahorros, es importante que el contador este al tanto de esos aportes.

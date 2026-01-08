@@ -50,8 +50,6 @@ Se crea la cuenta con los datos bancarios de Colombia o bien en USA y luego se e
 
 ## Gusto.com
 
-
-
 ## On-Top
 
 - Solo permite enviar a Cuenta Bancaria, Payoneer o wallet de alguna Crypto exchange (depende de la red/protocolo)
@@ -84,7 +82,7 @@ Puedes utilizar el envío de transferencia internacional, la mejor para montos a
 
 # Usando Wise
 
-Es posible usar Wise como intermediario para enviar dinero a Colombia. El límite es de 14 millones COP. Para mas detalles: 
+Es posible usar Wise como intermediario para enviar dinero a Colombia. El límite es de 14 millones COP. Para mas detalles:
 
 [Experiencia con Wise]({% post_url 2025-03-25-experiencia-con-wise %})
 
@@ -96,7 +94,7 @@ Es posible usar Wise como intermediario para enviar dinero a Colombia. El límit
 
 ## Binance P2P
 
-Es posible usar Binance P2P para comprar USDT 
+Es posible usar Binance P2P para comprar USDT
 
 ## Littio
 
