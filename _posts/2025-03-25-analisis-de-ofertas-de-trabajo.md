@@ -21,9 +21,9 @@ date: 2025-03-25 21:13:16
 Yo he estado revisando esos temas por vario tiempo con varios contadores y definitivamente algunas conclusiones.
 
 - USD > COP por mucho.
-- Un salario alto en COP es mas complicado que un salario igual pero en USD.
+- Un salario alto en COP es más complicado que un salario igual pero en USD.
 - Plantación financiera, yo aparte de consultar contadores, he consultado a y pues aprendiendo y haciendo cursos por mi cuenta (Si te gusta) para saber de donde sale cada peso/dólar que gastas en impuestos o pagos.
-- Un salario integral es solo una forma en la que las empresas te facilitan el trabajo de hacer los cálculos de impuestos y obligaciones, te hacen los aportes, pero de resto no es que pagues mas o menos impuestos. solo que la gente ni se entera que cada que te llega el sueldo a la cuenta, por detrás hay muchos cálculos y pagos que se hicieron pero que no los conoces.
+- Un salario integral es solo una forma en la que las empresas te facilitan el trabajo de hacer los cálculos de impuestos y obligaciones, te hacen los aportes, pero de resto no es que pagues más o menos impuestos. solo que la gente ni se entera que cada que te llega el sueldo a la cuenta, por detrás hay muchos cálculos y pagos que se hicieron pero que no los conoces.
 - Optimizar impuestos, con el RST o una SAS, depende tu caso particular.
 - Si decides ser contractor, Creese su propio Excel o servicio que te ayuden a manejar los cálculos o páguele a su contador para que le haga eso.
 

@@ -6,10 +6,7 @@ date: 2025-03-25 21:13:22
 
 # Profesionales recomendados
 
-<aside>
-🚨 No se tiene ninguna preferencia por los profesionales listados aquí. El orden es aleatorio
-
-</aside>
+> 🚨 No se tiene ninguna preferencia por los profesionales listados aquí. El orden es aleatorio
 
 # Contadores
 
@@ -26,10 +23,10 @@ Por lo general, no suelen cobrar porque ellos le cobran es al banco la comisión
 - **Sergio Toro**: Broker bancario, puede ayudarte con una compra de cartera a una menor tasa de la que tienes. Él se dedica a eso, créditos y compras de cartera hipotecarios. 3192477229.
 - **Carolina Carmona ~ Bankiando:** 3147121547.
 - **Karen Alvarez (BBVA)**: 3168783189.
-- **Cazatasa -  broker para créditos hipotecarios:** 31669404212 / **Jessica Herrera** 3166940421.
+- **Cazatasa - broker para créditos hipotecarios:** 31669404212 / **Jessica Herrera** 3166940421.
 - **Daniela Carreño (BBVA):** 3142113359.
 - **Paola (Banco AV Villas):** Broker bancario, te puede ayudar con compras de carteras, 10% E.A actualmente. 3102628678
-- **Natalia Perez (BBVA):  Vehículo, libranza, hipotecario, libre inversión, nómina y tarjetas.  Compra de cartera al 10% 3187157887**
+- **Natalia Perez (BBVA): Vehículo, libranza, hipotecario, libre inversión, nómina y tarjetas. Compra de cartera al 10% 3187157887**
 
 # Brokers de seguros
 

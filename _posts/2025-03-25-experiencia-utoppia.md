@@ -34,7 +34,7 @@ date: 2025-03-25 21:13:28
 
 ## Compras con tarjeta virtual
 
-Suele ser algo quisquilloso a la hora de aceptar transacciones con algunos comercios. 
+Suele ser algo quisquilloso a la hora de aceptar transacciones con algunos comercios.
 
 ### Funciona en:
 
@@ -120,17 +120,14 @@ Cuando agregas la tarjeta a Apple Pay, estos son los resultados a la hora de pag
 - Permite recibir transferencias nacionales e internacionales en dólares.
 - Para las transferencias SWIFT a Colombia, tener cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción. Para obtener los códigos SWIFT:
 
-[Transferencias SWIFT](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/transferencias-swift.html)
+[Transferencias SWIFT]({% post_url 2025-03-25-transferencias-swift %})
 
 - Permite recibir dinero de una cuenta propia en PayPal.
 - Permite realizar transferencias entre usuarios de la misma aplicación de forma gratuita e inmediata.
 
 # Crypto
 
-<aside>
-💡 Recientemente Utoppia eliminó de su app las operaciones con crypto divisas. Los usuarios con saldos en USDC, ETH, BTC fueron convertidos a USD, es decir vendieron arbitrariamente.
-
-</aside>
+> 💡 Recientemente Utoppia eliminó de su app las operaciones con crypto divisas. Los usuarios con saldos en USDC, ETH, BTC fueron convertidos a USD, es decir vendieron arbitrariamente.
 
 - ~~USDT solo reciben ERC-20 (es algo más costoso que TRC20)~~
 - ~~Ofrecen la posibilidad de trading con criptomonedas (compra/venta/deposito/retiro) . El costo de las operaciones para compra y venta con criptomonedas es de 1% del total de la operación y cobran 1% adicional en el spread. Para el envío se debe tener en cuenta el transaction fee del network que se use. De momento ofrecen Bitcoin, Ether, USD Coin, Tether USD y DAI.~~

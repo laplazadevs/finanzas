@@ -6,14 +6,11 @@ date: 2025-03-25 21:13:20
 
 # Inversión en NFTs
 
-<aside>
-💡 La inversión en NFTs es altamente riesgosa, hay muchas estafas y cero garantías
-
-</aside>
+> 💡 La inversión en NFTs es altamente riesgosa, hay muchas estafas y cero garantías
 
 ### **Pre-requisitos**
 
-En general, necesitas un wallet para comprar. La más fácil de instalar es Metamask 
+En general, necesitas un wallet para comprar. La más fácil de instalar es Metamask
 
 [A crypto wallet & gateway to blockchain apps - MetaMask](https://metamask.io/)
 
@@ -99,7 +96,7 @@ HowRare Is:
 
 ### NFT Flipping
 
-Algunos inversionistas prefieren buscar proyectos en el mercado secundario para comprar y revender. Uno de los sitios más populares es 
+Algunos inversionistas prefieren buscar proyectos en el mercado secundario para comprar y revender. Uno de los sitios más populares es
 
 [](https://opensea.io/)
 
@@ -113,7 +110,7 @@ El juego en este caso es buscar un NFT subvalorado y luego venderlo por el preci
 
 Otra técnica que utilizan algunos inversionista es hacer ofertas bajas esperando que alguna persona venda por cualquier razón. Aquí un video sobre esa técnica
 
-[He Made $100,000+ Flipping NFTs Using THIS Simple Strategy -  Plug Pass Whitelist](https://www.youtube.com/watch?v=JR2oJoXUA8o)
+[He Made $100,000+ Flipping NFTs Using THIS Simple Strategy - Plug Pass Whitelist](https://www.youtube.com/watch?v=JR2oJoXUA8o)
 
 ### Videos e Influenciadores
 

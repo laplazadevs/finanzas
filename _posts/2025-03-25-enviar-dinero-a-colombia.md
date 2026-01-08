@@ -10,7 +10,7 @@ date: 2025-03-25 21:13:18
 
 ## IBKR
 
-[Experiencia IBKR](/finanzas/2025/03/25/experiencia-ibkr.html)
+[Experiencia IBKR]({% post_url 2025-03-25-experiencia-ibkr %})
 
 ## Acciones y Valores
 
@@ -30,40 +30,32 @@ Si eres empleado o contratista y tu empleador usa cualquiera de estas opciones, 
 
 ## Deel
 
-[Experiencia Deel](/finanzas/2025/03/25/experiencia-deel.html)
+[Experiencia Deel]({% post_url 2025-03-25-experiencia-deel %})
 
 ## Bill.com
 
-<aside>
-💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
-
-</aside>
+> 💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
 
 Se crea la cuenta con los datos bancarios de Colombia Para el código SWIFT, buscar en Google el 'nombre del banco + swift', por ejemplo para Davivienda es: CAFECOBBXXX. O bien revise la página de esta wiki.
 
-[Transferencias SWIFT](/finanzas/2025/03/25/transferencias-swift.html)
+[Transferencias SWIFT]({% post_url 2025-03-25-transferencias-swift %})
 
 Si por alguna razón el formulario de la plataforma que usan les pide el código del banco, pueden usar el siguiente link [https://www.banrep.gov.co/es/contenidos/page/c-digo-compensaci-n-le-corresponde-cada-banco](https://www.banrep.gov.co/es/contenidos/page/c-digo-compensaci-n-le-corresponde-cada-banco)
 
 ## Coupa
 
-<aside>
-💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
-
-</aside>
+> 💡 Una cuenta en este sistema solo puede ser activado por parte del empleador.
 
 Se crea la cuenta con los datos bancarios de Colombia o bien en USA y luego se envía.
 
 ## Gusto.com
-
-.
 
 ## On-Top
 
 - Solo permite enviar a Cuenta Bancaria, Payoneer o wallet de alguna Crypto exchange (depende de la red/protocolo)
 - El valor de la comisión de envío a Banco colombiano es de 1.6USD + 0.4%
 - El valor de envío a Payoneer es de 1USD + 0.5%
-- Cuando envías a Cuenta bancaria colombiana, lo hace en COP (horrible!) y entonces toma la TRM menos "X" cops, entonces ahí pierdes unas decenas de pesos por dolar. Por ejemplo  en estos momentos la TRM para mañana la apertura es de $3.914 COP, y el valor con el cual hacen el cambio en OnTop en este momento es de $3.833, una diferencia de 80+ COP por dolar.
+- Cuando envías a Cuenta bancaria colombiana, lo hace en COP (horrible!) y entonces toma la TRM menos "X" cops, entonces ahí pierdes unas decenas de pesos por dolar. Por ejemplo en estos momentos la TRM para mañana la apertura es de $3.914 COP, y el valor con el cual hacen el cambio en OnTop en este momento es de $3.833, una diferencia de 80+ COP por dolar.
 - Tiempo de llegada del dinero al banco 2 días hábiles.
 - No hay forma de configurar otro envío diferente (ni que sea en USD directamente) cuando es envío a banco colombiano.
 - Tiempo de llegada del dinero a Payoneer es 1 día hábil (se transfieren dólares y se reciben dólares).
@@ -74,13 +66,13 @@ Se crea la cuenta con los datos bancarios de Colombia o bien en USA y luego se e
 
 Payoneer cobra el 3.5% de monto de conversión a COP. Podría ser una buena idea usar la tarjeta que ellos ofrecen para pagar en comercios o bien para retirar.
 
-[Experiencia Payoneer](/finanzas/2025/03/25/experiencia-payoneer.html)
+[Experiencia Payoneer]({% post_url 2025-03-25-experiencia-payoneer %})
 
 # Envío a través de un banco Colombiano con sede en Usa
 
 Es posible usar un banco como Davivienda Miami/Davivienda Panamá/Bancolombia Panamá/otros para recibir y enviar dinero hacia Colombia. Ver:
 
-[Cuentas Bancarias y Brokers en Moneda Extranjera](/finanzas/2025/03/25/cuentas-bancarias-y-brokers-en-moneda-extranjera.html)
+[Cuentas Bancarias y Brokers en Moneda Extranjera]({% post_url 2025-03-25-cuentas-bancarias-y-brokers-en-moneda-extranjera %})
 
 Esto permitirá recibir el dinero, disminuir los costos de envío y recepción del dinero en Colombia.
 
@@ -90,22 +82,19 @@ Puedes utilizar el envío de transferencia internacional, la mejor para montos a
 
 # Usando Wise
 
-Es posible usar Wise como intermediario para enviar dinero a Colombia. El límite es de 14 millones COP. Para mas detalles: 
+Es posible usar Wise como intermediario para enviar dinero a Colombia. El límite es de 14 millones COP. Para más detalles:
 
-[Experiencia con Wise](/finanzas/2025/03/25/experiencia-con-wise.html)
+[Experiencia con Wise]({% post_url 2025-03-25-experiencia-con-wise %})
 
 # Envío usando Criptomonedas
 
-<aside>
-💡 Este método tiene su riesgo.
+> 💡 Este método tiene su riesgo.
 
-</aside>
-
-[Transferencias criptomonedas](/finanzas/2025/03/25/transferencias-criptomonedas.html)
+[Transferencias criptomonedas]({% post_url 2025-03-25-transferencias-criptomonedas %})
 
 ## Binance P2P
 
-Es posible usar Binance P2P para comprar USDT 
+Es posible usar Binance P2P para comprar USDT
 
 ## Littio
 
@@ -117,10 +106,7 @@ Es posible usar [Paysend](https://paysend.com/) . Cobran $2 USD si el destinatar
 
 # Remitly
 
-<aside>
-🚨 Remitly le deja enviar hasta $60,000 dólares cada 180 días demostrando fuente de ingresos. Para una cantidad así de alta la única manera es bank wire transfer.
-
-</aside>
+> 🚨 Remitly le deja enviar hasta $60,000 dólares cada 180 días demostrando fuente de ingresos. Para una cantidad así de alta la única manera es bank wire transfer.
 
 [https://www.remitly.com/us/es/colombia](https://www.remitly.com/us/es/colombia)
 
@@ -174,13 +160,13 @@ Monto máximo de $7500 USD por envío. Cobran cerca del 1.3% menos que la TRM, c
 
 # Paypal
 
-[Experiencia Paypal](/finanzas/2025/03/25/experiencia-paypal.html)
+[Experiencia Paypal]({% post_url 2025-03-25-experiencia-paypal %})
 
 ## Tarjeta de crédito/débito internacional y Rappi Pay
 
 Warning: Esta característica funciona intermitentemente.
 
-Es posible usar este método. Rappy pay cobra el 4.5% del total de la transacción. Lo bueno es que si la tarjeta es Mastercard, se respeta la TRM del día. Aunque algunas personas han reportado que la tasa de cambio cae 100 COP o 150 COP mas bajo que la tasa de cambio del mercado.
+Es posible usar este método. Rappy pay cobra el 4.5% del total de la transacción. Lo bueno es que si la tarjeta es Mastercard, se respeta la TRM del día. Aunque algunas personas han reportado que la tasa de cambio cae 100 COP o 150 COP más bajo que la tasa de cambio del mercado.
 
 Esta solución tiene como ventaja adicional que es posible integrar con Daviplata para hacer retiros en cajeros Davivienda. En 2023 Rappi empezó a implementar RappiCuenta, un deposito de bajo monto distinto a su integración con Daviplata por lo que este beneficio puede cambiar.
 
@@ -202,7 +188,7 @@ Es posible usar un datáfono para hacer una compra con una tarjeta. No sé qué 
 
 ## Giro
 
-x
+Pendiente de documentar.
 
 ## Cheque Internacional
 

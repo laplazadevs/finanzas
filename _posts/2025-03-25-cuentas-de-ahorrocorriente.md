@@ -8,10 +8,7 @@ date: 2025-03-25 21:13:22
 
 ## Cuentas de ahorro sin cobro de cuota de manejo
 
-<aside>
-💡 Tomado de [https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-débito.161142/](https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-d%C3%A9bito.161142/)
-
-</aside>
+> 💡 Tomado de [https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-débito.161142/](https://www.laneros.com/temas/cuentas-de-ahorros-y-tarjetas-d%C3%A9bito.161142/)
 
 | Banco | Cuota | PSE​ | TransfiYa​ | ACH​ | Retiros​ | Consignación​ | Tarjeta​ | Online​ | App | OF​ | CA​ | CB​ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,7 +22,7 @@ date: 2025-03-25 21:13:22
 | Coopcentral | No | Pagos​ | Sí​ | Con cobro | Red propia | Local​ | Visa​ | No​ | Sí​ | 12​ | 0​ | 10​ |
 | Pibank | No | No​ | No​ | Sí​ | Red propia | Nacional​ | No​ | Sí​ | Sí​ | 45​ | 46​ | 6825​ |
 
-**Siglas**: OF: Oficinas, CA: Cajeros, CB: Corresponsales bancarios. 
+**Siglas**: OF: Oficinas, CA: Cajeros, CB: Corresponsales bancarios.
 
 Actualizados al 24 de mayo de 2022.
 

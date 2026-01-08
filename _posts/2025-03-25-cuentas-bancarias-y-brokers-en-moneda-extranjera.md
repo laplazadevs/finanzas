@@ -6,17 +6,11 @@ date: 2025-03-25 21:13:18
 
 # Cuentas Bancarias y Brokers en Moneda Extranjera
 
-<aside>
-💡 Recuerda que a partir de 2000 UVT en dineros el exterior siendo residente fiscal Colombiano, debes declarar en la DIAN ese dinero.
+> 💡 Recuerda que a partir de 2000 UVT en dineros el exterior siendo residente fiscal Colombiano, debes declarar en la DIAN ese dinero.
 
-</aside>
+[UVT]({% post_url 2025-03-25-uvt %})
 
-[UVT](/finanzas/2025/03/25/uvt.html)
-
-<aside>
-💡 Todas estos son sugerencias y no comprometen a quien haya escrito el documento. Por favor ten en cuenta las condiciones y donde guardas tu dinero.
-
-</aside>
+> 💡 Todas estos son sugerencias y no comprometen a quien haya escrito el documento. Por favor ten en cuenta las condiciones y donde guardas tu dinero.
 
 # Brokers
 
@@ -30,21 +24,21 @@ Es posible tener dinero en brokers aunque a veces suelen exigir el uso de sus se
 | **Balance Mínimo** | $0 |
 | **Cuota de manejo (debajo de balance mínimo)** | $0 |
 | **Transferencias** | $0 Transferencia electrónica recibida
-$10 USD  Transferencia electrónica enviada (Puede ser internacional. La primera transferencia mensual cuesta $0 USD) |
+$10 USD Transferencia electrónica enviada (Puede ser internacional. La primera transferencia mensual cuesta $0 USD) |
 
-[Experiencia IBKR](/finanzas/2025/03/25/experiencia-ibkr.html)
+[Experiencia IBKR]({% post_url 2025-03-25-experiencia-ibkr %})
 
 ## Tradestation
 
-[Experiencia TradeStation](/finanzas/2025/03/25/experiencia-tradestation.html)
+[Experiencia TradeStation]({% post_url 2025-03-25-experiencia-tradestation %})
 
 ## XTB
 
-[Experiencia XTB](/finanzas/2025/03/25/experiencia-xtb.html)
+[Experiencia XTB]({% post_url 2025-03-25-experiencia-xtb %})
 
 ## Swissquote
 
-Disponible para Colombia, pero con fees altos comparado con IBKR o XTB. (Linkear la página de experiencia si alguien ya la tiene). 
+Disponible para Colombia, pero con fees altos comparado con IBKR o XTB. (Linkear la página de experiencia si alguien ya la tiene).
 
 ## Saxo Bank
 
@@ -60,10 +54,7 @@ No disponible para Colombia.
 
 # Bancos con origen Colombianos
 
-<aside>
-🚨  Ninguna de las cuentas con las filiales internacionales cuenta con seguros de depósitos.
-
-</aside>
+> 🚨 Ninguna de las cuentas con las filiales internacionales cuenta con seguros de depósitos.
 
 Cuentas que puedes abrir desde Colombia. Tienen como beneficio o ventaja que puede mantener y ahorrar en dólares para no tener que cambiarlo todo a pesos. Ademas las transferencias entre bancos del mismo grupo (ej. Bancolombia Panama a Bancolombia) son gratuitas.
 
@@ -86,7 +77,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Notas** | El proceso se inicia vía web: [https://vinculacionexterior.grupobancolombia.com](https://vinculacionexterior.grupobancolombia.com). Tarda entre 1 y 2 semanas en abrir. |
 | **Tarifario (2022)** | [https://panama.grupobancolombia.com/wps/wcm/connect/ff779521-9f16-4973-a0a3-958fe0db2c09/2022+Tarifario+Panama.pdf?MOD=AJPERES&CVID=nYEgf-i](https://panama.grupobancolombia.com/wps/wcm/connect/ff779521-9f16-4973-a0a3-958fe0db2c09/2022+Tarifario+Panama.pdf?MOD=AJPERES&CVID=nYEgf-i) |
 
-[Experiencia Bancolombia Panamá](/finanzas/2025/03/25/experiencia-bancolombia-panama.html)
+[Experiencia Bancolombia Panamá]({% post_url 2025-03-25-experiencia-bancolombia-panama %})
 
 ## **Davivienda Panamá**
 
@@ -98,7 +89,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Transferencias** | $20 Transferencia electrónica recibida <br/> $25 Transferencia electrónica enviada <br/> $0 Transferencia hacia Davivienda |
 | **Tarifario (2022)** | [https://bienvenido.davivienda.com.pa/wps/wcm/connect/personasPA/5fcdc581-ddd1-4449-ba93-6e9824f85e95/Tarifario+Personas+y+Pymes+2022.pdf?MOD=AJPERES&CVID=o4lZGNC](https://bienvenido.davivienda.com.pa/wps/wcm/connect/personasPA/5fcdc581-ddd1-4449-ba93-6e9824f85e95/Tarifario+Personas+y+Pymes+2022.pdf?MOD=AJPERES&CVID=o4lZGNC) |
 
-[Experiencia Davivienda Panamá](/finanzas/2025/03/25/experiencia-davivienda-panama.html)
+[Experiencia Davivienda Panamá]({% post_url 2025-03-25-experiencia-davivienda-panama %})
 
 ## **Davivienda Miami**
 
@@ -107,11 +98,11 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | **Deposito Mínimo** | $20,000 |
 | **Balance Mínimo** | $5,000 |
 | **Cuota de manejo (debajo de balance mínimo)** | $35 |
-| **Transferencias** | $20 Transferencia electrónica recibida. <br/>$30 Transferencia electrónica enviada. <br/>$5 Transferencia hacia Davivienda (Colombia, Panamá o USA) <br/>$0.5 Cobro por envió o recepción ACH (Mayor de $5.00).  |
-| **Notas** | Cobro de $250 por cierre de cuenta en menos de 6 meses. <br/> Tarjeta de crédito con costo de $60 anual. <br/> Los depósitos no están asegurados por el FDICl. <br/> Cuenta con aplicación móvil y página web para la gestión.  |
+| **Transferencias** | $20 Transferencia electrónica recibida. <br/>$30 Transferencia electrónica enviada. <br/>$5 Transferencia hacia Davivienda (Colombia, Panamá o USA) <br/>$0.5 Cobro por envió o recepción ACH (Mayor de $5.00). |
+| **Notas** | Cobro de $250 por cierre de cuenta en menos de 6 meses. <br/> Tarjeta de crédito con costo de $60 anual. <br/> Los depósitos no están asegurados por el FDICl. <br/> Cuenta con aplicación móvil y página web para la gestión. |
 | **Tarifario (2022)** | [https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf](https://apipublica.daviviendaintl.com/CMS-davivienda/media/Tarifario_2.pdf) |
 
-[Experiencia Davivienda Miami](/finanzas/2025/03/25/experiencia-davivienda-miami.html)
+[Experiencia Davivienda Miami]({% post_url 2025-03-25-experiencia-davivienda-miami %})
 
 ## Banco De Bogotá Panamá y Miami
 
@@ -172,11 +163,11 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 | --- | --- |
 | **Deposito Mínimo** | 5,000 USD (no son estrictos, no necesariamente se tiene que tener los 5k para abrir) |
 | **Balance Mínimo** | 10,000 USD (no es necesario mantenerlo) |
-| **Cuota de manejo**  | 15 USD **(debajo de balance mínimo)** |
+| **Cuota de manejo** | 15 USD **(debajo de balance mínimo)** |
 | **Transferencias** | entrante 0 USD / saliente domestica: 25 USD / saliente internacional: 50 USD |
 | **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD. Puede ser usado para Zelle |
 
-[Experiencia Ocean Bank](/finanzas/2025/03/25/experiencia-ocean-bank.html)
+[Experiencia Ocean Bank]({% post_url 2025-03-25-experiencia-ocean-bank %})
 
 ## **Banesco USA**
 
@@ -194,7 +185,7 @@ En algunos bancos, se puede abrir cuenta en dólares o en euros.
 
 Si se refiere a abrir una cuenta de cheques o ahorras en US, antes del 9/11 lo podía hacer en linea desde cualquier parte del mundo PERO con la entrada en vigencia de varias leyes entre ellas el "Patriot Act" es ahora casi imposible abrir una cuenta sin estar presente físicamente en una oficina del banco [se puede hacer pero es para uso corporativo]. Así que se hace necesario ir hasta el país para abrir una cuenta.
 
-Hablando de bancos mas tradicionales como Bank of America, Chase, Wells Fargo, estos suelen cobrar cuota de manejo si no se mantiene un saldo minimo en la cuenta.
+Hablando de bancos más tradicionales como Bank of America, Chase, Wells Fargo, estos suelen cobrar cuota de manejo si no se mantiene un saldo minimo en la cuenta.
 
 Lo que dicen oficialmente los bancos sobre aceptar o no a personas no residentes es esto:
 
@@ -255,50 +246,38 @@ Yo abrí en sept del año pasado cuenta en citi bank de plantation Florida. Muy 
 
 # Bancos en Ecuador
 
-<aside>
-💡 Nadie de la comunidad lo ha comprobado de primera mano. Tener precaución
-
-</aside>
+> 💡 Nadie de la comunidad lo ha comprobado de primera mano. Tener precaución
 
 En Ecuador solo piden pasaporte para abrir cuenta bancaria, pero tiene que ser presencialmente, yo ahorro hay, no te cobran nada y mensualmente te dan intereses.(unos centavos) te dan poco pero no quitan mucho como en Colombia. Y las tarjetas débitos ya salen para usar en cualquier parte del mundo.
 
 # Bancos en Panamá
 
-los bancos panameños piden a los extranjeros mas de monto mínimo que los bancos colombianos en Panamá adicionalmente tendrás el costo de transferencias, te van a cobrar alto por enviar a cuentas en Colombia (25-45 USD) y muchos ademas cobran por recibir transferencias.
+los bancos panameños piden a los extranjeros más de monto mínimo que los bancos colombianos en Panamá adicionalmente tendrás el costo de transferencias, te van a cobrar alto por enviar a cuentas en Colombia (25-45 USD) y muchos ademas cobran por recibir transferencias.
 
 # NeoBancos - Fintech
 
-[Observación sobre algunas fintech](/finanzas/2025/03/25/observacion-sobre-algunas-fintech.html)
+[Observación sobre algunas fintech]({% post_url 2025-03-25-observacion-sobre-algunas-fintech %})
 
 ### **Utoppia**
 
-<aside>
-🚨 En este momento (Mayo 2023) Utoppia tiene una lista de espera para suscripciones nuevas
+> 🚨 En este momento (Mayo 2023) Utoppia tiene una lista de espera para suscripciones nuevas
 
-</aside>
-
-<aside>
-🚨 A Junio 2023, Utoppia tiene las transferencias SWIFT a Colombia congeladas
-
-</aside>
+> 🚨 A Junio 2023, Utoppia tiene las transferencias SWIFT a Colombia congeladas
 
 | **Información** | [https://utoppia.com/about.html](https://utoppia.com/about.html) |
 | --- | --- |
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD / 500 USD (para no pagar cuota de manejo) |
 | **Cuota de manejo (debajo de balance mínimo)** | 3 USD mensual si se tiene saldo inferior a 500 USD o no se hacen operaciones durante 6 meses. |
-| **Transferencias** | Entrantes (Wire y ACH): 0 USD <br/>Salientes (Wire y ACH): 0 USD <br/>Salientes Same Day ACH: 2 USD <br/>Entrantes internacional Swift: 30 USD  <br/> Salientes internacional Swift: 32 USD (cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción) <br/> ~~Puede recibir transferencias de crypto (ver coins disponibles). Transferencias vía cripto cobran 1% de comisión al vender y el spread en los precios de cripto es otro 1%, entonces es 2%~~ <br/>Tiene un límite de máximo $15.000 dólares recibidos mensuales. Inicialmente el límite es menor pero se va incrementando cada mes. |
-| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD a través de Evolve Bank and Trust y Lineage Bank, ambas entidades FDIC-insured y basadas en Tennessee.  |
-|  |  |
+| **Transferencias** | Entrantes (Wire y ACH): 0 USD <br/>Salientes (Wire y ACH): 0 USD <br/>Salientes Same Day ACH: 2 USD <br/>Entrantes internacional Swift: 30 USD <br/> Salientes internacional Swift: 32 USD (cuidado por que un banco intermediario podría cobrar hasta 30 USD adicionales por la transacción) <br/> ~~Puede recibir transferencias de crypto (ver coins disponibles). Transferencias vía cripto cobran 1% de comisión al vender y el spread en los precios de cripto es otro 1%, entonces es 2%~~ <br/>Tiene un límite de máximo $15.000 dólares recibidos mensuales. Inicialmente el límite es menor pero se va incrementando cada mes. |
+| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD a través de Evolve Bank and Trust y Lineage Bank, ambas entidades FDIC-insured y basadas en Tennessee. |
+| | |
 
-[Experiencia Utoppia](/finanzas/2025/03/25/experiencia-utoppia.html)
+[Experiencia Utoppia]({% post_url 2025-03-25-experiencia-utoppia %})
 
 ### ~~Sprout~~
 
-<aside>
-💡 Este servicio parece ya no estar en funcionamiento. 3/02/23
-
-</aside>
+> 💡 Este servicio parece ya no estar en funcionamiento. 3/02/23
 
 | **Información** | [https://www.sproutbank.io/](https://www.sproutbank.io/) |
 | --- | --- |
@@ -306,7 +285,7 @@ los bancos panameños piden a los extranjeros mas de monto mínimo que los banco
 | **Balance Mínimo** | 25000 USD |
 | **Cuota de manejo** | 5 USD mensual |
 | **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica: 0 USD <br/>Salientes internacional Swift: 32 USD |
-| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD <br/>Aun en desarrollo. Hecho por Argentinos. Al parecer lo trabajan desde [https://www.thirstysprout.com/](https://www.thirstysprout.com/). Ofrecerán una tarjeta visa  |
+| **Notas** | Cuenta asegurada con el FDIC por máximo 250,000 USD <br/>Aun en desarrollo. Hecho por Argentinos. Al parecer lo trabajan desde [https://www.thirstysprout.com/](https://www.thirstysprout.com/). Ofrecerán una tarjeta visa |
 
 ### Maza financial
 
@@ -316,7 +295,7 @@ los bancos panameños piden a los extranjeros mas de monto mínimo que los banco
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 0 USD mensual |
 | **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: X USD |
-| **Notas** | Se necesita pasaporte.  Se puede usar en conjunto con IBKR. |
+| **Notas** | Se necesita pasaporte. Se puede usar en conjunto con IBKR. |
 
 Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Permite recibir transferencias ACH y también a través de [PLAID](https://ayuda.withmaza.com/es/articles/6521012-como-puedo-transferir-dinero-de-otra-cuenta-bancaria-a-mi-cuenta-de-maza). Y quizás un factor importante es que tienes acceso a a Zelle, ChashApp y Venmo. Segun ellos dan el 1% de interés anual (no especifican si EA). Revisé quienes estan detrás de esta empresa y aparece el nombre de [Luciano Arango](https://seas.harvard.edu/news/2018/11/10-alumni-named-forbes-30-under-30), un Colombiano en USA.
 
@@ -330,7 +309,7 @@ Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Perm
 | **Transferencias** | Entrantes (domesticas e internacionales, ACH): 0 USD <br/>Salientes domestica ACH: 0.39 USD <br/>Salientes internacional Swift: X USD |
 | **Notas** | Se necesita pasaporte. 20 dólares iniciales. Tiene bloqueados (agosto-2022) los envíos a Colombia. Se puede usar en conjunto con IBKR o TDBank para enviar dinero a Colombia (costo transferencia ACH: 0.39 USD). |
 
-[Experiencia con Wise](/finanzas/2025/03/25/experiencia-con-wise.html)
+[Experiencia con Wise]({% post_url 2025-03-25-experiencia-con-wise %})
 
 ### Payoneer
 
@@ -342,14 +321,11 @@ Ofrece una tarjeta virtual que puede ser asociada a Apple Pay y Google Pay. Perm
 | **Transferencias** | Entrantes ACH: 1% del monto <br/> Salientes domestica ACH: 1.5 USD <br/>Salientes internacional Swift: 32 USD + 2% del monto <br/>Currency convertion: 3.5% OF AMOUNT TO TRANSFER |
 | **Notas** | La plataforma que suele ser muy popular para recibir pagos de freelancers. Se pueden hacer envios a cualquier cuenta en USA a través de ACH. Tiene una tarjeta debito Mastercard. |
 
-[Experiencia Payoneer](/finanzas/2025/03/25/experiencia-payoneer.html)
+[Experiencia Payoneer]({% post_url 2025-03-25-experiencia-payoneer %})
 
 ### Epayservices
 
-<aside>
-💡 Parece que no tienen buenos comentarios de usuarios. Tener cuidado
-
-</aside>
+> 💡 Parece que no tienen buenos comentarios de usuarios. Tener cuidado
 
 | **Información** | [https://epayservices.com/es/fees.html](https://epayservices.com/es/fees.html) |
 | --- | --- |
@@ -373,10 +349,7 @@ Otra plataforma popular para recibir pagos de freelancers.
 
 ## ~~Sammy~~
 
-<aside>
-⛔ Pronto van a cerrar este servicio (Abril-2024)
-
-</aside>
+> ⛔ Pronto van a cerrar este servicio (Abril-2024)
 
 | **Información** | [https://www.usesammy.com/](https://www.usesammy.com/) |
 | --- | --- |
@@ -386,7 +359,7 @@ Otra plataforma popular para recibir pagos de freelancers.
 | **Transferencias** | 0 ACH envío y recepción |
 | **Notas** | Ofrece tarjeta física mastercard que puede ser usada 45 días despues de haber creado la cuenta. |
 
-[Experiencia Sammy](/finanzas/2025/03/25/experiencia-sammy.html)
+[Experiencia Sammy]({% post_url 2025-03-25-experiencia-sammy %})
 
 ## Paypal
 
@@ -395,12 +368,12 @@ Otra plataforma popular para recibir pagos de freelancers.
 | **Deposito Mínimo** | 0 USD |
 | **Balance Mínimo** | 0 USD |
 | **Cuota de manejo** | 0 USD mensual |
-| **Transferencias** |  |
+| **Transferencias** | |
 | **Notas** | La plataforma que suele ser muy popular para recibir pagos de freelancers. |
 
 El famoso servicio. No cuenta con ACH así que solo puedes recibir pagos de terceros que también usen Paypal. Ver página de envíos a Colombia sobre tarifas
 
-[Experiencia Paypal](/finanzas/2025/03/25/experiencia-paypal.html)
+[Experiencia Paypal]({% post_url 2025-03-25-experiencia-paypal %})
 
 ## Credicorp
 
@@ -412,14 +385,11 @@ Cuenta en Panamá
 | **Balance Mínimo** | 500 USD (Máximo $1500) |
 | **Cuota de manejo** | $32.10 |
 | **Transferencias** | $3.29 cuesta esa transferencia (0.39 + 2.9 por ser SWIFT). La tarifa por recibir es $30 + impuestos, es decir $32.10. |
-| **Notas** | Seguro Fraude $5USD  <br/>Es un poco difícil realizar el proceso de onboarding porque falla mucho la app. Requiere pasaporte vigente<br/> Tienen tarjeta Visa Débito Platinum.Retiro en cajeros en el exterior 3.21%<br/>Interés saldo de la cuenta 0.1% |
+| **Notas** | Seguro Fraude $5USD <br/>Es un poco difícil realizar el proceso de onboarding porque falla mucho la app. Requiere pasaporte vigente<br/> Tienen tarjeta Visa Débito Platinum.Retiro en cajeros en el exterior 3.21%<br/>Interés saldo de la cuenta 0.1% |
 
 ## Wallbit
 
-<aside>
-🚨 Parece ya no estar en funcionamiento. No estan aceptando depositos (Mayo 2023)
-
-</aside>
+> 🚨 Parece ya no estar en funcionamiento. No estan aceptando depositos (Mayo 2023)
 
 Argentina. Te da una dirección SWIFT y una ABA/ACH en USA para recibir dinero. Puedes enviar dinero desde Wise, Paypal, Payoneer.
 
@@ -437,10 +407,7 @@ Ver tarifas [https://help.wallbit.io/es/articles/6376452-comisiones-y-limites-wa
 
 ## Traund
 
-<aside>
-🚨 Al parecer esta solución usa dólares digitales Tether USDT
-
-</aside>
+> 🚨 Al parecer esta solución usa dólares digitales Tether USDT
 
 Aplicación Peruana. Te da una dirección ACH en USA para recibir dinero. Puedes enviar dinero desde Wise, Paypal, Payoneer.
 
@@ -525,8 +492,6 @@ Te da una dirección ACH en USA para recibir y enviar dinero, con un costo fijo 
 - El cash back es gradual, el máximo es de 3%
 
 ## Zenus Bank
-
-.
 
 ## Seis
 

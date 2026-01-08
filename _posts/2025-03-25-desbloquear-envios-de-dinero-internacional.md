@@ -8,7 +8,7 @@ date: 2025-03-25 21:13:18
 
 # Bancolombia
 
-![Untitled]({{ site.baseurl }}/assets/images/international-transfer-block.png)
+![Bloqueo de transferencia internacional]({{ site.baseurl }}/assets/images/international-transfer-block.png)
 
 Te pueden bloquear la recepción de envíos si superan los 28 mil USD anuales o los 7 mil USD mensuales. Esto no le pasa a todos, pero es una posibilidad. En Bancolombia no es necesario ir a sucursal física. Si ya tienes habilitada la cuenta para recibir giros internacionales, apenas llegas al tope te piden:
 
@@ -26,7 +26,7 @@ También es posible que al usar abono automático te estén bloqueando los giros
 
 ![International Transfer Block]({{ site.baseurl }}/assets/images/international-transfer-form.png)
 
-Si eres de las personas que necesita una atención por teléfono, llama a la sección de "Comercio Internacional" - 01 8000 910 090 opción 2. 
+Si eres de las personas que necesita una atención por teléfono, llama a la sección de "Comercio Internacional" - 01 8000 910 090 opción 2.
 
 Si en Bancolombia recibes el anuncio de la transferencia internacional, envías los documentos para que liberen, luego les dice que está disponible y cuando van a la recepción de transferencias internacionales en la web, la transferencia no está listada allí, entonces es porque estaba en la segunda página de la lista.
 
@@ -54,7 +54,7 @@ Si usted es cliente preferencial de Bancolombia, puede traer hasta 40k USD mensu
 
 Te pueden bloquear los envíos si superan los 28 mil USD anuales o los 7 mil USD mensuales. Esto no le pasa a todos, pero es una posibilidad. En Davivienda no es necesario ir a sucursal física. Puedes ir a la página web, en transferencias internacionales aparecerá la transacción, acepta la transacción, agrega el contrato laboral como soporte, negocia la tasa de cambio y espera máximo un par de horas. Si no aparece:
 
-- Enviar un correo a  [soportesmonex@davivienda.com](mailto:soportesmonex@davivienda.com)
+- Enviar un correo a [soportesmonex@davivienda.com](mailto:soportesmonex@davivienda.com)
 - En 'asunto' colocas `NOMBRE COMPLETO - NÚMERO DE CÉDULA`
 - Adjuntas una copia del contrato y una captura o copia de la transferencia bloqueada o bien la fecha y hora en la que crees que debió llegar la transferencia.
 

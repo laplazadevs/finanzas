@@ -6,7 +6,7 @@ date: 2025-03-25 21:13:24
 
 # Compra Vehiculos
 
-Salvo en contadas excepciones, la compra de un carro dista de una inversión y se convierte mas bien en un gaso el cual mes a mes toca perderle dinero. Ya sea por depreciación (un carro recien sacado del concesionario puede perder entre un 10% y un 30% del valor) o por arreglos, mantenimientos y varios. Un carro brinda comodidad pero rara vez va a ser un buen negocio.
+Salvo en contadas excepciones, la compra de un carro dista de una inversión y se convierte más bien en un gasto el cual mes a mes toca perderle dinero. Ya sea por depreciación (un carro recien sacado del concesionario puede perder entre un 10% y un 30% del valor) o por arreglos, mantenimientos y varios. Un carro brinda comodidad pero rara vez va a ser un buen negocio.
 
 Cuando vaya a adquirir uno, fijese en sus necesidades:
 
@@ -84,7 +84,7 @@ Para hacer un presupuesto fiel a la realidad, tenga en cuenta los siguientes cos
 - Foto de la tarjeta de propiedad (la parte de adelante)
 - Que no este muerto :v un proceso de sucesión suele ser engorroso.
 - Reduzca sus preguntas a lo esencial:
-    - Precio
+ - Precio
 
 ### Despues de comprar
 

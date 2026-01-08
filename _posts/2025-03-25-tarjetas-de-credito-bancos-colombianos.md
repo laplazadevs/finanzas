@@ -6,10 +6,7 @@ date: 2025-03-25 21:13:22
 
 # Tarjetas de crédito bancos Colombianos
 
-<aside>
-💡 Esta información suele cambiar con el tiempo así que es mejor estar atento a los cambios en cada banco
-
-</aside>
+> 💡 Esta información suele cambiar con el tiempo así que es mejor estar atento a los cambios en cada banco
 
 ## Bancolombia
 
@@ -70,10 +67,10 @@ PriceSmart, aerolíneas, Terpel), afiliación gratis a casillero Ultrabox.
 - **Facturación en dólares:** No
 - **Beneficios adicionales diferentes a los de franquicia:** Descuentos con almacenes y grandes superficies, compras sin intereses en algunos comercios seleccionados.
 - **Priority Pass/Lounge Key:**
-    - **Segmento Itaú Sucursales:** Se cobra el 50% del valor de la visita, para titulares y acompañantes.
-    - **Segmento Itaú PersonalBank:** 12 visitas sin costo al año, a partir de la visita 13 se cobra el 100% de la tarifa, para titulares y compañantes.
-    - **Clientes LifeMiles Gold:** Cuentan con 2 Visitas sin costo al año, a la 3ra Visita se cobra el 100% de la tarifa vigente para titular y acompañante.
-    - **Clientes LifeMiles Signature:** Cuentan con 6 visitas sin costo al año, a la 7ma Visita se cobra el 100% de la tarifa vigente para titular y acompañante.
+ - **Segmento Itaú Sucursales:** Se cobra el 50% del valor de la visita, para titulares y acompañantes.
+ - **Segmento Itaú PersonalBank:** 12 visitas sin costo al año, a partir de la visita 13 se cobra el 100% de la tarifa, para titulares y compañantes.
+ - **Clientes LifeMiles Gold:** Cuentan con 2 Visitas sin costo al año, a la 3ra Visita se cobra el 100% de la tarifa vigente para titular y acompañante.
+ - **Clientes LifeMiles Signature:** Cuentan con 6 visitas sin costo al año, a la 7ma Visita se cobra el 100% de la tarifa vigente para titular y acompañante.
 - **Recomendada para:** Para quienes quieren tener su primera tarjeta siendo universitario, quienes quieran una tarjeta con proceso 100% dígital usando la App Itaú para Android y iPhone, quienes quieran una tarjeta fácil de exonerar sin estar llamando a negociar el no cobro de cuota de manejo.
 - **Banco amigable con ciudadano común:** SI
 
@@ -93,7 +90,7 @@ PriceSmart, aerolíneas, Terpel), afiliación gratis a casillero Ultrabox.
 - **Franquicias que maneja:** Mastercard, Marca propia CRM
 - **Exoneración de cuota:** Sí, pero si no se usa la tarjeta ni se tiene deuda con ella aplica para Mastercard CMR y CMR Falabella, La Mastercard Black CMR se puede exonerar siempre y cuando que facture trimestralmente 2M.
 - **Facturación en dólares:** No, recargo promedio de 1% para pagos en dólares sobre TRM del día de la compra.
-- **Beneficios adicionales diferentes a los de franquicia:** Promociones en las tiendas Falabella o Homecenter. También tiene programas de fidelización que retornan dinero realizando  consumos de gasolina con la tarjeta, o consignando en la cuenta PAC (cuenta de ahorros)
+- **Beneficios adicionales diferentes a los de franquicia:** Promociones en las tiendas Falabella o Homecenter. También tiene programas de fidelización que retornan dinero realizando consumos de gasolina con la tarjeta, o consignando en la cuenta PAC (cuenta de ahorros)
 - **Priority Pass:** No.
 - **Recomendada para:** Para quienes no compren mucho en el exterior y quieran promociones periódicas de las tiendas; reciben pagos además en puntos Baloto, y PSE desde cualquier banco sin recargo, también para quién esta comenzando su vida crediticia ya que la entregan relativamente fácil.
 - **Banco amigable con ciudadano común:** SI, aunque con preferencia a usuarios de segmento premium.

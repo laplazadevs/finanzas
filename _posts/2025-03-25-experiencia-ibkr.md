@@ -6,23 +6,17 @@ date: 2025-03-25 21:13:26
 
 # Experiencia IBKR
 
-<aside>
-💡 IBKR como tal no es un banco así que los depósitos no están asegurados por la FDIC. Aun así esta plataforma cuenta con algunos seguros como lo son SPIC. Y esta regulada por la FINRA.
-
-</aside>
+> 💡 IBKR como tal no es un banco así que los depósitos no están asegurados por la FDIC. Aun así esta plataforma cuenta con algunos seguros como lo son SPIC. Y esta regulada por la FINRA.
 
 # Apertura de cuenta
 
-<aside>
-💡 Algunos formularios "requiren" que indiques de cuantos son tus ingresos o bien qué conocimiento tienes sobre trading, ya que no exigen que se comprueben estos datos, puedes indicar que tienes un nivel medio alto.
+> 💡 Algunos formularios "requiren" que indiques de cuantos son tus ingresos o bien qué conocimiento tienes sobre trading, ya que no exigen que se comprueben estos datos, puedes indicar que tienes un nivel medio alto.
 
-</aside>
+Abrir una cuenta en IBKR requiere un documento de identidad nacional, un pasaporte y una prueba de residencia (un recibo de servicio público donde aparezca su nombre y su dirección sirve). Recientemente se agrego la posibilidad de continuar con el proceso de manera automática escaneando un código QR con el celular, desde el cual se abrirá una página donde se solicitan permisos para acceder a la cámara (para tomar foto del documento de identidad), una foto suya tipo selfie, y la ubicación para corroborar que se encuentra en donde dice estar. Suelen pedir un Tax Identification Number que para el caso de Colombia es el RUT. Hay dos tipos de cuenta: una llamada Cash y otra llamada Margin. Se sugiere usar una cuenta de tipo Cash si usted no sabe exactamente de qué se trata la una o la otra (después se puede convertir la cuenta de Cash a Margin fácilmente).
 
-Abrir una cuenta en IBKR requiere un documento de identidad nacional, un pasaporte y una prueba de residencia (un recibo de servicio público donde aparezca su nombre y su dirección sirve). Recientemente se agrego la posibilidad de continuar con el proceso de manera automática escaneando un código QR con el celular, desde el cual se abrirá una página donde se solicitan permisos para acceder a la cámara (para tomar foto del documento de identidad), una foto suya tipo selfie, y la ubicación para corroborar que se encuentra en donde dice estar. Suelen pedir un Tax Identification Number que para el caso de Colombia es el RUT. Hay dos tipos de cuenta: una llamada Cash y otra llamada Margin. Se sugiere usar una cuenta de tipo Cash si usted no sabe exactamente de qué se trata la una o la otra (después se puede convertir la cuenta de Cash a Margin fácilmente).  
+Una vez completado el formulario en la aplicación, van a pasar algunos días mientras revisan los papeles enviados. Este proceso suele tomar 2 o 3 días máximo.
 
-Una vez completado el formulario en la aplicación, van a pasar algunos días mientras revisan los papeles enviados. Este proceso suele tomar 2 o 3 días máximo. 
-
-Una vez confirmen todo está bien, la cuenta Cash en Interactive Brokers estará lista para operar. 
+Una vez confirmen todo está bien, la cuenta Cash en Interactive Brokers estará lista para operar.
 
 # Uso de la cuenta
 
@@ -38,10 +32,7 @@ La gestión se realiza a través de la página web y aplicaciones móviles para 
 
 ## Cash a margin
 
-<aside>
-💡 El truco con IBKR es tener margin account así puedes retirar incluso antes de que te paguen (como un adelanto del salario) y luego con el deposito haces settlement del prestamo, así tienes el dinero en el momento en que quieras
-
-</aside>
+> 💡 El truco con IBKR es tener margin account así puedes retirar incluso antes de que te paguen (como un adelanto del salario) y luego con el deposito haces settlement del prestamo, así tienes el dinero en el momento en que quieras
 
 Para habilitar Margin en una cuenta Cash de Interactive Brokers es muy facil, lo único que hay que hacer es ir a la parte derecha superior, dar click en el icono de usuario, luego en Manage Account, en la parte de la derecha van a encontrar algo que se llama Account Type, dar click en el icono de herramienta y seleccionar Margin en la lista, no confundir con Portafolio Margin, la diferencia entre los dos es que el primero requiere de tener un portafolio de acciones, efectivo u otras cosas que resulten en un valor de más de 2 mil USD, y hay que mantener el portafolio con ese valor, lo cual no debería ser un problema con portafolios a largo plazo; el segundo tipo de margin tiene como requisito tener un mínimo de 100 mil USD y requiere pasar otros controles que no son tan necesarios.
 
@@ -51,7 +42,7 @@ IBKR presenta dos tipos de modelo de precios para sus usuarios con cuenta pro: u
 
 En la Fixed comissions se paga un porcentaje, con un mínimo y un máximo, sobre la inversión.
 
-Para la mayoria de inversionistas Tired pricing es la mejor opción para a reducir los costos del broker a la hora de realizar la operación de compra o venta de activos. 
+Para la mayoria de inversionistas Tired pricing es la mejor opción para a reducir los costos del broker a la hora de realizar la operación de compra o venta de activos.
 
 [Should You Use IB Fixed Or Tiered Pricing In 2023? - The Poor Swiss](https://thepoorswiss.com/ib-fixed-or-tiered-pricing/)
 
@@ -66,17 +57,12 @@ Para la mayoria de inversionistas Tired pricing es la mejor opción para a reduc
 - Después de enviar el dinero a IBKR, si la cuenta es cash este puede tomar 3 días hábiles (en USA) en estar disponible ese dinero para retiro. Si la cuenta es de tipo Margin, IBKR puede "prestarte" mientras se hace el settlement de ese dinero. Ten en cuenta las tasas de interés del Broker.
 
 > Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type.
-> 
-> 
 > The one exception is under the Free-Riding rule. Clients with a cash account can use the proceeds from the sale of a security to purchase a different security under the condition that the second security is held until settlement of the initial sale. If the client sells the second security prior to settlement of the initial trade, they will be in violation of the Free-Riding rule and will be locked for 90 days from utilizing this exception.
-> 
 > Account holders who wish to have access to settled funds prior to the settlement day may do so by electing an account type of 'Margin'. Under this account type unsettled funds may be used for trading purposes but may not be withdrawn until settlement. Account holders maintaining a 'Cash' account may request an upgrade to a 'Margin' type account by logging in to Client Portal and selecting the *Settings > Account Settings* menu item and *Account Type* from the Configuration panel. Upgrade requests are subject to a compliance review to ensure that the account holder maintains the appropriate qualifications.
-> 
 > Fuente: [https://ibkr.info/node/814](https://ibkr.info/node/814)
-> 
 
 ```
-Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type. 
+Accounts which have been set up as a 'Cash' type do not have access to the proceeds from the sale of securities until such time the transaction has settled at the clearinghouse and proceeds have been issued to IBKR. Securities settlement generally takes place on the third business day following the sale transaction. Providing access to the funds prior to settlement would constitute a loan, a transaction which is precluded from taking place within this account type.
 
 The one exception is under the Free-Riding rule. Clients with a cash account can use the proceeds from the sale of a security to purchase a different security under the condition that the second security is held until settlement of the initial sale. If the client sells the second security prior to settlement of the initial trade, they will be in violation of the Free-Riding rule and will be locked for 90 days from utilizing this exception.
 
@@ -85,10 +71,7 @@ Account holders who wish to have access to settled funds prior to the settlement
 
 # Recibir dinero en IBKR
 
-<aside>
-🚨 Recuerda que una vez IBKR confirme la recepción de la transferencia, debe esperar 2 o 3 días hábiles para que tu dinero este disponible para realizar operaciones solo sí tu cuenta de IBKR es de tipo Cash. Si tu cuenta es de tipo Margin, el dinero estará disponible de inmediato (apenas IBKR confirme la recepción).
-
-</aside>
+> 🚨 Recuerda que una vez IBKR confirme la recepción de la transferencia, debe esperar 2 o 3 días hábiles para que tu dinero este disponible para realizar operaciones solo sí tu cuenta de IBKR es de tipo Cash. Si tu cuenta es de tipo Margin, el dinero estará disponible de inmediato (apenas IBKR confirme la recepción).
 
 IBKR ofrece distinto tipos de método para fondear tu cuenta en la plataforma. Algunos de ellos son:
 
@@ -106,20 +89,11 @@ Normalmente toma 2 días hábiles en llegar el dinero desde tu banco a IBKR.
 
 ## A Colombia
 
-<aside>
-🚨 Para evitar advertencias de IBKR, se sugiere no usar la cuenta como una pasarela, es decir, conviene hacer algo de trading
+> 🚨 Para evitar advertencias de IBKR, se sugiere no usar la cuenta como una pasarela, es decir, conviene hacer algo de trading
 
-</aside>
+> 🚨 De acuerdo con la normativa sobre la lucha contra el blanqueo de capitales, todas las retiradas de fondos deberán enviarse en nombre del titular de cuenta.
 
-<aside>
-🚨 De acuerdo con la normativa sobre la lucha contra el blanqueo de capitales, todas las retiradas de fondos deberán enviarse en nombre del titular de cuenta.
-
-</aside>
-
-<aside>
-💡 La primera vez tendrá que "crear la conexión" entre IBKR y su banco en Colombia. Una vez creada, ya podrá crear solicitudes de retiro.
-
-</aside>
+> 💡 La primera vez tendrá que "crear la conexión" entre IBKR y su banco en Colombia. Una vez creada, ya podrá crear solicitudes de retiro.
 
 Para poder retirar fondos deberá completar una solicitud de retirada de fondos en la página de transferencias de fondos de Client Portal. La primera solicitud de retirada de fondos al mes será gratuita. IBKR cobrará una comisión por cada retirada de fondos posterior (de cualquier tipo).
 
@@ -127,10 +101,7 @@ En el portal de su cuenta haga click en un botón de "Retirar" o "Withdraw", est
 
 Rellene el formulario.
 
-<aside>
-🚨 A pesar de no ser estrictamente necesario usar un **Correspondent Bank** (O banco intermediario), se sugiere especificar uno (yo he usado Citibank) porque así se controlan los costos de envío (para Citibank es 0). He sabido de casos en el que si no se especifica, pueden cobrar $10 USD por transacción.
-
-</aside>
+> 🚨 A pesar de no ser estrictamente necesario usar un **Correspondent Bank** (O banco intermediario), se sugiere especificar uno (yo he usado Citibank) porque así se controlan los costos de envío (para Citibank es 0). He sabido de casos en el que si no se especifica, pueden cobrar $10 USD por transacción.
 
 | Filed | Value |
 | --- | --- |
@@ -139,11 +110,11 @@ Rellene el formulario.
 | Bank Country | Colombia |
 | Bank Account Number | Su número de cuenta en Colombia |
 | Confirm Bank Account Number | Su número de cuenta en Colombia |
-| **Receiving Bank** |  |
-| Bank Name |  |
-| Bank Address |  |
+| **Receiving Bank** | |
+| Bank Name | |
+| Bank Address | |
 | SWIFT/BIC Code | Revise la siguiente sección o bien busque el código SWIFT de su banco |
-| **Correspondent Bank** |  |
+| **Correspondent Bank** | |
 | Select | Abra el dialogo. Si no encuentra automáticamente un banco, revise la sección a continuación del **Correspondent** bank |
 | Does your bank account accept transfers in USD? | Yes |
 
@@ -153,7 +124,7 @@ Rellene el formulario.
 
 Ver Bancos Intermediarios para transferencias SWIFT en
 
-[Transferencias SWIFT](/Finanzas%20101%20a7afac9cfd494251b3265655b35883a9/2025/03/25/transferencias-swift.html)
+[Transferencias SWIFT]({% post_url 2025-03-25-transferencias-swift %})
 
 Y el banco beneficiario o al destinatario final sería
 
@@ -242,10 +213,7 @@ Un margin loan es un tipo de prestamos con interés que permite tomar dinero ten
 
 ## Problemas
 
-<aside>
-⛔ Revise bien los pros y los contras de este procedimiento
-
-</aside>
+> ⛔ Revise bien los pros y los contras de este procedimiento
 
 - Puedes sufrir un margin call y eventualmente una liquidación de los securities que tengas invertidos sí el valor de tu portafolio cae por debajo del límite del margin. Un margin call es una alerta de tu broker para poner más dinero en la cuenta, vender inversiones o agregar más margin assets. Si no se satisface este margin call, el broker puede tomar acciones arbitrarias y liquidar posiciones en su cuenta.
 - Las tasas de interés pueden subir ya que se trata de una tasa variable. Los Margin loans te cobran interés con el tiempo, afortunadamente este prestamo tiende a tener tasas de interés más bajas comparadas con otros tipos de prestamos.
@@ -294,7 +262,7 @@ Lo depósitos en IBKR estan asegurados por la **SIPC** (Securities Investor Prot
 
 Estan regulados por la FINRA – Financial Industry Regulatory Authority.
 
-La Sociedad de Valores y Bolsa (SEC) 
+La Sociedad de Valores y Bolsa (SEC)
 
 # Problemas
 
@@ -310,10 +278,7 @@ Algunas personas han comentado que dejar como portafolio de inversiones lo equiv
 
 ## Cuando IBKR recibe el dinero pero debes esperar 2 días hábiles para empezara operar
 
-<aside>
-🚨 Revisar las implicaciones de usar una cuenta Margin (así no se use el apalancamiento en las inversiones).
-
-</aside>
+> 🚨 Revisar las implicaciones de usar una cuenta Margin (así no se use el apalancamiento en las inversiones).
 
 Es normal que en cuentas de tipo Cash en IBKR toque esperar al menos dos o tres días para que el dinero esté disponible para usarse en la plataforma. Este problema puede solucionarse cambiando la cuenta a una de tipo Margin.
 
@@ -332,7 +297,7 @@ Te toca cambiar las respuestas sobre experiencia o wealth o tienes menos de $2k 
 ## Cuando recibes o envías a cuentas que no están a tu nombre
 
 ```jsx
-"During a routine review of your IBKR account U*******, 
+"During a routine review of your IBKR account U*******,
 the IBKR Compliance department noted a deposit into your account
 that appears to be from an individual/entity other than the account
 holder (i.e., a Third-Party Deposit).
@@ -365,7 +330,7 @@ Existen situaciones en las que IBKR pueda aprobar el envío de dinero a terceros
 - Tax payments
 - IRA qualified charitable distributions
 
-**Effective August 1, 2020, IBKR will generally not approve the following types of third-party withdrawals:**  
+**Effective August 1, 2020, IBKR will generally not approve the following types of third-party withdrawals:**
 •	Private investments
 •	Repayment of loans
 •	Withdrawals to companies owned by the accountholder
@@ -394,14 +359,12 @@ In general, it means that under their interpretation of laws/regulations, they f
 
 ## Aplicación Rechazada ¿Qué hacer?
 
-Cuando se está creando la cuenta se puede recibir un correo de este estilo. 
+Cuando se está creando la cuenta se puede recibir un correo indicando que la aplicación fue rechazada.
 
-![Screenshot 2024-11-06 at 12.07.06 PM.png](Experiencia%20IBKR%20edf9a9b7000d4fab815e545862d49489/Screenshot_2024-11-06_at_12.07.06_PM.png)
-
-No son claras las razones por las cuáles no permiten crearla la cuenta con IBKR pero éstos son las posibles soluciones para intentar crear la cuenta después de algún tiempo:  
+No son claras las razones por las cuáles no permiten crearla la cuenta con IBKR pero éstos son las posibles soluciones para intentar crear la cuenta después de algún tiempo:
 
 - Intentar Abrir la cuenta nuevamente después de unos 6 meses del primer intento.
-- Fondear la cuenta con mínimo 100 dólares. Cuentas que se fondean con menos es mas probable que IBKR no quiera aperturar la cuenta.
+- Fondear la cuenta con mínimo 100 dólares. Cuentas que se fondean con menos es más probable que IBKR no quiera aperturar la cuenta.
 - Usar un correo diferente al inicial.
 - Usar un link de referido.
 

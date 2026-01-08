@@ -54,7 +54,7 @@ Desde luego siempre será buena idea tener el acompañamiento de un experto a la
 - Probar todos los cajones y divisiones de las duchas.
 - Que tengan los planos arquitectónicos, hídricos y eléctricos.
 - Notar si tiene humedades porque esto es importante. Sería muy costoso en caso de tener que romper los pisos o paredes para arreglar o cambiar tuberías.
-- También que el techo no tenga daños o fugas  y goteras, cambiar un techo es costoso.
+- También que el techo no tenga daños o fugas y goteras, cambiar un techo es costoso.
 - Igualmente revisar el estado de los baños y la cocina. Que los lavamanos, lavaplatos, cocina integral, inodoros, etc, estén en buen estado.
 - Si te gusta el inmueble y el apto se ve muy antiguo o deteriorado es recomendable pagar por un peritaje especializado que te dice las cosas que habría que arreglar y el costo aproximado.
 - Solicitar al propietario las actas de las últimas asambleas de propietarios para saber cuales han sido los temas discutidos (humedades, problemas de linderos, etc).
@@ -67,9 +67,9 @@ Y también ir en época de temblores. Tratar de ir en época de lluvias. Buscar 
 
 - **Evita al máximo entregar información de tu residencia actual, salvo cuando ya estés decido por una vivienda y tengas alguna referencia de quien la vende.**
 - Luego es importante hacer un estudio de títulos para validar que sea de buena procedencia.
-    - Solicitar las matriculas inmobiliarias para que usted mismo descargue los certificados de tradición de todos los inmuebles que se vayan a comprar (por ejemplo: el apartamento, el parqueadero, la bodega, etc). Estos certificados de tradición se consiguen en la página web de la Superintendencia de notariado y registro ([https://www.supernotariado.gov.co/](https://www.supernotariado.gov.co/)). Corrobore que quién le está vendiendo es quién aparece este certificado.
-    - Revisar que no se tengan embargos, hipotecas, leasings, afectación familiar o cualquier otro elemento que bloquee la venta como que el inmueble haya sido adquirido con subsidios. Aunque muchos de estos se pueden resolver, es mejor asesorarse antes de realizar alguna operación de compra venta para no cometer errores que puedan afectar el patrimonio o su tiempo.
-    - Revisar las escrituras. El certificado de tradición tiene información del número de la escritura y la notaría en la que se encuentra.
+ - Solicitar las matriculas inmobiliarias para que usted mismo descargue los certificados de tradición de todos los inmuebles que se vayan a comprar (por ejemplo: el apartamento, el parqueadero, la bodega, etc). Estos certificados de tradición se consiguen en la página web de la Superintendencia de notariado y registro ([https://www.supernotariado.gov.co/](https://www.supernotariado.gov.co/)). Corrobore que quién le está vendiendo es quién aparece este certificado.
+ - Revisar que no se tengan embargos, hipotecas, leasings, afectación familiar o cualquier otro elemento que bloquee la venta como que el inmueble haya sido adquirido con subsidios. Aunque muchos de estos se pueden resolver, es mejor asesorarse antes de realizar alguna operación de compra venta para no cometer errores que puedan afectar el patrimonio o su tiempo.
+ - Revisar las escrituras. El certificado de tradición tiene información del número de la escritura y la notaría en la que se encuentra.
 - Revisar que la persona que esta vendiendo no esté señalada en las base de datos de la Policia, Procuraduria, Contraloria o que tenga procesos (o incluso haya tenido) en la rama judicial. Esto se logra buscando el número de la cédula en las bases de datos antes mencionadas. El número de cédula puede ser obteniendo tambien del certificado de tradición.
 - Revisar que no se tengan deudas por conceptos de predial, servicios, administración, valorización. Solicitar paz y salvos de todos estos.
 - Tenga en cuenta el costo de la administración. Nadie quiere pagar un arriendo en forma de este cobro.
@@ -126,11 +126,11 @@ Ventajas:
 
 Si necesita apalancamiento puede revisar
 
-[Créditos](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/creditos.html)
+[Créditos]({% post_url 2025-03-25-creditos %})
 
 # Transferencias
 
-Si necesita realizar la transferencia de grandes sumas de dinero (mayores a 30 millones COP) puede hacer uso de un cheque de gerencia. Esto brinda seguridad tanto para usted como para el vendedor. El costo varia de acuerdo a los bancos, en Colpatria el costo es de $27.000 COP (2023), para Bancolombia es de $45.000 COP (2023). Mientras que en Davivienda es gratuito debido a la  LEY 2009 DEL 27 DICIEMBRE DE 2019 - SERVICIOS GRATUITOS POR PAGO DE CUOTA DE MANEJO CUENTA AHORROS (Aplica únicamente para Cuenta Móvil).
+Si necesita realizar la transferencia de grandes sumas de dinero (mayores a 30 millones COP) puede hacer uso de un cheque de gerencia. Esto brinda seguridad tanto para usted como para el vendedor. El costo varia de acuerdo a los bancos, en Colpatria el costo es de $27.000 COP (2023), para Bancolombia es de $45.000 COP (2023). Mientras que en Davivienda es gratuito debido a la LEY 2009 DEL 27 DICIEMBRE DE 2019 - SERVICIOS GRATUITOS POR PAGO DE CUOTA DE MANEJO CUENTA AHORROS (Aplica únicamente para Cuenta Móvil).
 
 # Inmobiliarias
 
@@ -146,7 +146,7 @@ Si necesita realizar la transferencia de grandes sumas de dinero (mayores a 30 m
 
 # Impuestos a la hora de escriturar
 
-[Impuestos compra inmueble](/finanzas/2025/03/25/impuestos-compra-inmueble.html)
+[Impuestos compra inmueble]({% post_url 2025-03-25-impuestos-compra-inmueble %})
 
 # Flipping
 

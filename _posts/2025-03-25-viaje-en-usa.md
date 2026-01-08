@@ -10,12 +10,12 @@ Esta página presenta sugerencias, trucos, etc a la hora de viajar por Estados U
 
 # Cambio físico de Pesos a Dolares
 
-- En el aeropuerto te va salir mas caro
+- En el aeropuerto te va salir más caro
 - Para comprar USD en cash en Medellín [https://www.cambioselpoblado.com/](https://www.cambioselpoblado.com/)
 
 # Alquilar un auto
 
-- Yo normalmente he usado [https://www.dollar.com/](https://www.dollar.com/) y [https://www.sixt.com/](https://www.sixt.com/) o un par de veces [https://www.enterprise.com/en/home.html](https://www.enterprise.com/en/home.html) (son las mas conocidas), otro par de veces me fui con unas “económicas” (no tan conocidas) que al final me hicieron otros cobros y me salia mas caro que las grandes conocidas
+- Yo normalmente he usado [https://www.dollar.com/](https://www.dollar.com/) y [https://www.sixt.com/](https://www.sixt.com/) o un par de veces [https://www.enterprise.com/en/home.html](https://www.enterprise.com/en/home.html) (son las más conocidas), otro par de veces me fui con unas “económicas” (no tan conocidas) que al final me hicieron otros cobros y me salia más caro que las grandes conocidas
 - Recomendación con lo del carro, pila con los tolls, las agencias normalmente te ofrecen pagar como 10 o 15$ diarios extra, si no quieres preocuparte por los tolls. Si decides no tomar el servicio de tolls, compra en un CVS una tarjeta prepagada y activarla por tu cuenta, esta es la opción más económica, pero asegúrate de hacerlo bien
 
 # Celular

@@ -33,12 +33,9 @@ La cuenta es de Checkings. Puedes pedir una tarjeta débito y al tiempo una tarj
 
 Por lo general vas a tener un asesor de Davivienda contactándote al inicio del proceso para hacerte una entrevista y luego una video-grabación donde expongas el motivo de para la apertura de la cuenta. Si vas a fondear la cuenta (realizar el primer envió) con dinero del exterior es mejor que se le indique al asesor al inicio del proceso
 
-<aside>
-⚠️
+> ⚠️
 
-Te pueden negar la apertura de la cuenta si en la entrevista el banco identifica que vas a usar la cuenta como puente para transferir todo el dinero de manera mas conveniente a Colombia, lo que quieren oir es que una parte del dinero es para transferir a Colombia y el restante para dejar ahí guardado o para explorar los vehiculos de inversión que ofrecen.
-
-</aside>
+Te pueden negar la apertura de la cuenta si en la entrevista el banco identifica que vas a usar la cuenta como puente para transferir todo el dinero de manera más conveniente a Colombia, lo que quieren oir es que una parte del dinero es para transferir a Colombia y el restante para dejar ahí guardado o para explorar los vehiculos de inversión que ofrecen.
 
 ## Uso de la cuenta
 
@@ -54,7 +51,7 @@ Estos recursos están disponibles después de darse de alta
 
 ## Recursos
 
-- Tarjeta débito: Gratuita, Mastercard, la envían desde Panamá por lo que toma poco mas de 3 días en llegar.
+- Tarjeta débito: Gratuita, Mastercard, la envían desde Panamá por lo que toma poco más de 3 días en llegar.
 - Tarjeta crédito:
 - CDT
 
@@ -66,11 +63,8 @@ Es buena idea llamar al Banco en Colombia para desactivar el débito automático
 
 ### Envio usando Davivienda Panamá a Davivienda Colombia
 
-<aside>
-💡 Por ejemplo, si se envia dinero desde Deel a Davivienda Panamá, hay un fee de 20 dolares. 
+> 💡 Por ejemplo, si se envia dinero desde Deel a Davivienda Panamá, hay un fee de 20 dolares.
 
-Ahora, la transferencia entre Davivienda Panamá y Davivienda Colombia es gratuita entonces se omite este fee. 
+Ahora, la transferencia entre Davivienda Panamá y Davivienda Colombia es gratuita entonces se omite este fee.
 
 Lo único que habría que hacer es negociar la tasa de conversión de dolares a pesos.
-
-</aside>

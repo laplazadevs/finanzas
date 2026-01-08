@@ -19,9 +19,9 @@ date: 2025-03-25 21:13:26
 
 ## Experiencia Usando Tarjeta Débito.
 
-El fondeo con tarjeta débito como si fuera una compra es sencillo, éste es un ejemplo de los costos: 
+El fondeo con tarjeta débito como si fuera una compra es sencillo, éste es un ejemplo de los costos:
 
-Fecha: 2024/07/31 
+Fecha: 2024/07/31
 
 Compra INTL XTB International:
 
@@ -32,27 +32,27 @@ Dólares que llegaron a XTB
 TRM de la compra: 4107,47 COP
 TRM en dolar-colombia.com: 1 USD = 4,089.05 COP
 
-El fee por la compra para la tarjeta débito de Bancolombia es 0.45%, el cual es el costo por el fondeo desde la tarjeta de Bancolombia en COP. Depende de la tasa que da el banco también para la conversión de COP a USD. 
+El fee por la compra para la tarjeta débito de Bancolombia es 0.45%, el cual es el costo por el fondeo desde la tarjeta de Bancolombia en COP. Depende de la tasa que da el banco también para la conversión de COP a USD.
 
 ![XTB Mastercard]({{ site.baseurl }}/assets/images/xtb-mastercard.png)
 
-## Experiencia desde Payoneer.
+## Experiencia desde Payoneer
 
-TODO: 
+Pendiente de documentar.
 
 # Costos
 
 ## Costos por comprar Stocks y ETFs.
 
-Una de las ventajas de XTB es que tanto las compras como las ventas de ETFs y Stocks son gratis. 
+Una de las ventajas de XTB es que tanto las compras como las ventas de ETFs y Stocks son gratis.
 
 ## Costos por Inactividad.
 
-Después de 12 meses de inactividad, XTB comenzará a cobra 10 USD mensuales. 
+Después de 12 meses de inactividad, XTB comenzará a cobra 10 USD mensuales.
 
 ## Tarifa de Custodia.
 
-XTB cobra un 0,2% anual para el exceso del valor promedio diario de la cartera superior a 250.000EUR. 
+XTB cobra un 0,2% anual para el exceso del valor promedio diario de la cartera superior a 250.000EUR.
 
 ![XTB Custody Fee]({{ site.baseurl }}/assets/images/xtb-custody-fee.png)
 
@@ -60,9 +60,9 @@ XTB cobra un 0,2% anual para el exceso del valor promedio diario de la cartera s
 
 ## Retiro por SWIFT a Banco en Colombia.
 
-XTB solo permite retirar a Bancos en Colombia, el banco debe tener código SWIFT. Si bien XTB no cobra por el retiro, hasta que el dinero llega a Bancol hay varios fees de por medio. 
+XTB solo permite retirar a Bancos en Colombia, el banco debe tener código SWIFT. Si bien XTB no cobra por el retiro, hasta que el dinero llega a Bancol hay varios fees de por medio.
 
-En la prueba se enviaron $1773.32 a Bancolombia. 
+En la prueba se enviaron $1773.32 a Bancolombia.
 
 - El proceso tomó 3 días hábiles.
 - Llegaron $1736.32 ($37 dólares en fees).
@@ -77,7 +77,7 @@ Swissquote: Available but "high" fees. How much ?
 
 Degiro: Colombia is not available.
 
-Se han hecho algunas investigaciones de algunos brokers europeos conocidos y ésta ha sido la conclusión, para personas residentes en Colombia: 
+Se han hecho algunas investigaciones de algunos brokers europeos conocidos y ésta ha sido la conclusión, para personas residentes en Colombia:
 
 - Saxo Bank: No disponible para Colombia.
 - Degiro: No disponible para Colombia.

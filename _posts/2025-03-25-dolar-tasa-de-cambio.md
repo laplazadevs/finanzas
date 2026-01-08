@@ -22,7 +22,7 @@ La Tasa Representativa del Mercado (TRM) es un indicador económico que expresa 
 
 Es un precio que se establece en el mercado regulado y que **certifica la Superfinanciera todas las tardes en los días hábiles.**
 
-Para calcular la TRM del dólar **se hace un promedio de las tasas las operaciones de compra y venta de dólares norteamericanos del día**. Para que el cálculo sea representativo, se ponderan las transacciones según su monto y se realiza un promedio aritmético simple. 
+Para calcular la TRM del dólar **se hace un promedio de las tasas las operaciones de compra y venta de dólares norteamericanos del día**. Para que el cálculo sea representativo, se ponderan las transacciones según su monto y se realiza un promedio aritmético simple.
 
 La TRM no cambia durante los fines de semana. El precio de esta depende de la cantidad de dólares en el mercado y se busca que permanezca sobre ciertos rangos.
 

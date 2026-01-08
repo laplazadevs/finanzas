@@ -9,7 +9,7 @@ date: 2025-03-25 21:13:28
 # Tarjeta
 
 - Payoneer envía una tarjeta Mastercard. Suele demorar 20 a 25 días en llegar.
-- Es posible tener mas de una tarjeta
+- Es posible tener más de una tarjeta
 - Tarjeta para compras internacionales pero para compras nacionales te cobran 3.5% adicional por cada compra.
 - Solo pagas la anualidad por una de ellas por valor de 29 dólares
 - Reemplazarla cuesta 12 dólares
