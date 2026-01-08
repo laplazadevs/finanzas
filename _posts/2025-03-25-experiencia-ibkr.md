@@ -364,9 +364,7 @@ In general, it means that under their interpretation of laws/regulations, they f
 
 ## Aplicación Rechazada ¿Qué hacer?
 
-Cuando se está creando la cuenta se puede recibir un correo de este estilo. 
-
-![Screenshot 2024-11-06 at 12.07.06 PM.png](Experiencia%20IBKR%20edf9a9b7000d4fab815e545862d49489/Screenshot_2024-11-06_at_12.07.06_PM.png)
+Cuando se está creando la cuenta se puede recibir un correo indicando que la aplicación fue rechazada.
 
 No son claras las razones por las cuáles no permiten crearla la cuenta con IBKR pero éstos son las posibles soluciones para intentar crear la cuenta después de algún tiempo:  
 

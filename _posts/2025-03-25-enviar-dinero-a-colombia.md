@@ -190,7 +190,7 @@ Es posible usar un datáfono para hacer una compra con una tarjeta. No sé qué 
 
 ## Giro
 
-x
+Pendiente de documentar.
 
 ## Cheque Internacional
 
