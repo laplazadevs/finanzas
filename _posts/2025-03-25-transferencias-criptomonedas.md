@@ -6,14 +6,7 @@ date: 2025-03-25 21:13:18
 
 # Transferencias criptomonedas
 
-<aside>
-💡 DISCLAIMER FINAL: TODOS LOS MÉTODOS LISTADOS SON EN BLANCO, TRACEABLE, RASTREABLES. MUCHAS, SINO TODAS, LAS PLATAFORMAS MENCIONADAS INFORMAN A LA AFIP. ESTE POST NO CONTEMPLA EN NINGÚN MOMENTO EL ORIGEN DE LOS FONDOS, EL PAGO DE IMPUESTOS, LA LIQUIDACIÓN DE DIVISAS Y OTROS TEMAS RELACIONADOS. NO ES CONCEJO DE INVERSION, NO ES CONSEJO FINANCIERO, LA INFORMACIÓN PUEDE CAMBIAR EN CUALQUIER MOMENTO. NO ME HAGO CARGO POR INTERPRETACIONES ERRONEAS DEL MISMO. ESTE POST SOLO REFLEJA MI ENTENDIMIENTO SOBRE LOS TERMINOS Y CONDICIONES DE LAS DIFERENTES PLATAFORMAS, QUE NO TIENE NINGÚN VALOR EN CASO DE QUE LA PLATAFORMA EN CUESTIÓN DECIDA SUSPENDER O CERRAR LA CUENTA POR VIOLACIÓN A LOS MISMOS. SEGÚN ENTIENDO YO, NINGUNO DE LOS MÉTODOS LISTADOS VIOLA LOS TERMINOS Y CONDICIONES DE LAS PLATAFORMAS MENCIONADAS, PERO ES PURA Y EXCLUSIVAMENTE UNA INTERPRETACIÓN PROPIA. PUEDE QUE LOS METODOS ESTÉN PROHIBIDOS, EN UNA ZONA GRIS O SIMILARES, Y PUEDE QUE TU CUENTA SEA CERRADA SIGUIENDO ALGUNO DE LOS MÉTODOS. NO ME HAGO CARGO, CADA UNO SABE SI QUIERE CORRER EL RIESGO O NO. LEAN LOS TERMINOS Y CONDICIONES Y ANALICEN SI AL MOMENTO DE REALIZAR LA MANIOBRA LA MISMA ESTÁ PERMITIDA. ASESORENSE CON ABOGADOS Y CONTADORES DE SER NECESARIO.
-
-</aside>
-
-# Criptomonedas
-
-.
+> 💡 **DISCLAIMER:** Todos los métodos listados son en blanco, trazables y rastreables. Muchas, sino todas, las plataformas mencionadas informan a las autoridades tributarias. Este post no contempla el origen de los fondos, el pago de impuestos, la liquidación de divisas y otros temas relacionados. No es consejo de inversión ni consejo financiero. La información puede cambiar en cualquier momento. Asesórense con abogados y contadores de ser necesario.
 
 # Plataformas en Colombia
 
@@ -23,9 +16,9 @@ Se puede realizar la compra de USDC o USDT en este exchange local. Los transfier
 
 Littio tambien permite cargar saldo desde una cuenta en USA a través de ACH. Debes escribir al soporte para más detalles sobre el número de enrutamiento y el número de cuenta. Normalmente te cobran el 1% del monto.
 
-## Budda
+## Buda
 
-.
+Exchange latinoamericano que opera en Colombia, Chile, Perú y Argentina.
 
 # Plataformas Extranjeras
 
@@ -35,7 +28,7 @@ Puedes usar Binance P2P: Comprar USDC/USDT utilizando cualquier medio de pago y 
 
 ## KuCoin
 
-.
+Exchange global con amplia variedad de criptomonedas.
 
 ## Kraken
 

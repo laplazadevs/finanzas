@@ -10,7 +10,7 @@ date: 2025-03-25 21:13:20
 
 [Guía oficial de Giovanny Góngora](https://gioyik.com/p/broker-para-noobs-como-yo)
 
-[Guia para crear cuenta en IBKR y transferir desde Colombia](https://www.notion.so/f22bec2341d94597ba57173feef37b7d?pvs=21)
+[Experiencia IBKR](/finanzas/2025/03/25/experiencia-ibkr.html)
 
 # **Recursos Recomendados**
 
@@ -75,7 +75,7 @@ Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wa
 
 ## ¿Por qué usamos eTrading de Valores Bancolombia y no Trii de Acciones y Valores?
 
-Los costos son muy parecidos con la promoción que tiene Bancolombia, en Bancolombia se puede ver [El Libro de Órdenes](https://b2broker.com/es/library/what-is-an-order-book-and-how-does-it-work/) gratis (que es útil para tomar decisiones con bots, hacer HFT o para darse cuenta cuando los inyectores de liquidez están encendidos), en Trii hay que pagar para tener acceso a ese libro.  Otra ventaja importante de eTrading es que no cobra comisión sobre dividendos, los retiros son más rápidos, tiene webapp de escritorio y es posible [mover $ de la cuenta de ahorros Bancolombia para allá sin pagar 4xmil](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/inversion-en-stocks.html)
+Los costos son muy parecidos con la promoción que tiene Bancolombia, en Bancolombia se puede ver [El Libro de Órdenes](https://b2broker.com/es/library/what-is-an-order-book-and-how-does-it-work/) gratis (que es útil para tomar decisiones con bots, hacer HFT o para darse cuenta cuando los inyectores de liquidez están encendidos), en Trii hay que pagar para tener acceso a ese libro.  Otra ventaja importante de eTrading es que no cobra comisión sobre dividendos, los retiros son más rápidos, tiene webapp de escritorio y es posible [mover $ de la cuenta de ahorros Bancolombia para allá sin pagar 4xmil](#cómo-ahorrarse-el-4xmil)
 
 ProTip: Para compras menores a 10M, hacer varias de 2M para pagar la mínima comisión.
 
@@ -136,7 +136,7 @@ Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Banc
 2. Decirle al agente que aperture el Fondo de Renta Liquidez.
 3. Solicitar al agente que mueva el dinero desde la cuenta de ahorros Bancolombia hacia e-trading. Este proceso se realiza en dos etapas: primero el dinero pasa al Fondo de Renta Liquidez y luego de ahí a e-trading. La operación completa toma 2 días en total.
 4. Llamar nuevamente y decirle al agente que cancele el Fondo moviendo todo el dinero al disponible de valores Bancolombia. (Recomiendan cancelarlo aunque hay quienes lo dejan con un valor de retención). 
-5. No tiene costos. ([Aprender a usar la plataforma de e-trading](/Finanzas 101 a7afac9cfd494251b3265655b35883a9/2025/03/25/inversion-en-stocks.html))
+5. No tiene costos.
 
 # Instrumentos del Mercado financiero
 
@@ -163,9 +163,12 @@ Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Banc
 
 # ETFs
 
-## Diferencia entre ETFs, Index Found, Mutual Funds
+## Diferencia entre ETFs, Index Funds, Mutual Funds
 
-.
+- **ETFs (Exchange-Traded Funds):** Se negocian en bolsa como acciones, con precios que fluctúan durante el día.
+- **Index Funds:** Fondos que replican un índice específico, generalmente con bajas comisiones.
+- **Mutual Funds:** Fondos de inversión colectiva gestionados activa o pasivamente.
+
 
 ## ETFs domiciliados en USA
 
@@ -192,11 +195,9 @@ Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Banc
 
 # Estrategias de inversión
 
-.
-
 ## Diversificación
 
-.
+Distribuir las inversiones entre diferentes tipos de activos para reducir el riesgo.
 
 # Recursos
 
