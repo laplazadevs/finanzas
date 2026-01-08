@@ -633,23 +633,85 @@ Los bonos convertibles son un tipo de bono que puede ser convertido en acciones 
 
 El apalancamiento es el uso de deuda para financiar inversiones, lo que puede aumentar tanto las ganancias como las pérdidas potenciales.
 
-1. **Pregunta:** ¿Qué riesgos conlleva invertir en bots de trading, especialmente en mercados bajistas?**Respuesta:** Los bots de trading pueden ser herramientas útiles para automatizar estrategias de trading, pero también conllevan riesgos significativos. En mercados bajistas, donde los precios están cayendo, los bots pueden generar pérdidas significativas si no están programados adecuadamente para manejar condiciones de mercado adversas. Además, los bots pueden ser vulnerables a errores de programación y exploits, lo que puede resultar en pérdidas financieras.
+**Pregunta:** 
 
-1. **Pregunta:** ¿Qué preocupaciones se expresan sobre las comisiones de Valores Bancolombia?**Respuesta:** Se menciona que Valores Bancolombia tiene la "manía de cambiar comisiones sin mucho aviso". Esto implica que los inversores deben estar atentos a posibles cambios en las tarifas y comisiones asociadas con sus operaciones en esta plataforma.
+¿Qué riesgos conlleva invertir en bots de trading, especialmente en mercados bajistas?
 
-1. **Pregunta:** ¿Qué preocupaciones existen sobre la estabilidad de las regulaciones tributarias colombianas con respecto a las inversiones?**Respuesta:** Un participante expresa incertidumbre sobre la duración de las ventajas tributarias actuales en el Mercado Global Colombiano (MGC). Señalan que las reformas tributarias frecuentes en Colombia (cada 2 años) podrían cambiar las reglas del juego, lo que genera preocupación sobre la planificación fiscal a largo plazo para los inversores.
+**Respuesta:** 
 
-1. **Pregunta:** ¿Cómo se relaciona el costo fiscal con el impuesto al patrimonio en Colombia?**Respuesta:** Un participante explica cómo el uso del costo fiscal puede ayudar a minimizar el impuesto al patrimonio en Colombia. El impuesto al patrimonio se basa en el valor neto de los activos de una persona. Al usar el costo fiscal original de las inversiones en lugar de su valor de mercado actual, los inversores pueden reducir su patrimonio imponible y, por lo tanto, su obligación tributaria. Se proporciona un ejemplo hipotético: si un inversionista compra acciones por valor de 100,000 pesos y su valor aumenta a 800,000 pesos durante 20 años, el patrimonio del inversionista para fines fiscales seguiría siendo de 100,000 pesos hasta que venda las acciones. Esto demuestra cómo el costo fiscal puede ayudar a diferir el impuesto al patrimonio.
+Los bots de trading pueden ser herramientas útiles para automatizar estrategias de trading, pero también conllevan riesgos significativos. En mercados bajistas, donde los precios están cayendo, los bots pueden generar pérdidas significativas si no están programados adecuadamente para manejar condiciones de mercado adversas. Además, los bots pueden ser vulnerables a errores de programación y exploits, lo que puede resultar en pérdidas financieras.
 
-1. **Pregunta:** ¿Qué se menciona sobre el impuesto al patrimonio en Colombia en relación con la acumulación de acciones?**Respuesta:** Un participante pregunta si el impuesto al patrimonio en Colombia afecta a quienes acumulan acciones, específicamente para patrimonios menores a 1000 millones de pesos.
-2. **Pregunta:** ¿Cómo se puede mantener bajo el impuesto al patrimonio según la discusión?**Respuesta:** Se explica que el impuesto al patrimonio se puede mantener bajo utilizando el costo fiscal de las acciones. Solo al momento de vender las acciones, el costo fiscal se ajusta con el factor de inflación.
-3. **Pregunta:** ¿Qué ejemplo se da para ilustrar cómo funciona el costo fiscal con el impuesto al patrimonio?**Respuesta:** Se da un ejemplo de una inversión de 100 mil pesos que crece a 800 mil pesos en 20 años. El patrimonio a efectos fiscales seguiría siendo de 100 mil pesos hasta que se vendan las acciones.
+**Pregunta:** 
 
-1. **Pregunta:** ¿Qué es "Coast FIRE"?**Respuesta:** "Coast FIRE" es un concepto financiero que implica ahorrar e invertir lo suficiente a una edad temprana para que las inversiones puedan crecer por sí solas, permitiendo a la persona "coasting" hacia la jubilación sin necesidad de seguir contribuyendo activamente.
+¿Qué preocupaciones se expresan sobre las comisiones de Valores Bancolombia?
 
-1. **Pregunta:** ¿Qué es el "travel hacking"?**Respuesta:** El "travel hacking" es una estrategia que implica el uso de tarjetas de crédito para acumular millas y puntos que se pueden canjear por viajes y otros beneficios.
+**Respuesta:** 
 
-1. **Pregunta:** ¿Qué opciones de valoración de acciones está considerando el usuario según el consejo de su contador?**Respuesta:** El contador del usuario presenta dos opciones: 1) Incrementar el costo fiscal anualmente con el reajuste fiscal, lo cual podría aumentar el patrimonio y el impuesto a pagar; 2) Mantener el costo fiscal original y aplicar un factor de actualización antes de vender, lo cual podría mantener el patrimonio bajo.
+Se menciona que Valores Bancolombia tiene la "manía de cambiar comisiones sin mucho aviso". Esto implica que los inversores deben estar atentos a posibles cambios en las tarifas y comisiones asociadas con sus operaciones en esta plataforma.
+
+**Pregunta:** 
+
+¿Qué preocupaciones existen sobre la estabilidad de las regulaciones tributarias colombianas con respecto a las inversiones?
+
+**Respuesta:** 
+
+Un participante expresa incertidumbre sobre la duración de las ventajas tributarias actuales en el Mercado Global Colombiano (MGC). Señalan que las reformas tributarias frecuentes en Colombia (cada 2 años) podrían cambiar las reglas del juego, lo que genera preocupación sobre la planificación fiscal a largo plazo para los inversores.
+
+**Pregunta:** 
+
+¿Cómo se relaciona el costo fiscal con el impuesto al patrimonio en Colombia?
+
+**Respuesta:** 
+
+Un participante explica cómo el uso del costo fiscal puede ayudar a minimizar el impuesto al patrimonio en Colombia. El impuesto al patrimonio se basa en el valor neto de los activos de una persona. Al usar el costo fiscal original de las inversiones en lugar de su valor de mercado actual, los inversores pueden reducir su patrimonio imponible y, por lo tanto, su obligación tributaria. Se proporciona un ejemplo hipotético: si un inversionista compra acciones por valor de 100,000 pesos y su valor aumenta a 800,000 pesos durante 20 años, el patrimonio del inversionista para fines fiscales seguiría siendo de 100,000 pesos hasta que venda las acciones. Esto demuestra cómo el costo fiscal puede ayudar a diferir el impuesto al patrimonio.
+
+**Pregunta:** 
+
+¿Qué se menciona sobre el impuesto al patrimonio en Colombia en relación con la acumulación de acciones?
+
+**Respuesta:** 
+
+Un participante pregunta si el impuesto al patrimonio en Colombia afecta a quienes acumulan acciones, específicamente para patrimonios menores a 1000 millones de pesos.
+
+**Pregunta:** 
+
+¿Cómo se puede mantener bajo el impuesto al patrimonio según la discusión?
+
+**Respuesta:** 
+
+Se explica que el impuesto al patrimonio se puede mantener bajo utilizando el costo fiscal de las acciones. Solo al momento de vender las acciones, el costo fiscal se ajusta con el factor de inflación.
+
+**Pregunta:** 
+
+¿Qué ejemplo se da para ilustrar cómo funciona el costo fiscal con el impuesto al patrimonio?
+
+**Respuesta:** 
+
+Se da un ejemplo de una inversión de 100 mil pesos que crece a 800 mil pesos en 20 años. El patrimonio a efectos fiscales seguiría siendo de 100 mil pesos hasta que se vendan las acciones.
+
+**Pregunta:** 
+
+¿Qué es "Coast FIRE"?
+
+**Respuesta:** 
+
+"Coast FIRE" es un concepto financiero que implica ahorrar e invertir lo suficiente a una edad temprana para que las inversiones puedan crecer por sí solas, permitiendo a la persona "coasting" hacia la jubilación sin necesidad de seguir contribuyendo activamente.
+
+**Pregunta:** 
+
+¿Qué es el "travel hacking"?
+
+**Respuesta:** 
+
+El "travel hacking" es una estrategia que implica el uso de tarjetas de crédito para acumular millas y puntos que se pueden canjear por viajes y otros beneficios.
+
+**Pregunta:** 
+
+¿Qué opciones de valoración de acciones está considerando el usuario según el consejo de su contador?
+
+**Respuesta:** 
+
+El contador del usuario presenta dos opciones: 1) Incrementar el costo fiscal anualmente con el reajuste fiscal, lo cual podría aumentar el patrimonio y el impuesto a pagar; 2) Mantener el costo fiscal original y aplicar un factor de actualización antes de vender, lo cual podría mantener el patrimonio bajo.
 
 Opiniones sobre el Broker XTB
 
