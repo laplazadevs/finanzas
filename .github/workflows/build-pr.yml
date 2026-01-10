@@ -11,10 +11,10 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v5.0.0
+      uses: actions/checkout@v6.0.1
 
     - name: Setup Ruby
-      uses: ruby/setup-ruby@v1.256.0
+      uses: ruby/setup-ruby@v1.280.0
       with:
         ruby-version: '3.4.5'
         bundler-cache: true
@@ -43,7 +43,7 @@ jobs:
         echo "- Site size: $(du -sh _site | cut -f1)"
         
     - name: Upload build artifacts
-      uses: actions/upload-artifact@v4.6.2
+      uses: actions/upload-artifact@v6.0.0
       with:
         name: jekyll-site
         path: _site/
