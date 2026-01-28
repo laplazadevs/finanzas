@@ -1,0 +1,43 @@
+name: Deploy PR Preview
+
+on:
+  pull_request:
+    types: [opened, synchronized, reopened, closed]
+
+concurrency: ci-${{ github.ref }}
+
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1.280.0
+        with:
+          ruby-version: '3.4.5'
+          bundler-cache: true
+
+      - name: Build Jekyll Site
+        if: github.event.action != 'closed'
+        run: |
+          # Calculate the baseurl dynamically based on the PR number
+          # The pattern must match the umbrella-dir configured in the next step
+          BASE_URL="/pr-preview/pr-${{ github.event.number }}"
+          
+          echo "Building with baseurl: $BASE_URL"
+          
+          # Build the site into _site using the dynamic baseurl
+          bundle exec jekyll build --baseurl "$BASE_URL"
+
+      - name: Deploy Preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: _site
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          action: auto
