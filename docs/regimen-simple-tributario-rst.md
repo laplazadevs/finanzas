@@ -26,6 +26,12 @@ Update del RST para los interesados, la inscripción consta de varios pasos que 
 
 Todo esto es papeleo y tramites pero el pago de todo se hace junto en los anticipos bimestrales y cada mes generar la factura(s)
 
+## Cuidado con fintechs de rieles cripto si estás en RST
+
+Muchas fintech para mover dólares ([ARQ/DolarApp]({% link docs/cuentas-bancarias-y-brokers-en-moneda-extranjera.md %}), Littio, Wallbit, etc.) por debajo operan **comprando y vendiendo una stablecoin** (USDC/USDT) para llevar tu dinero de USD a COP. Un punto que salió en el canal: como en RST **no existen gastos, solo ingresos** (ver arriba), cada vez que "vendes" esa stablecoin para retirar podría interpretarse como **enajenación/venta de un activo**, es decir, un ingreso adicional sobre el que tocaría tributar — aun si no hubo ganancia.
+
+No hay consenso claro y depende de cómo se declare; si estás en RST y usas estos rieles, **consúltalo con tu contador** antes de asumir que es neutro. Ver [Transferencias criptomonedas]({% link docs/transferencias-criptomonedas.md %}).
+
 ## Wrap-Up
 
 - Al momento es la mejor opción para tributar. Segundo SAS. Tercero y más caro: Persona natural.

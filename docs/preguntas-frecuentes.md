@@ -110,9 +110,9 @@ XTB es un broker que se menciona como alternativa a IBKR, especialmente para qui
 
 Se debe declarar la ganancia o pérdida por diferencia en tasa de cambio entre la fecha de facturación y la fecha de pago efectivo. Esto puede resultar en un ingreso gravable adicional si el peso se devalúa.
 
-### **¿Qué es DolarApp y cómo se utiliza para transferencias internacionales?**
+### **¿Qué es DolarApp (ahora ARQ) y cómo se utiliza para transferencias internacionales?**
 
-DolarApp es una aplicación que permite comprar y vender dólares. Se puede usar para enviar dinero al exterior con tarifas relativamente bajas (3 USD por transacción). Sin embargo, opera con una stablecoin, lo que puede generar dudas sobre su estatus legal.
+DolarApp —desde marzo de 2026 renombrada **ARQ**— es una aplicación que permite comprar y vender dólares. Se puede usar para enviar dinero al exterior con tarifas relativamente bajas (3 USD por transacción). Sin embargo, opera con una stablecoin (USDC), lo que puede generar dudas sobre su estatus legal y, si estás en RST, sobre el tratamiento tributario de mover fondos. Ver [Cuentas Bancarias y Brokers en Moneda Extranjera]({% link docs/cuentas-bancarias-y-brokers-en-moneda-extranjera.md %}).
 
 ### **¿Cómo funciona el Régimen Simple de Tributación (RST) y quiénes pueden beneficiarse?**
 

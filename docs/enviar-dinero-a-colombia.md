@@ -41,6 +41,8 @@ Se crea la cuenta con los datos bancarios de Colombia Para el código SWIFT, bus
 
 [Transferencias SWIFT]({% link docs/transferencias-swift.md %})
 
+> 🚨 **Ojo con las comisiones de los bancos intermediarios.** Bill.com envía los giros internacionales en USD a través de procesadores externos y **bancos corresponsales** (se han visto rutas por Citibank Europe y Bank of America antes de llegar a Colombia). Cada intermediario puede descontar una comisión fija, así que puedes recibir bastante menos de lo enviado — a un miembro le "desaparecieron" 650 USD en una sola transferencia. Desde Bill.com no controlas esa ruta, así que haz primero una transferencia de prueba pequeña. Ver [¿Por qué recibí menos de lo que me enviaron?]({% link docs/transferencias-swift.md %}).
+
 Si por alguna razón el formulario de la plataforma que usan les pide el código del banco, pueden usar el siguiente link [https://www.banrep.gov.co/es/contenidos/page/c-digo-compensaci-n-le-corresponde-cada-banco](https://www.banrep.gov.co/es/contenidos/page/c-digo-compensaci-n-le-corresponde-cada-banco)
 
 ## Coupa
@@ -120,6 +122,13 @@ Tarda 3-5 días. Además la primera transferencia te dan una tasa de cambio pref
 ## Remitly Express
 
 Algunos minutos
+
+# TapTap Send
+
+App de remesas con buenas tasas (varios en la comunidad la recomiendan para **enviar**). Dos limitaciones a tener en cuenta si eres contractor:
+
+- Según la comunidad, al parecer requiere una **tarjeta débito de un banco en USA** como fuente de fondos (quedó como duda sin confirmar en el hilo).
+- Está orientada a **enviar** dinero (remesas persona a persona), no a **recibir** el pago de tu empleador en una cuenta propia en USA. Si lo que necesitas es recibir, revisa las cuentas y neobancos en [Cuentas Bancarias y Brokers en Moneda Extranjera]({% link docs/cuentas-bancarias-y-brokers-en-moneda-extranjera.md %}).
 
 # WorldRemit
 

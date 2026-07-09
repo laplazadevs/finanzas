@@ -11,6 +11,22 @@ nav_order: 3
 
 SWIFT (legalmente, S.W.I.F.T. SC) acrónimo de Society for Worldwide Interbank Financial Telecommunication (lit., «Sociedad para las Comunicaciones Interbancarias y Financieras Mundiales»), es una sociedad cooperativa internacional de derecho belga propiedad de unos 3500 miembros (todos instituciones financieras) como socios accionistas, que tiene a cargo una red internacional de comunicaciones financieras entre bancos y otras entidades financieras. No obstante, la supervisión de SWIFT recae sobre un consejo formado por los bancos centrales del Grupo de los Diez (Alemania, Bélgica —supervisor principal—, Canadá, Estados Unidos, Francia, Italia, Japón, Países Bajos, Reino Unido, Suecia y Suiza) y el Banco Central Europeo.2
 
+# ¿Por qué recibí menos de lo que me enviaron? (bancos corresponsales)
+
+Una transferencia SWIFT en dólares casi nunca viaja directo del origen al destino. Por regulación, un giro en USD debe pasar por al menos un banco en Estados Unidos, y en la práctica suele encadenar uno o varios **bancos corresponsales (o intermediarios)** —a veces también en Europa— antes de llegar a Colombia. **Cada banco en esa cadena puede descontar una comisión fija** del monto que viaja, así que puedes recibir bastante menos de lo que te enviaron.
+
+Un caso real de la comunidad: a un miembro le enviaron un pago desde una empresa en USA (con captura del envío y todo en orden) y su banco en Colombia recibió **650 USD menos**. Haciendo un poco de "forense" sobre el documento SWIFT, el dinero había pasado por **Citibank Europe** y **Bank of America** antes de aterrizar en Colombia — varios corresponsales, cada uno con su tajada.
+
+Puntos clave para no llevarte sorpresas:
+
+- **No siempre controlas la ruta.** Cuando te pagan a través de un procesador de pagos como **Bill.com**, ellos eligen los corresponsales por ti, así que no puedes optimizar la cadena. Ver [Enviar dinero a Colombia → Bill.com]({% link docs/enviar-dinero-a-colombia.md %}).
+- **Haz una transferencia de prueba pequeña** antes de mover una suma grande, para ver cuánto llega realmente después de comisiones y tasa de cambio.
+- **La nota "convert X USD to Y COP upon receipt" no es garantía:** el banco receptor puede aplicar una conversión distinta a la que figura en el documento SWIFT.
+- **Rutas que reducen o eliminan corresponsales:**
+  - Elegir explícitamente el banco corresponsal correcto de tu banco (ver tablas abajo). Con Davivienda vía **Citibank** e **IBKR** hay reportes de **$0** de comisión de intermediación.
+  - Transferencias **entre filiales del mismo grupo** (ej. Davivienda Panamá → Davivienda Colombia, o Bancolombia Panamá → Bancolombia) **no usan SWIFT** y evitan esos cobros. Ver [Cuentas Bancarias y Brokers en Moneda Extranjera]({% link docs/cuentas-bancarias-y-brokers-en-moneda-extranjera.md %}).
+  - Plataformas con comisión fija y conocida (ej. **Deel**, ~10 USD por el SWIFT) te dan previsibilidad. Ver [Experiencia Deel]({% link docs/experiencia-deel.md %}).
+
 # Códigos SWIFT de Bancos Colombianos
 
 | # | Bank or Institution | City | Branch | Swift Code |
