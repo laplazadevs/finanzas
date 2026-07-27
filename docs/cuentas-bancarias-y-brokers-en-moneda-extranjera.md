@@ -459,7 +459,9 @@ Facebank cobra $15 por recibir, pasar de allí a otro lado cuesta $30
 
 Tiene Zelle
 
-## DollarApp
+## ARQ (antes DolarApp)
+
+> 💡 En marzo de 2026 **DolarApp cambió de marca a ARQ** ([anuncio oficial](https://help.arqfinance.com/en/articles/13897054-meet-our-new-brand-dolarapp-is-now-arq)). Las cuentas, saldos y tarjetas siguen iguales; solo cambió el nombre y la app (web: [arqfinance.com](https://www.arqfinance.com/)). En otras partes de esta wiki todavía puede aparecer como "DolarApp".
 
 Te da una dirección ACH en USA para recibir y enviar dinero, con un costo fijo de 3 USD. Puedes enviar dinero desde Wise, Paypal, Payoneer. DolarApp te cobra $3 por depositar USD en la cuenta. Puedes usarla como intermediaria para enviar a varios bancos en Colombia alli tienen la opción para retiros, no tiene costo y la tasa es esa que muestran allí:
 
@@ -491,6 +493,12 @@ Te da una dirección ACH en USA para recibir y enviar dinero, con un costo fijo 
 - Te cobran 3 USD por recibir el dinero en DolarApp
 - Mandar cualquier cantidad de plata de Wise a DolarApp sale en USD 3.29
 - El cash back es gradual, el máximo es de 3%
+
+### Aprendizajes de la comunidad
+
+- **Envíos a Colombia:** además de los retiros a los bancos listados arriba, según la comunidad ya soporta pagos vía **Bre-B**. Útil si necesitas mover todo a Colombia rápido.
+- **Verificación (KYC) por montos altos:** si ARQ ve entrar y salir sumas importantes de forma mensual, es probable que te pidan documentos de verificación. Un miembro que movió una suma importante reportó que le pidieron soportes y al final todo quedó bien; no te alarmes, pero ten los documentos a mano.
+- **Opera sobre rieles de stablecoin (USDC).** Esto tiene una implicación tributaria si estás en **RST**: mover el dinero comprando/vendiendo la stablecoin podría interpretarse como enajenación de un activo. Ver [Regimen Simple Tributario (RST)]({% link docs/regimen-simple-tributario-rst.md %}) y consúltalo con tu contador.
 
 ## Zenus Bank
 
