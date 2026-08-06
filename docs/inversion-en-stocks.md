@@ -56,7 +56,8 @@ Si decides seguir el camino de la inversión activa leer el de Lynch: [One Up Wa
 
 ## **Plataformas de inversion en USA**
 
-- [TD Ameritrade](https://www.tdameritrade.com/)
+ - [IBKR](https://www.interactivebrokers.com/)
+ - [Schwab (antes TD Ameritrade)](https://www.tdameritrade.com/)
  - [Apuntes sobre como abrir la cuenta siendo residente en el exterior](https://gioyik.com/p/broker-para-noobs-como-yo)
 
 ## **Plataformas de inversion en Canada**
@@ -147,7 +148,7 @@ Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Banc
 - Futures Options
 - Warrants
 - CFDS
-- Mutuals fonds
+- Mutual funds
 - Bonds
 - Commodities
 - Forex
@@ -185,6 +186,11 @@ Cuando se mueven grandes cantidades de dinero desde la cuenta de ahorros de Banc
 
 ## ETFs domiciliados en Irlanda
 
+- VWRA (Mercado total - Vanguard)
+- VUAA (S&P500 - Vanguard)
+- ISAC (Mercado total - Blackrock)
+- CSPX (S&P500 - Blackrock) 
+- IB01 ("Renta fija" - Blackrock)
 - HSUV.U
 
 # Bonos
